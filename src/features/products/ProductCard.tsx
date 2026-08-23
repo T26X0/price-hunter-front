@@ -1,8 +1,18 @@
 import type { Product } from '../../api/types'
 
-const dateFormatter = new Intl.DateTimeFormat('ru-RU', { day: 'numeric', month: 'long', year: 'numeric' })
+const categoryIcons: Record<string, string> = {
+  'Смартфоны': '◖',
+  'Ноутбуки': '▱',
+  'Телевизоры': '▣',
+  'Игровые консоли': '⌁',
+}
 
 export function ProductCard({ product }: { product: Product }) {
-  const createdAt = new Date(product.createdAt)
-  return <article className="product-card"><div className="product-card-head"><span className="sku">{product.sku}</span><time dateTime={product.createdAt}>{Number.isNaN(createdAt.getTime()) ? 'Дата неизвестна' : dateFormatter.format(createdAt)}</time></div><h3>{product.name}</h3>{product.description ? <p>{product.description}</p> : <p className="muted">Описание не добавлено</p>}</article>
+  return <article className="product-card">
+    <div className="product-card-visual" aria-hidden="true"><span>{categoryIcons[product.category] ?? '◇'}</span></div>
+    <div className="product-card-meta"><span>{product.category}</span><span className="product-brand">{product.brand}</span></div>
+    <h3>{product.name}</h3>
+    <p>{product.description?.replace('Демонстрационная запись каталога.', '').trim() || 'Модель доступна для сравнения цен.'}</p>
+    <div className="product-card-footer"><span className="sku">{product.sku}</span><button type="button">Сравнить цены <span aria-hidden="true">→</span></button></div>
+  </article>
 }
