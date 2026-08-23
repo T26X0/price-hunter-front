@@ -1,6 +1,7 @@
 """TEMPORARY mock API for Price Hunter frontend development."""
 
 from datetime import datetime, timezone
+from typing import Optional
 from uuid import UUID, uuid4
 
 from fastapi import FastAPI, HTTPException, status
@@ -11,14 +12,14 @@ from pydantic import BaseModel, Field
 class ProductRequest(BaseModel):
     name: str = Field(min_length=1, max_length=200)
     sku: str = Field(min_length=1, max_length=100)
-    description: str | None = Field(default=None, max_length=2000)
+    description: Optional[str] = Field(default=None, max_length=2000)
 
 
 class ProductResponse(BaseModel):
     id: UUID
     name: str
     sku: str
-    description: str | None
+    description: Optional[str]
     createdAt: datetime
 
 
