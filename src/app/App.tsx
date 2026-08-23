@@ -1,18 +1,32 @@
 import { useEffect, useState } from 'react'
 import { CatalogPage } from '../features/products/CatalogPage'
+import { ProductDetailPage } from '../features/products/ProductDetailPage'
 import { ProductPage } from '../features/products/ProductPage'
+
+type Route =
+  | { page: 'home' }
+  | { page: 'catalog' }
+  | { page: 'product'; sku: string }
+
+function readRoute(): Route {
+  if (window.location.hash === '#catalog') return { page: 'catalog' }
+  if (window.location.hash.startsWith('#product/')) return { page: 'product', sku: decodeURIComponent(window.location.hash.slice('#product/'.length)) }
+  return { page: 'home' }
+}
 
 export function App() {
   const [isDarkTheme, setIsDarkTheme] = useState(false)
-  const [page, setPage] = useState(() => window.location.hash === '#catalog' ? 'catalog' : 'home')
+  const [route, setRoute] = useState<Route>(readRoute)
 
   useEffect(() => {
-    const updatePage = () => setPage(window.location.hash === '#catalog' ? 'catalog' : 'home')
-    window.addEventListener('hashchange', updatePage)
-    return () => window.removeEventListener('hashchange', updatePage)
+    const updateRoute = () => setRoute(readRoute())
+    window.addEventListener('hashchange', updateRoute)
+    return () => window.removeEventListener('hashchange', updateRoute)
   }, [])
 
   const openCatalog = () => { window.location.hash = 'catalog' }
+  const openProduct = (sku: string) => { window.location.hash = `product/${encodeURIComponent(sku)}` }
+  const openHome = () => { window.location.hash = 'home' }
 
   return (
     <div className={`app-shell${isDarkTheme ? ' dark-theme' : ''}`}>
@@ -23,8 +37,8 @@ export function App() {
           <span>PriceHunter</span>
         </a>
         <nav className="main-nav" aria-label="Основная навигация">
-          <a className={`nav-link${page === 'home' ? ' active' : ''}`} href="#home"><span aria-hidden="true">⌂</span>Главная</a>
-          <a className={`nav-link${page === 'catalog' ? ' active' : ''}`} href="#catalog"><span aria-hidden="true">▦</span>Каталог</a>
+          <a className={`nav-link${route.page === 'home' ? ' active' : ''}`} href="#home"><span aria-hidden="true">⌂</span>Главная</a>
+          <a className={`nav-link${route.page === 'catalog' ? ' active' : ''}`} href="#catalog"><span aria-hidden="true">▦</span>Каталог</a>
           <a className="nav-link" href="#compare"><span aria-hidden="true">▥</span>Сравнение</a>
           <a className="nav-link" href="#favorites"><span aria-hidden="true">♡</span>Избранное</a>
           <a className="nav-link" href="#alerts"><span aria-hidden="true">♧</span>Уведомления</a>
@@ -42,7 +56,7 @@ export function App() {
           <span>или <a href="#signup">Создать аккаунт</a></span>
         </section>
       </aside>
-      <main id="home" className={`home-main${page === 'catalog' ? ' catalog-main' : ''}`}>{page === 'catalog' ? <CatalogPage isDarkTheme={isDarkTheme} onToggleTheme={() => setIsDarkTheme((current) => !current)} /> : <ProductPage isDarkTheme={isDarkTheme} onToggleTheme={() => setIsDarkTheme((current) => !current)} onOpenCatalog={openCatalog} />}</main>
+      <main id="home" className={`home-main${route.page === 'catalog' ? ' catalog-main' : ''}`}>{route.page === 'catalog' ? <CatalogPage isDarkTheme={isDarkTheme} onToggleTheme={() => setIsDarkTheme((current) => !current)} /> : route.page === 'product' ? <ProductDetailPage sku={route.sku} isDarkTheme={isDarkTheme} onToggleTheme={() => setIsDarkTheme((current) => !current)} onBack={openHome} /> : <ProductPage isDarkTheme={isDarkTheme} onToggleTheme={() => setIsDarkTheme((current) => !current)} onOpenCatalog={openCatalog} onOpenProduct={openProduct} />}</main>
     </div>
   )
 }

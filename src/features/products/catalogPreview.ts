@@ -18,5 +18,6 @@ export const catalogPreview: Product[] = [
   category,
   brand,
   description: `Популярная модель ${brand} для сравнения цен в магазинах.`,
+  specifications: [],
   createdAt,
 }))

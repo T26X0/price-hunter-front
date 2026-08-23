@@ -5,13 +5,31 @@ export interface Product {
   description: string | null
   category: string
   brand: string
+  specifications: ProductSpecification[]
   createdAt: string
+}
+
+export interface ProductSpecification {
+  label: string
+  value: string
 }
 
 export interface CreateProductRequest {
   name: string
   sku: string
   description?: string
+}
+
+export interface Offer {
+  id: string
+  sku: string
+  name: string
+  brand: string
+  category: string
+  store: string
+  rating: number
+  reviews: number
+  price: number
 }
 
 export interface ApiErrorBody {

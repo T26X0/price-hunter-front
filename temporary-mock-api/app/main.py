@@ -2,6 +2,7 @@
 
 from dataclasses import dataclass
 from datetime import datetime, timezone
+import re
 from typing import Optional
 from uuid import NAMESPACE_URL, UUID, uuid4, uuid5
 
@@ -18,6 +19,11 @@ class ProductRequest(BaseModel):
     brand: Optional[str] = Field(default=None, max_length=100)
 
 
+class ProductSpecification(BaseModel):
+    label: str
+    value: str
+
+
 class ProductResponse(BaseModel):
     id: UUID
     name: str
@@ -25,7 +31,20 @@ class ProductResponse(BaseModel):
     description: Optional[str]
     category: str
     brand: str
+    specifications: list[ProductSpecification]
     createdAt: datetime
+
+
+class OfferResponse(BaseModel):
+    id: UUID
+    sku: str
+    name: str
+    brand: str
+    category: str
+    store: str
+    rating: float
+    reviews: int
+    price: int
 
 
 @dataclass(frozen=True)
@@ -36,6 +55,15 @@ class CatalogSeed:
     sku: str
 
 
+@dataclass(frozen=True)
+class OfferSeed:
+    sku: str
+    store: str
+    rating: float
+    reviews: int
+    price: int
+
+
 app = FastAPI(
     title="TEMPORARY Price Hunter Catalog API",
     description="In-memory catalog for frontend development. Replace with Spring Boot later.",
@@ -44,7 +72,7 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
+    allow_origin_regex=r"^http://(localhost|127\.0\.0\.1):\d+$",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -153,6 +181,26 @@ CATALOG: list[CatalogSeed] = [
 ]
 
 
+PRODUCT_SPECIFICATIONS: dict[str, list[tuple[str, str]]] = {
+    "SAMSUNG-GALAXY-S24": [("Экран", "6.2″ Dynamic AMOLED 2X"), ("Память", "8 ГБ / 128 ГБ"), ("Камера", "50 Мп"), ("Связь", "5G")],
+    "SAMSUNG-GALAXY-S24-ULTRA": [("Экран", "6.8″ Dynamic AMOLED 2X"), ("Память", "12 ГБ / 256 ГБ"), ("Камера", "200 Мп"), ("Стилус", "S Pen")],
+    "XIAOMI-14": [("Экран", "6.36″ AMOLED"), ("Процессор", "Snapdragon 8 Gen 3"), ("Память", "12 ГБ / 256 ГБ"), ("Камера", "Leica 50 Мп")],
+    "APPLE-MACBOOK-AIR-13-M3": [("Экран", "13.6″ Liquid Retina"), ("Чип", "Apple M3"), ("Память", "8 ГБ / 256 ГБ"), ("Вес", "1.24 кг")],
+    "ASUS-ROG-ZEPHYRUS-G14": [("Экран", "14″ OLED, 120 Гц"), ("Процессор", "AMD Ryzen 9"), ("Графика", "NVIDIA GeForce RTX"), ("Память", "16 ГБ")],
+    "SONY-PS5-SLIM": [("Накопитель", "1 ТБ SSD"), ("Разрешение", "4K"), ("Частота", "до 120 Гц"), ("Привод", "Blu-ray")],
+    "LG-OLED-C4": [("Диагональ", "65″"), ("Матрица", "OLED evo"), ("Разрешение", "4K"), ("Частота", "до 144 Гц")],
+}
+
+
+def specifications_for_seed(seed: CatalogSeed) -> list[ProductSpecification]:
+    values = PRODUCT_SPECIFICATIONS.get(seed.sku) or [
+        ("Категория", seed.category),
+        ("Бренд", seed.brand),
+        ("Артикул", seed.sku),
+    ]
+    return [ProductSpecification(label=label, value=value) for label, value in values]
+
+
 def product_from_seed(seed: CatalogSeed) -> ProductResponse:
     return ProductResponse(
         id=uuid5(NAMESPACE_URL, f"price-hunter:{seed.sku}"),
@@ -161,11 +209,53 @@ def product_from_seed(seed: CatalogSeed) -> ProductResponse:
         description=f"{seed.category} {seed.brand}. Демонстрационная запись каталога.",
         category=seed.category,
         brand=seed.brand,
+        specifications=specifications_for_seed(seed),
         createdAt=now(),
     )
 
 
 products: list[ProductResponse] = [product_from_seed(item) for item in CATALOG]
+products_by_sku = {product.sku: product for product in products}
+
+OFFER_CATALOG: list[OfferSeed] = [
+    OfferSeed("SAMSUNG-GALAXY-S24", "М.Видео", 4.8, 112_342, 64_990),
+    OfferSeed("SAMSUNG-GALAXY-S24", "Ситилинк", 4.7, 84_719, 65_490),
+    OfferSeed("SAMSUNG-GALAXY-S24", "Ozon", 4.6, 98_765, 66_990),
+    OfferSeed("SAMSUNG-GALAXY-S24", "Яндекс Маркет", 4.9, 76_401, 67_990),
+    OfferSeed("SAMSUNG-GALAXY-S24-ULTRA", "Яндекс Маркет", 4.9, 76_401, 94_990),
+    OfferSeed("XIAOMI-14", "DNS", 4.7, 91_238, 68_990),
+    OfferSeed("XIAOMI-14", "Ozon", 4.6, 98_765, 69_490),
+    OfferSeed("APPLE-MACBOOK-AIR-13-M3", "restore:", 4.8, 17_942, 119_990),
+    OfferSeed("APPLE-MACBOOK-AIR-13-M3", "DNS", 4.7, 91_238, 121_490),
+    OfferSeed("ASUS-ROG-ZEPHYRUS-G14", "Ситилинк", 4.7, 84_719, 159_990),
+    OfferSeed("SONY-PS5-SLIM", "М.Видео", 4.8, 112_342, 54_990),
+    OfferSeed("SONY-PS5-SLIM", "Ozon", 4.6, 98_765, 56_490),
+    OfferSeed("LG-OLED-C4", "Эльдорадо", 4.7, 64_325, 109_990),
+]
+
+
+def offer_from_seed(seed: OfferSeed) -> OfferResponse:
+    product = products_by_sku[seed.sku]
+    return OfferResponse(
+        id=uuid5(NAMESPACE_URL, f"price-hunter:offer:{seed.sku}:{seed.store}"),
+        sku=product.sku,
+        name=product.name,
+        brand=product.brand,
+        category=product.category,
+        store=seed.store,
+        rating=seed.rating,
+        reviews=seed.reviews,
+        price=seed.price,
+    )
+
+
+offers: list[OfferResponse] = [offer_from_seed(item) for item in OFFER_CATALOG]
+VARIANT_TOKENS = {"plus", "ultra", "fe", "pro", "max"}
+
+
+def search_tokens(value: str) -> list[str]:
+    normalized = re.sub(r"[^\w]+", " ", value.casefold().replace("+", " plus "))
+    return [token for token in normalized.split() if token]
 
 
 @app.get("/health")
@@ -205,6 +295,32 @@ def find_all_products(
     return sorted((product for product in products if matches(product)), key=lambda product: product.name.casefold())
 
 
+@app.get("/api/offers", response_model=list[OfferResponse])
+def find_offers(q: Optional[str] = None, sku: Optional[str] = None) -> list[OfferResponse]:
+    query_tokens = search_tokens(q or "")
+    requested_variants = VARIANT_TOKENS.intersection(query_tokens)
+    selected_sku = sku.strip().upper() if sku else ""
+
+    def matches(offer: OfferResponse) -> bool:
+        offer_tokens = set(search_tokens(f"{offer.name} {offer.brand} {offer.category}"))
+        offer_variants = VARIANT_TOKENS.intersection(offer_tokens)
+        return (
+            all(token in offer_tokens for token in query_tokens)
+            and (not selected_sku or offer.sku == selected_sku)
+            and (not offer_variants or bool(requested_variants))
+        )
+
+    return sorted((offer for offer in offers if matches(offer)), key=lambda offer: offer.price)
+
+
+@app.get("/api/products/{sku}", response_model=ProductResponse)
+def find_product(sku: str) -> ProductResponse:
+    product = products_by_sku.get(sku.strip().upper())
+    if product is None:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Product not found.")
+    return product
+
+
 @app.post(
     "/api/products",
     response_model=ProductResponse,
@@ -225,7 +341,9 @@ def create_product(request: ProductRequest) -> ProductResponse:
         description=request.description.strip() if request.description else None,
         category=request.category.strip() if request.category else "Другое",
         brand=request.brand.strip() if request.brand else "Без бренда",
+        specifications=[],
         createdAt=now(),
     )
     products.append(product)
+    products_by_sku[product.sku] = product
     return product

@@ -19,9 +19,12 @@ The API is available at `http://localhost:8000`.
 
 ## Endpoints
 
-- `GET /api/products` — demo products
+- `GET /api/products` — каталог товаров с фильтрами `q`, `category`, `brand`
+- `GET /api/products/{sku}` — карточка товара с характеристиками
+- `GET /api/offers?q=...` — предложения магазинов для поисковой выдачи
+- `GET /api/offers?sku=...` — все предложения для выбранного товара
 - `POST /api/products` — add an in-memory product
 - `GET /health` — server health check
 - `GET /docs` — interactive API documentation
 
-Edit `app/main.py`, specifically the `products` list, to change the demo JSON returned to the frontend.
+Edit `app/main.py`, specifically `CATALOG` and `OFFER_CATALOG`, to change the development data returned to the frontend.
