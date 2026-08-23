@@ -1,2 +1,38 @@
+import { useState } from 'react'
 import { ProductPage } from '../features/products/ProductPage'
-export function App() { return <div className="app-shell"><header className="topbar"><a className="brand" href="/" aria-label="Price Hunter — главная"><span className="brand-mark" aria-hidden="true">PH</span><span>Price Hunter</span></a><span className="topbar-note">Умный контроль цен</span></header><main><ProductPage /></main><footer>Price Hunter · Каталог для отслеживания выгодных цен</footer></div> }
+
+export function App() {
+  const [isDarkTheme, setIsDarkTheme] = useState(false)
+
+  return (
+    <div className={`app-shell${isDarkTheme ? ' dark-theme' : ''}`}>
+      <aside className="sidebar">
+        <div className="window-controls" aria-hidden="true"><span /><span /><span /></div>
+        <a className="brand" href="/" aria-label="Price Hunter — главная">
+          <span className="brand-mark" aria-hidden="true">PH</span>
+          <span>PriceHunter</span>
+        </a>
+        <nav className="main-nav" aria-label="Основная навигация">
+          <a className="nav-link active" href="#home"><span aria-hidden="true">⌂</span>Главная</a>
+          <a className="nav-link" href="#catalog"><span aria-hidden="true">▦</span>Каталог</a>
+          <a className="nav-link" href="#compare"><span aria-hidden="true">▥</span>Сравнение</a>
+          <a className="nav-link" href="#favorites"><span aria-hidden="true">♡</span>Избранное</a>
+          <a className="nav-link" href="#alerts"><span aria-hidden="true">♧</span>Уведомления</a>
+        </nav>
+        <nav className="secondary-nav" aria-label="Справка">
+          <a className="nav-link" href="mailto:hello@pricehunter.local"><span aria-hidden="true">✉</span>Контакты</a>
+          <a className="nav-link" href="#about"><span aria-hidden="true">ⓘ</span>О нас</a>
+          <a className="nav-link" href="#settings"><span aria-hidden="true">⚙</span>Настройки</a>
+        </nav>
+        <section className="signin-card" aria-label="Отслеживание цен">
+          <span className="spark" aria-hidden="true">✦</span>
+          <strong>Отслеживайте цены</strong>
+          <p>Получайте уведомления, когда цена на товар снизится.</p>
+          <button type="button">Войти</button>
+          <span>или <a href="#signup">Создать аккаунт</a></span>
+        </section>
+      </aside>
+      <main id="home" className="home-main"><ProductPage isDarkTheme={isDarkTheme} onToggleTheme={() => setIsDarkTheme((current) => !current)} /></main>
+    </div>
+  )
+}
