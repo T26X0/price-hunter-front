@@ -1,0 +1,2 @@
+import { ProductPage } from '../features/products/ProductPage'
+export function App() { return <div className="app-shell"><header className="topbar"><a className="brand" href="/" aria-label="Price Hunter — главная"><span className="brand-mark" aria-hidden="true">PH</span><span>Price Hunter</span></a><span className="topbar-note">Умный контроль цен</span></header><main><ProductPage /></main><footer>Price Hunter · Каталог для отслеживания выгодных цен</footer></div> }
