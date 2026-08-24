@@ -21,8 +21,8 @@ The API is available at `http://localhost:8000`.
 
 - `GET /api/products` — каталог товаров с фильтрами `q`, `category`, `brand`
 - `GET /api/products/{sku}` — карточка товара с характеристиками
-- `GET /api/offers?q=...` — предложения магазинов для поисковой выдачи
-- `GET /api/offers?sku=...` — все предложения для выбранного товара
+- `GET /api/offers?q=...&city=...` — предложения магазинов для поисковой выдачи; параметр `city` меняет региональные цены в демонстрационных данных
+- `GET /api/offers?sku=...&city=...` — все предложения для выбранного товара с учётом города
 - `POST /api/products` — add an in-memory product
 - `GET /health` — server health check
 - `GET /docs` — interactive API documentation

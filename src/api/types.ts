@@ -26,10 +26,12 @@ export interface Offer {
   name: string
   brand: string
   category: string
+  variant: string
   store: string
   rating: number
   reviews: number
   price: number
+  url: string
 }
 
 export interface ApiErrorBody {

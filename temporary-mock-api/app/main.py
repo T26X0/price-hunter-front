@@ -4,6 +4,7 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 import re
 from typing import Optional
+from urllib.parse import quote_plus
 from uuid import NAMESPACE_URL, UUID, uuid4, uuid5
 
 from fastapi import FastAPI, HTTPException, status
@@ -41,10 +42,12 @@ class OfferResponse(BaseModel):
     name: str
     brand: str
     category: str
+    variant: str
     store: str
     rating: float
     reviews: int
     price: int
+    url: str
 
 
 @dataclass(frozen=True)
@@ -62,6 +65,7 @@ class OfferSeed:
     rating: float
     reviews: int
     price: int
+    variant: str = "Базовая комплектация"
 
 
 app = FastAPI(
@@ -183,7 +187,7 @@ CATALOG: list[CatalogSeed] = [
 
 PRODUCT_SPECIFICATIONS: dict[str, list[tuple[str, str]]] = {
     "SAMSUNG-GALAXY-S24": [("Экран", "6.2″ Dynamic AMOLED 2X"), ("Память", "8 ГБ / 128 ГБ"), ("Камера", "50 Мп"), ("Связь", "5G")],
-    "SAMSUNG-GALAXY-S24-ULTRA": [("Экран", "6.8″ Dynamic AMOLED 2X"), ("Память", "12 ГБ / 256 ГБ"), ("Камера", "200 Мп"), ("Стилус", "S Pen")],
+    "SAMSUNG-GALAXY-S24-ULTRA": [("Экран", "6.8″ Dynamic AMOLED 2X"), ("Память", "12 ГБ / 256 ГБ"), ("Камера", "200 Мп"), ("Связь", "5G"), ("Стилус", "S Pen")],
     "XIAOMI-14": [("Экран", "6.36″ AMOLED"), ("Процессор", "Snapdragon 8 Gen 3"), ("Память", "12 ГБ / 256 ГБ"), ("Камера", "Leica 50 Мп")],
     "APPLE-MACBOOK-AIR-13-M3": [("Экран", "13.6″ Liquid Retina"), ("Чип", "Apple M3"), ("Память", "8 ГБ / 256 ГБ"), ("Вес", "1.24 кг")],
     "ASUS-ROG-ZEPHYRUS-G14": [("Экран", "14″ OLED, 120 Гц"), ("Процессор", "AMD Ryzen 9"), ("Графика", "NVIDIA GeForce RTX"), ("Память", "16 ГБ")],
@@ -218,11 +222,11 @@ products: list[ProductResponse] = [product_from_seed(item) for item in CATALOG]
 products_by_sku = {product.sku: product for product in products}
 
 OFFER_CATALOG: list[OfferSeed] = [
-    OfferSeed("SAMSUNG-GALAXY-S24", "М.Видео", 4.8, 112_342, 64_990),
-    OfferSeed("SAMSUNG-GALAXY-S24", "Ситилинк", 4.7, 84_719, 65_490),
-    OfferSeed("SAMSUNG-GALAXY-S24", "Ozon", 4.6, 98_765, 66_990),
-    OfferSeed("SAMSUNG-GALAXY-S24", "Яндекс Маркет", 4.9, 76_401, 67_990),
-    OfferSeed("SAMSUNG-GALAXY-S24-ULTRA", "Яндекс Маркет", 4.9, 76_401, 94_990),
+    OfferSeed("SAMSUNG-GALAXY-S24", "М.Видео", 4.8, 112_342, 64_990, "8 ГБ / 128 ГБ · Onyx Black"),
+    OfferSeed("SAMSUNG-GALAXY-S24", "Ситилинк", 4.7, 84_719, 65_490, "8 ГБ / 128 ГБ · Onyx Black"),
+    OfferSeed("SAMSUNG-GALAXY-S24", "Ozon", 4.6, 98_765, 66_990, "8 ГБ / 256 ГБ · Marble Gray"),
+    OfferSeed("SAMSUNG-GALAXY-S24", "Яндекс Маркет", 4.9, 76_401, 67_990, "8 ГБ / 256 ГБ · Amber Yellow"),
+    OfferSeed("SAMSUNG-GALAXY-S24-ULTRA", "Яндекс Маркет", 4.9, 76_401, 94_990, "12 ГБ / 256 ГБ · Titanium Gray"),
     OfferSeed("XIAOMI-14", "DNS", 4.7, 91_238, 68_990),
     OfferSeed("XIAOMI-14", "Ozon", 4.6, 98_765, 69_490),
     OfferSeed("APPLE-MACBOOK-AIR-13-M3", "restore:", 4.8, 17_942, 119_990),
@@ -233,6 +237,20 @@ OFFER_CATALOG: list[OfferSeed] = [
     OfferSeed("LG-OLED-C4", "Эльдорадо", 4.7, 64_325, 109_990),
 ]
 
+STORE_SEARCH_URLS = {
+    "М.Видео": "https://www.mvideo.ru/product-list-page?q=",
+    "Ситилинк": "https://www.citilink.ru/search/?text=",
+    "Ozon": "https://www.ozon.ru/search/?text=",
+    "Яндекс Маркет": "https://market.yandex.ru/search?text=",
+    "DNS": "https://www.dns-shop.ru/search/?q=",
+    "restore:": "https://re-store.ru/search/?q=",
+    "Эльдорадо": "https://www.eldorado.ru/search/catalog.php?q=",
+}
+
+
+def offer_url(store: str, product_name: str) -> str:
+    return f"{STORE_SEARCH_URLS.get(store, 'https://www.google.com/search?q=')}{quote_plus(product_name)}"
+
 
 def offer_from_seed(seed: OfferSeed) -> OfferResponse:
     product = products_by_sku[seed.sku]
@@ -242,14 +260,128 @@ def offer_from_seed(seed: OfferSeed) -> OfferResponse:
         name=product.name,
         brand=product.brand,
         category=product.category,
+        variant=seed.variant,
         store=seed.store,
         rating=seed.rating,
         reviews=seed.reviews,
         price=seed.price,
+        url=offer_url(seed.store, product.name),
     )
 
 
+STORE_RATINGS = {
+    "М.Видео": (4.8, 112_342),
+    "Ситилинк": (4.7, 84_719),
+    "Ozon": (4.6, 98_765),
+    "Яндекс Маркет": (4.9, 76_401),
+    "DNS": (4.7, 91_238),
+    "restore:": (4.8, 17_942),
+    "Эльдорадо": (4.7, 64_325),
+}
+
+STORES_BY_CATEGORY = {
+    "Смартфоны": ["М.Видео", "Ситилинк", "Ozon", "Яндекс Маркет"],
+    "Ноутбуки": ["Ситилинк", "DNS", "Ozon"],
+    "Телевизоры": ["М.Видео", "Эльдорадо", "Яндекс Маркет"],
+    "Игровые консоли": ["М.Видео", "Ozon", "DNS"],
+}
+
+STORE_PRICE_OFFSETS = {
+    "М.Видео": 0,
+    "Ситилинк": 500,
+    "Ozon": 1_000,
+    "Яндекс Маркет": 1_500,
+    "DNS": 700,
+    "restore:": 0,
+    "Эльдорадо": 900,
+}
+
+
+def estimated_price(product: ProductResponse) -> int:
+    base_prices = {
+        "Смартфоны": 69_990,
+        "Ноутбуки": 119_990,
+        "Телевизоры": 99_990,
+        "Игровые консоли": 54_990,
+    }
+    base_price = base_prices.get(product.category, 49_990)
+    name = product.name.casefold()
+    if "ultra" in name or "pro" in name:
+        base_price += 25_000
+    return base_price + (sum(map(ord, product.sku)) % 10) * 1_000
+
+
+def product_variant(product: ProductResponse) -> str:
+    memory = next((specification.value for specification in product.specifications if specification.label == "Память"), None)
+    return memory or "Базовая комплектация"
+
+
+def generated_offer(product: ProductResponse, store: str, base_price: int) -> OfferResponse:
+    rating, reviews = STORE_RATINGS[store]
+    return OfferResponse(
+        id=uuid5(NAMESPACE_URL, f"price-hunter:generated-offer:{product.sku}:{store}"),
+        sku=product.sku,
+        name=product.name,
+        brand=product.brand,
+        category=product.category,
+        variant=product_variant(product),
+        store=store,
+        rating=rating,
+        reviews=reviews,
+        price=base_price + STORE_PRICE_OFFSETS[store],
+        url=offer_url(store, product.name),
+    )
+
+
+# A model can have a few hand-tuned offers above. For all other catalog items we
+# create the same representative set of store offers, so every catalog card
+# leads to a useful product page during frontend development.
 offers: list[OfferResponse] = [offer_from_seed(item) for item in OFFER_CATALOG]
+for product in products:
+    product_offers = [offer for offer in offers if offer.sku == product.sku]
+    existing_stores = {offer.store for offer in product_offers}
+    base_price = min((offer.price for offer in product_offers), default=estimated_price(product))
+    for store in STORES_BY_CATEGORY.get(product.category, ["Ozon", "Яндекс Маркет"]):
+        if store not in existing_stores:
+            offers.append(generated_offer(product, store, base_price))
+
+
+CITY_PRICE_ADJUSTMENTS = {
+    "москва": 1_600,
+    "санкт петербург": 1_000,
+    "екатеринбург": -500,
+    "казань": -700,
+    "новосибирск": 800,
+    "краснодар": -300,
+}
+
+
+def city_price_adjustment(city: str, store: str) -> int:
+    normalized_city = re.sub(r"[^\w]+", " ", city.casefold()).strip()
+    city_adjustment = CITY_PRICE_ADJUSTMENTS.get(normalized_city, 0)
+    # Different logistics and local promos mean stores do not all move by the
+    # same amount. The deterministic adjustment keeps the temporary API stable.
+    store_adjustment = ((sum(map(ord, normalized_city + store.casefold())) % 7) - 3) * 150
+    return city_adjustment + store_adjustment
+
+
+def regional_offer(offer: OfferResponse, city: str) -> OfferResponse:
+    city_name = city.strip()
+    if not city_name:
+        return offer
+    return OfferResponse(
+        id=offer.id,
+        sku=offer.sku,
+        name=offer.name,
+        brand=offer.brand,
+        category=offer.category,
+        variant=offer.variant,
+        store=offer.store,
+        rating=offer.rating,
+        reviews=offer.reviews,
+        price=max(1_000, offer.price + city_price_adjustment(city_name, offer.store)),
+        url=offer.url,
+    )
 VARIANT_TOKENS = {"plus", "ultra", "fe", "pro", "max"}
 
 
@@ -296,7 +428,7 @@ def find_all_products(
 
 
 @app.get("/api/offers", response_model=list[OfferResponse])
-def find_offers(q: Optional[str] = None, sku: Optional[str] = None) -> list[OfferResponse]:
+def find_offers(q: Optional[str] = None, sku: Optional[str] = None, city: Optional[str] = None) -> list[OfferResponse]:
     query_tokens = search_tokens(q or "")
     requested_variants = VARIANT_TOKENS.intersection(query_tokens)
     selected_sku = sku.strip().upper() if sku else ""
@@ -307,10 +439,12 @@ def find_offers(q: Optional[str] = None, sku: Optional[str] = None) -> list[Offe
         return (
             all(token in offer_tokens for token in query_tokens)
             and (not selected_sku or offer.sku == selected_sku)
-            and (not offer_variants or bool(requested_variants))
+            # A product page requests offers by an exact SKU. In that case a
+            # model modifier such as Pro or Ultra must not hide its own offers.
+            and (not offer_variants or bool(requested_variants) or bool(selected_sku))
         )
 
-    return sorted((offer for offer in offers if matches(offer)), key=lambda offer: offer.price)
+    return sorted((regional_offer(offer, city or "") for offer in offers if matches(offer)), key=lambda offer: offer.price)
 
 
 @app.get("/api/products/{sku}", response_model=ProductResponse)
