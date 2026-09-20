@@ -16,8 +16,8 @@ interface ComparisonPageProps {
 const formatNumber = new Intl.NumberFormat('ru-RU')
 
 const comparisonOfferPreview: Offer[] = [
-  { id: 'comparison-offer-s24', sku: 'SAMSUNG-GALAXY-S24', name: 'Samsung Galaxy S24', brand: 'Samsung', category: 'Смартфоны', variant: '8 ГБ / 128 ГБ', store: 'М.Видео', rating: 4.8, reviews: 112342, price: 64990, url: 'https://www.mvideo.ru/product-list-page?q=Samsung+Galaxy+S24' },
-  { id: 'comparison-offer-s24-ultra', sku: 'SAMSUNG-GALAXY-S24-ULTRA', name: 'Samsung Galaxy S24 Ultra', brand: 'Samsung', category: 'Смартфоны', variant: '12 ГБ / 256 ГБ', store: 'Яндекс Маркет', rating: 4.9, reviews: 76401, price: 94990, url: 'https://market.yandex.ru/search?text=Samsung+Galaxy+S24+Ultra' },
+  { id: 'comparison-offer-s24', sku: 'SAMSUNG-GALAXY-S24', name: 'Samsung Galaxy S24', brand: 'Samsung', category: 'Смартфоны', variant: '8 ГБ / 128 ГБ', store: 'М.Видео', rating: 4.8, reviews: 112342, price: 64990, delivery: 'Сегодня', inStock: true, url: 'https://www.mvideo.ru/product-list-page?q=Samsung+Galaxy+S24' },
+  { id: 'comparison-offer-s24-ultra', sku: 'SAMSUNG-GALAXY-S24-ULTRA', name: 'Samsung Galaxy S24 Ultra', brand: 'Samsung', category: 'Смартфоны', variant: '12 ГБ / 256 ГБ', store: 'Яндекс Маркет', rating: 4.9, reviews: 76401, price: 94990, delivery: '2–3 дня', inStock: true, url: 'https://market.yandex.ru/search?text=Samsung+Galaxy+S24+Ultra' },
 ]
 
 const comparisonPreview: Product[] = [

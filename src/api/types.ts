@@ -31,7 +31,14 @@ export interface Offer {
   rating: number
   reviews: number
   price: number
+  delivery: string
+  inStock: boolean
   url: string
+}
+
+export interface PriceHistoryPoint {
+  date: string
+  price: number
 }
 
 export interface ApiErrorBody {

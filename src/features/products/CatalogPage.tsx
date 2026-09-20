@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import { getProducts } from '../../api/products'
 import { catalogPreview } from './catalogPreview'
@@ -12,6 +12,24 @@ const categoryCards: Array<{ category: string; text: string; illustration: Categ
   { category: 'Телевизоры', text: 'Кино, спорт и консоли', illustration: 'tv' },
   { category: 'Игровые консоли', text: 'Для побед и развлечений', illustration: 'console' },
 ]
+const catalogFiltersStorageKey = 'price-hunter-catalog-filters'
+
+type CatalogFilters = {
+  query: string
+  category: string
+  brand: string
+}
+
+function readCatalogFilters(): CatalogFilters {
+  try {
+    const value = JSON.parse(window.sessionStorage.getItem(catalogFiltersStorageKey) || 'null')
+    if (value && typeof value.query === 'string' && typeof value.category === 'string' && typeof value.brand === 'string') return value
+  } catch {
+    // The catalog remains usable if the browser has an invalid saved value.
+  }
+
+  return { query: '', category: 'Все категории', brand: 'Все бренды' }
+}
 
 function CategorySignal({ type }: { type: CategoryIllustration }) {
   if (type === 'phone') return <svg className="category-showcase-icon" viewBox="0 0 100 100" aria-hidden="true"><rect x="31" y="10" width="40" height="80" rx="8" /><line x1="46" y1="78" x2="56" y2="78" /></svg>
@@ -30,9 +48,10 @@ interface CatalogPageProps {
 
 export function CatalogPage({ isDarkTheme, onToggleTheme, comparisonSkus, onToggleComparison, onOpenProduct }: CatalogPageProps) {
   const productsQuery = useQuery({ queryKey: ['products'], queryFn: getProducts })
-  const [query, setQuery] = useState('')
-  const [selectedCategory, setSelectedCategory] = useState('Все категории')
-  const [selectedBrand, setSelectedBrand] = useState('Все бренды')
+  const initialFilters = readCatalogFilters()
+  const [query, setQuery] = useState(initialFilters.query)
+  const [selectedCategory, setSelectedCategory] = useState(initialFilters.category)
+  const [selectedBrand, setSelectedBrand] = useState(initialFilters.brand)
   const products = productsQuery.data?.length ? productsQuery.data : catalogPreview
   const categories = useMemo(() => ['Все категории', ...new Set(products.map((product) => product.category))], [products])
   const brands = useMemo(() => ['Все бренды', ...new Set(products.map((product) => product.brand))], [products])
@@ -45,6 +64,10 @@ export function CatalogPage({ isDarkTheme, onToggleTheme, comparisonSkus, onTogg
   }, [products, query, selectedCategory, selectedBrand])
 
   const resetFilters = () => { setQuery(''); setSelectedCategory('Все категории'); setSelectedBrand('Все бренды') }
+
+  useEffect(() => {
+    window.sessionStorage.setItem(catalogFiltersStorageKey, JSON.stringify({ query, category: selectedCategory, brand: selectedBrand }))
+  }, [query, selectedBrand, selectedCategory])
 
   return <section className="catalog-page" aria-labelledby="catalog-title">
     <button className="theme-button catalog-theme-button" type="button" aria-label={isDarkTheme ? 'Включить светлую тему' : 'Включить тёмную тему'} aria-pressed={isDarkTheme} onClick={onToggleTheme}>{isDarkTheme ? '☀' : '☾'}</button>

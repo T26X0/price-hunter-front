@@ -1,7 +1,7 @@
 """Temporary catalog API used while the Spring Boot backend is being developed."""
 
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 import re
 from typing import Optional
 from urllib.parse import quote_plus
@@ -47,7 +47,14 @@ class OfferResponse(BaseModel):
     rating: float
     reviews: int
     price: int
+    delivery: str
+    inStock: bool
     url: str
+
+
+class PriceHistoryPoint(BaseModel):
+    date: str
+    price: int
 
 
 @dataclass(frozen=True)
@@ -66,6 +73,8 @@ class OfferSeed:
     reviews: int
     price: int
     variant: str = "Базовая комплектация"
+    delivery: str = "Завтра"
+    in_stock: bool = True
 
 
 app = FastAPI(
@@ -222,10 +231,10 @@ products: list[ProductResponse] = [product_from_seed(item) for item in CATALOG]
 products_by_sku = {product.sku: product for product in products}
 
 OFFER_CATALOG: list[OfferSeed] = [
-    OfferSeed("SAMSUNG-GALAXY-S24", "М.Видео", 4.8, 112_342, 64_990, "8 ГБ / 128 ГБ · Onyx Black"),
-    OfferSeed("SAMSUNG-GALAXY-S24", "Ситилинк", 4.7, 84_719, 65_490, "8 ГБ / 128 ГБ · Onyx Black"),
-    OfferSeed("SAMSUNG-GALAXY-S24", "Ozon", 4.6, 98_765, 66_990, "8 ГБ / 256 ГБ · Marble Gray"),
-    OfferSeed("SAMSUNG-GALAXY-S24", "Яндекс Маркет", 4.9, 76_401, 67_990, "8 ГБ / 256 ГБ · Amber Yellow"),
+    OfferSeed("SAMSUNG-GALAXY-S24", "М.Видео", 4.8, 112_342, 64_990, "8 ГБ / 128 ГБ · Onyx Black", "Сегодня"),
+    OfferSeed("SAMSUNG-GALAXY-S24", "Ситилинк", 4.7, 84_719, 65_490, "8 ГБ / 128 ГБ · Onyx Black", "Завтра"),
+    OfferSeed("SAMSUNG-GALAXY-S24", "Ozon", 4.6, 98_765, 66_990, "8 ГБ / 256 ГБ · Marble Gray", "Завтра"),
+    OfferSeed("SAMSUNG-GALAXY-S24", "Яндекс Маркет", 4.9, 76_401, 67_990, "8 ГБ / 256 ГБ · Amber Yellow", "2–3 дня", False),
     OfferSeed("SAMSUNG-GALAXY-S24-ULTRA", "Яндекс Маркет", 4.9, 76_401, 94_990, "12 ГБ / 256 ГБ · Titanium Gray"),
     OfferSeed("XIAOMI-14", "DNS", 4.7, 91_238, 68_990),
     OfferSeed("XIAOMI-14", "Ozon", 4.6, 98_765, 69_490),
@@ -265,6 +274,8 @@ def offer_from_seed(seed: OfferSeed) -> OfferResponse:
         rating=seed.rating,
         reviews=seed.reviews,
         price=seed.price,
+        delivery=seed.delivery,
+        inStock=seed.in_stock,
         url=offer_url(seed.store, product.name),
     )
 
@@ -294,6 +305,16 @@ STORE_PRICE_OFFSETS = {
     "DNS": 700,
     "restore:": 0,
     "Эльдорадо": 900,
+}
+
+STORE_DELIVERY = {
+    "М.Видео": "Сегодня",
+    "Ситилинк": "Завтра",
+    "Ozon": "Завтра",
+    "Яндекс Маркет": "2–3 дня",
+    "DNS": "Завтра",
+    "restore:": "Сегодня",
+    "Эльдорадо": "Завтра",
 }
 
 
@@ -329,6 +350,8 @@ def generated_offer(product: ProductResponse, store: str, base_price: int) -> Of
         rating=rating,
         reviews=reviews,
         price=base_price + STORE_PRICE_OFFSETS[store],
+        delivery=STORE_DELIVERY.get(store, "Завтра"),
+        inStock=(sum(map(ord, product.sku + store)) % 5) != 0,
         url=offer_url(store, product.name),
     )
 
@@ -380,14 +403,46 @@ def regional_offer(offer: OfferResponse, city: str) -> OfferResponse:
         rating=offer.rating,
         reviews=offer.reviews,
         price=max(1_000, offer.price + city_price_adjustment(city_name, offer.store)),
+        delivery=offer.delivery,
+        inStock=offer.inStock,
         url=offer.url,
     )
 VARIANT_TOKENS = {"plus", "ultra", "fe", "pro", "max"}
 
+# The catalog keeps official model names in Latin characters, while people
+# commonly type their Russian names. These aliases belong to the temporary
+# development API; the production backend will eventually use its own search
+# index and synonym dictionary.
+SEARCH_ALIASES = {
+    "айфон": "iphone",
+    "айфоны": "iphone",
+    "самсунг": "samsung",
+    "сяоми": "xiaomi",
+    "ксиаоми": "xiaomi",
+    "шаоми": "xiaomi",
+    "сони": "sony",
+    "пс": "playstation",
+    "плейстейшен": "playstation",
+    "плейстейшн": "playstation",
+    "асус": "asus",
+    "макбук": "macbook",
+    "галакси": "galaxy",
+    "пиксель": "pixel",
+    "ультра": "ultra",
+    "про": "pro",
+    "макс": "max",
+    "плюс": "plus",
+    "с24": "s24",
+    "с23": "s23",
+    "с22": "s22",
+}
+
 
 def search_tokens(value: str) -> list[str]:
-    normalized = re.sub(r"[^\w]+", " ", value.casefold().replace("+", " plus "))
-    return [token for token in normalized.split() if token]
+    normalized = value.casefold().replace("+", " plus ")
+    normalized = re.sub(r"плей\s+стейш(?:е|э)н", "playstation", normalized)
+    normalized = re.sub(r"[^\w]+", " ", normalized)
+    return [SEARCH_ALIASES.get(token, token) for token in normalized.split() if token]
 
 
 @app.get("/health")
@@ -410,16 +465,16 @@ def find_all_products(
     category: Optional[str] = None,
     brand: Optional[str] = None,
 ) -> list[ProductResponse]:
-    query = q.strip().casefold() if q else ""
+    query_tokens = search_tokens(q or "")
     selected_category = category.strip().casefold() if category else ""
     selected_brand = brand.strip().casefold() if brand else ""
 
     def matches(product: ProductResponse) -> bool:
-        searchable = " ".join(
-            [product.name, product.sku, product.category, product.brand, product.description or ""]
-        ).casefold()
+        product_tokens = set(
+            search_tokens(" ".join([product.name, product.sku, product.category, product.brand, product.description or ""]))
+        )
         return (
-            (not query or query in searchable)
+            (not query_tokens or all(token in product_tokens for token in query_tokens))
             and (not selected_category or product.category.casefold() == selected_category)
             and (not selected_brand or product.brand.casefold() == selected_brand)
         )
@@ -445,6 +500,29 @@ def find_offers(q: Optional[str] = None, sku: Optional[str] = None, city: Option
         )
 
     return sorted((regional_offer(offer, city or "") for offer in offers if matches(offer)), key=lambda offer: offer.price)
+
+
+@app.get("/api/price-history", response_model=list[PriceHistoryPoint])
+def price_history(sku: str, city: Optional[str] = None) -> list[PriceHistoryPoint]:
+    selected_sku = sku.strip().upper()
+    if selected_sku not in products_by_sku:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Product not found.")
+
+    current_offers = [regional_offer(offer, city or "") for offer in offers if offer.sku == selected_sku]
+    if not current_offers:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Offers not found.")
+
+    current_price = min(offer.price for offer in current_offers)
+    historical_adjustments = [5_500, 4_300, 4_800, 3_100, 3_600, 1_900, 750, 0]
+    product_adjustment = (sum(map(ord, selected_sku)) % 6) * 120
+    today = now().date()
+    return [
+        PriceHistoryPoint(
+            date=(today - timedelta(days=28 - index * 4)).isoformat(),
+            price=current_price + adjustment + product_adjustment,
+        )
+        for index, adjustment in enumerate(historical_adjustments)
+    ]
 
 
 @app.get("/api/products/{sku}", response_model=ProductResponse)
