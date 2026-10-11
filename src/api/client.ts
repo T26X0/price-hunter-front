@@ -1,9 +1,12 @@
 import type { ApiErrorBody } from './types'
 
-// The temporary Python API is the default for local frontend development.
-// Switch to Spring Boot later with VITE_API_BASE_URL=http://localhost:8080/api.
+// The legacy mock API stays available only for isolated local experiments.
 const apiBaseUrl = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000/api'
-const backendBaseUrl = (import.meta.env.VITE_BACKEND_API_BASE_URL || 'http://localhost:8080').replace(/\/$/, '')
+// In production the application and its API are served by the same host. This
+// removes a CORS dependency and keeps the deployed frontend pointed at the
+// currently opened Price Hunter instance. Local developers can still override
+// the value with VITE_BACKEND_API_BASE_URL.
+const backendBaseUrl = (import.meta.env.VITE_BACKEND_API_BASE_URL || window.location.origin).replace(/\/$/, '')
 export class ApiError extends Error {
   constructor(message: string, public readonly status: number, public readonly fields: Record<string, string> = {}) { super(message); this.name = 'ApiError' }
 }
