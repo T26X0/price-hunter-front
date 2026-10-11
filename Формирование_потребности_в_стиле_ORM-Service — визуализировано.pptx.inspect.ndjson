@@ -1,0 +1,477 @@
+{"kind":"deck","id":"pr/sfx9hr","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textShapes":5}
+{"kind":"shape","id":"sh/1cvuxc7e","slide":1,"name":"Прямоугольник 19","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/547294r6","slide":1,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/k3yl0zql","slide":1,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/7qp4be9c","slide":1,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/65g3298r","slide":1,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/ts7md4r2","slide":1,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/sryl4zqx","slide":1,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/fu94fe98","slide":1,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/utg3698n","slide":1,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/wn6dc7eh","slide":1,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/hofulsf2","slide":1,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/ul4vaxgb","slide":1,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/vmdcj2xw","slide":1,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/4r6dg7et","slide":1,"name":"Прямоугольник 13","text":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textPreview":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textChars":22,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/5sfepcfe","slide":1,"name":"Прямоугольник 14","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/ipovexwn","slide":1,"name":"Прямоугольник 15","text":"ФОРМИРОВАНИЕ\nПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ | ПОТРЕБНОСТИ","textChars":24,"textLines":2,"bbox":[52,215,850,190]}
+{"kind":"textbox","id":"sh/3qxwn2x8","slide":1,"name":"Прямоугольник 16","text":"Модуль «Управление профилем»","textPreview":"Модуль «Управление профилем»","textChars":28,"textLines":1,"bbox":[55,438,640,44]}
+{"kind":"shape","id":"sh/sfqdkrep","slide":1,"name":"Прямоугольник 17","bbox":[55,525,500,5]}
+{"kind":"textbox","id":"sh/dgzetcfa","slide":1,"name":"Прямоугольник 18","text":"Факты → последствия → готовность решать","textPreview":"Факты → последствия → готовность решать","textChars":39,"textLines":1,"bbox":[55,552,700,42]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":8}
+{"kind":"shape","id":"sh/hcvy14ne","slide":2,"name":"Прямоугольник 23","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/9072xkry","slide":2,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/ozy1ofad","slide":2,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/b29kza94","slide":2,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/a10jqpsj","slide":2,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/x4r21kru","slide":2,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/r65knqtk","slide":2,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/q5wjelsz","slide":2,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/ove9o7yd","slide":2,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/9wnqhczy","slide":2,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/mtwrmxg7","slide":2,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/nu58f2hs","slide":2,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"Прямоугольник 14","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"Прямоугольник 15","text":"ЧТО И КАК БУДЕТ ПРОИСХОДИТЬ","textPreview":"ЧТО И КАК БУДЕТ ПРОИСХОДИТЬ","textChars":27,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/bip8jmho","slide":2,"name":"Прямоугольник 16","bbox":[55,205,550,360]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"Прямоугольник 17","text":"ПЛАН ВСТРЕЧИ","textPreview":"ПЛАН ВСТРЕЧИ","textChars":12,"textLines":1,"bbox":[77,223,506,36]}
+{"kind":"textbox","id":"sh/do3q9szq","slide":2,"name":"Прямоугольник 18","text":"Сейчас расскажу, что такое потребность; разберём алгоритм формирования потребности и примеры формулировок; разберём запись по формированию потребности; затем отыграем ролевую игру.","textPreview":"Сейчас расскажу, что такое потребность; разберём алгоритм формирования потребности и примеры формулировок; разберём запись по формировани...","textChars":180,"textLines":1,"bbox":[77,267,506,282]}
+{"kind":"shape","id":"sh/t8byxkn2","slide":2,"name":"Прямоугольник 19","bbox":[630,205,570,360]}
+{"kind":"textbox","id":"sh/s72xofmh","slide":2,"name":"Прямоугольник 20","text":"ЧТО ЖДУ ОТ ТЕБЯ","textPreview":"ЧТО ЖДУ ОТ ТЕБЯ","textChars":15,"textLines":1,"bbox":[652,223,526,36]}
+{"kind":"textbox","id":"sh/76twva5c","slide":2,"name":"Прямоугольник 21","text":"Максимальной вовлеченности. Если что-то непонятно — задавай вопросы и записывай в тетрадь.","textPreview":"Максимальной вовлеченности. Если что-то непонятно — задавай вопросы и записывай в тетрадь.","textChars":90,"textLines":1,"bbox":[652,267,526,282]}
+{"kind":"textbox","id":"sh/65kfmpor","slide":2,"name":"Прямоугольник 22","text":"Есть вопросы? Готов начать?","textPreview":"Есть вопросы? Готов начать?","textChars":27,"textLines":1,"bbox":[60,605,1100,45]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":8}
+{"kind":"shape","id":"sh/6d0fytg3","slide":3,"name":"Прямоугольник 23","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/cza94vmx","slide":3,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/d0jax03i","slide":3,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/298ryl4v","slide":3,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/pcjqtg36","slide":3,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/m5cra54z","slide":3,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/n6ls3alk","slide":3,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/n2l4fq98","slide":3,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/m1c3mlsn","slide":3,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/943mhgre","slide":3,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/83ulovat","slide":3,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/v6l4jq94","slide":3,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/a5c3ql8z","slide":3,"name":"Прямоугольник 14","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/x8nml0ra","slide":3,"name":"Прямоугольник 15","text":"ЧТО ТАКОЕ ПОТРЕБНОСТЬ","textPreview":"ЧТО ТАКОЕ ПОТРЕБНОСТЬ","textChars":21,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"textbox","id":"sh/w7ulsvqp","slide":3,"name":"Прямоугольник 16","text":"Потребность — это нужда (нехватка чего-либо), требующая удовлетворения.","textPreview":"Потребность — это нужда (нехватка чего-либо), требующая удовлетворения.","textChars":71,"textLines":1,"bbox":[55,205,1120,66]}
+{"kind":"shape","id":"sh/ja54na9g","slide":3,"name":"Прямоугольник 17","bbox":[55,310,545,245]}
+{"kind":"textbox","id":"sh/i9w3u58v","slide":3,"name":"Прямоугольник 18","text":"СФОРМИРОВАННАЯ ПОТРЕБНОСТЬ","textPreview":"СФОРМИРОВАННАЯ ПОТРЕБНОСТЬ","textChars":26,"textLines":1,"bbox":[77,328,501,36]}
+{"kind":"textbox","id":"sh/e10f2twf","slide":3,"name":"Прямоугольник 19","text":"Осознанное понимание клиентом проблемы и последствий и готовность её решать.","textPreview":"Осознанное понимание клиентом проблемы и последствий и готовность её решать.","textChars":76,"textLines":1,"bbox":[77,372,501,167]}
+{"kind":"shape","id":"sh/f29gbyx0","slide":3,"name":"Прямоугольник 20","bbox":[625,310,575,245]}
+{"kind":"textbox","id":"sh/03ix43e5","slide":3,"name":"Прямоугольник 21","text":"НЕСФОРМИРОВАННАЯ ПОТРЕБНОСТЬ","textPreview":"НЕСФОРМИРОВАННАЯ ПОТРЕБНОСТЬ","textChars":28,"textLines":1,"bbox":[647,328,531,36]}
+{"kind":"textbox","id":"sh/14ryd8fq","slide":3,"name":"Прямоугольник 22","text":"Непонимание клиентом проблемы и последствий и отсутствие готовности её решать.","textPreview":"Непонимание клиентом проблемы и последствий и отсутствие готовности её решать.","textChars":78,"textLines":1,"bbox":[647,372,531,167]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":""}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":9}
+{"kind":"shape","id":"sh/fu9sn2p0","slide":4,"name":"Прямоугольник 25","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/1cj2d8b6","slide":4,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/0ba143al","slide":4,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/rm1k7yt4","slide":4,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/ql8jytsj","slide":4,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/doj29oba","slide":4,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/sna103ap","slide":4,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/3ihk3et8","slide":4,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/ih8ju9sn","slide":4,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/kbm987y5","slide":4,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/i94r6xgz","slide":4,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/jadsz2xk","slide":4,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/w72947yt","slide":4,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"Прямоугольник 14","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"Прямоугольник 15","text":"ЗАДАЧА ЭТАПА","textPreview":"ЗАДАЧА ЭТАПА","textChars":12,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/v6tsv2xo","slide":4,"name":"Прямоугольник 16","bbox":[55,205,355,310]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"Прямоугольник 17","text":"ДЛЯ ЧЕГО НУЖЕН","textPreview":"ДЛЯ ЧЕГО НУЖЕН","textChars":14,"textLines":1,"bbox":[77,223,311,36]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"name":"Прямоугольник 18","text":"Чтобы клиент увидел проблему, понял её влияние на бизнес и осознал необходимость её решения.","textPreview":"Чтобы клиент увидел проблему, понял её влияние на бизнес и осознал необходимость её решения.","textChars":92,"textLines":1,"bbox":[77,267,311,232]}
+{"kind":"shape","id":"sh/p0batw72","slide":4,"name":"Прямоугольник 19","bbox":[430,205,355,310]}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"name":"Прямоугольник 20","text":"ЧТО ПРОИСХОДИТ","textPreview":"ЧТО ПРОИСХОДИТ","textChars":14,"textLines":1,"bbox":[452,223,311,36]}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"Прямоугольник 21","text":"Клиент может не замечать проблему, не понимать её последствий или не считать решение приоритетным.","textPreview":"Клиент может не замечать проблему, не понимать её последствий или не считать решение приоритетным.","textChars":98,"textLines":1,"bbox":[452,267,311,232]}
+{"kind":"shape","id":"sh/2xkrih8b","slide":4,"name":"Прямоугольник 22","bbox":[805,205,395,310]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"name":"Прямоугольник 23","text":"К КАКОМУ СОСТОЯНИЮ ВЕДЁМ","textPreview":"К КАКОМУ СОСТОЯНИЮ ВЕДЁМ","textChars":24,"textLines":1,"bbox":[827,223,351,36]}
+{"kind":"textbox","id":"sh/gv29g7q5","slide":4,"name":"Прямоугольник 24","text":"«Я вижу проблему, понимаю её последствия и хочу узнать, как её можно решить».","textPreview":"«Я вижу проблему, понимаю её последствия и хочу узнать, как её можно решить».","textChars":77,"textLines":1,"bbox":[827,267,351,232]}
+{"kind":"shape","id":"sh/et0reh8f","slide":4,"bbox":[410,360,20,0]}
+{"kind":"shape","id":"sh/tsrqlc7u","slide":4,"bbox":[785,360,20,0]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":13}
+{"kind":"shape","id":"sh/2h0ni107","slide":5,"name":"Прямоугольник 26","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/dgbulwnm","slide":5,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/cf2tcr61","slide":5,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/z2tcnm5s","slide":5,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/yhkbe1o7","slide":5,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/032tgr6d","slide":5,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/n6dcr65o","slide":5,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/m5kbi1oj","slide":5,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/w32dkbuh","slide":5,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/x4vedgvm","slide":5,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/ahkvi1cb","slide":5,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/v2twb6dw","slide":5,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"Прямоугольник 14","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/i54fmlc7","slide":5,"name":"Прямоугольник 15","text":"ПРАВИЛА И ПРИНЦИПЫ","textPreview":"ПРАВИЛА И ПРИНЦИПЫ","textChars":18,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"Прямоугольник 16","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[60,205,48,48]}
+{"kind":"textbox","id":"sh/sb6xsvu9","slide":5,"name":"Прямоугольник 17","text":"Опираться на конкретные факты из карточки.","textPreview":"Опираться на конкретные факты из карточки.","textChars":42,"textLines":1,"bbox":[125,205,1020,50]}
+{"kind":"textbox","id":"sh/tcfel0vu","slide":5,"name":"Прямоугольник 18","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[60,283,48,48]}
+{"kind":"textbox","id":"sh/hgrmpwj2","slide":5,"name":"Прямоугольник 19","text":"Не запугивать клиента и не придумывать потери.","textPreview":"Не запугивать клиента и не придумывать потери.","textChars":46,"textLines":1,"bbox":[125,283,1020,50]}
+{"kind":"textbox","id":"sh/gfi5grih","slide":5,"name":"Прямоугольник 20","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[60,361,48,48]}
+{"kind":"textbox","id":"sh/fe94nm1w","slide":5,"name":"Прямоугольник 21","text":"Показывать проблему через поведение потенциальных клиентов.","textPreview":"Показывать проблему через поведение потенциальных клиентов.","textChars":59,"textLines":1,"bbox":[125,361,1020,50]}
+{"kind":"textbox","id":"sh/ud0ne10b","slide":5,"name":"Прямоугольник 22","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[60,439,48,48]}
+{"kind":"textbox","id":"sh/pkr6tgjy","slide":5,"name":"Прямоугольник 23","text":"Задавать вопросы и получать реакцию клиента.","textPreview":"Задавать вопросы и получать реакцию клиента.","textChars":44,"textLines":1,"bbox":[125,439,1020,50]}
+{"kind":"textbox","id":"sh/4ji5kbid","slide":5,"name":"Прямоугольник 24","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[60,517,48,48]}
+{"kind":"textbox","id":"sh/3i94r61s","slide":5,"name":"Прямоугольник 25","text":"Не переходить к презентации, пока клиент не признал проблему.","textPreview":"Не переходить к презентации, пока клиент не признал проблему.","textChars":61,"textLines":1,"bbox":[125,517,1020,50]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":""}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":11}
+{"kind":"shape","id":"sh/1k3mhozu","slide":6,"name":"Прямоугольник 28","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/yhg7epsj","slide":6,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/zi98nu94","slide":6,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/87ipkzal","slide":6,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/98rqt4r6","slide":6,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/ml07i9sv","slide":6,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/7m98ru9g","slide":6,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/oryp8fah","slide":6,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/pc76hkr2","slide":6,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/h4bupgn6","slide":6,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/w32twb6l","slide":6,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/v2tcn650","slide":6,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/u1kbu1ov","slide":6,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"name":"Прямоугольник 14","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/j6dcr65c","slide":6,"name":"Прямоугольник 15","text":"АЛГОРИТМ ФОРМИРОВАНИЯ ПОТРЕБНОСТИ","textPreview":"АЛГОРИТМ ФОРМИРОВАНИЯ ПОТРЕБНОСТИ","textChars":33,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/i54bylor","slide":6,"name":"Прямоугольник 16","bbox":[55,205,545,170]}
+{"kind":"textbox","id":"sh/twfux0ne","slide":6,"name":"Прямоугольник 17","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[77,223,501,36]}
+{"kind":"textbox","id":"sh/svmt4v6t","slide":6,"name":"Прямоугольник 18","text":"Показываем проблему и её последствия.","textPreview":"Показываем проблему и её последствия.","textChars":37,"textLines":1,"bbox":[77,267,501,92]}
+{"kind":"shape","id":"sh/cbe5g3ih","slide":6,"name":"Прямоугольник 19","bbox":[630,205,545,170]}
+{"kind":"textbox","id":"sh/dcnm98zm","slide":6,"name":"Прямоугольник 20","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[652,223,501,36]}
+{"kind":"textbox","id":"sh/qpwnet0b","slide":6,"name":"Прямоугольник 21","text":"Приводим понятный пример из жизни потенциального клиента.","textPreview":"Приводим понятный пример из жизни потенциального клиента.","textChars":57,"textLines":1,"bbox":[652,267,501,92]}
+{"kind":"shape","id":"sh/bq547yhw","slide":6,"name":"Прямоугольник 22","bbox":[55,410,545,170]}
+{"kind":"textbox","id":"sh/0fy5k3id","slide":6,"name":"Прямоугольник 23","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[77,428,501,36]}
+{"kind":"textbox","id":"sh/lg76d8zy","slide":6,"name":"Прямоугольник 24","text":"Выясняем отношение клиента к проблеме и текущей ситуации.","textPreview":"Выясняем отношение клиента к проблеме и текущей ситуации.","textChars":57,"textLines":1,"bbox":[77,472,501,92]}
+{"kind":"shape","id":"sh/ydgnit07","slide":6,"name":"Прямоугольник 25","bbox":[630,410,545,170]}
+{"kind":"textbox","id":"sh/zep4byhs","slide":6,"name":"Прямоугольник 26","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[652,428,501,36]}
+{"kind":"textbox","id":"sh/gju58ji9","slide":6,"name":"Прямоугольник 27","text":"Формируем мотивацию через текущие результаты, динамику ухудшения и путь клиента.","textPreview":"Формируем мотивацию через текущие результаты, динамику ухудшения и путь клиента.","textChars":80,"textLines":1,"bbox":[652,472,501,92]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":""}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":11}
+{"kind":"shape","id":"sh/f6xkvq5c","slide":7,"name":"Прямоугольник 28","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/cb2tkvap","slide":7,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/dcbud0ra","slide":7,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/ydkbm5sv","slide":7,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/zedcfa9g","slide":7,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/kzmdova1","slide":7,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/l0vuh0rm","slide":7,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/eh0ba1sr","slide":7,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/fi9c369c","slide":7,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/baxkjqlk","slide":7,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/a9ojq5kz","slide":7,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/xcz2l03q","slide":7,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/cbq1sv25","slide":7,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/25ojml43","slide":7,"name":"Прямоугольник 14","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/p8fih03e","slide":7,"name":"Прямоугольник 15","text":"АЛГОРИТМ ФОРМИРОВАНИЯ ПОТРЕБНОСТИ","textPreview":"АЛГОРИТМ ФОРМИРОВАНИЯ ПОТРЕБНОСТИ","textChars":33,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/o761ov2t","slide":7,"name":"Прямоугольник 16","bbox":[55,205,545,170]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"Прямоугольник 17","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[77,223,501,36]}
+{"kind":"textbox","id":"sh/eh4jil4r","slide":7,"name":"Прямоугольник 18","text":"Показываем проблему и её последствия.","textPreview":"Показываем проблему и её последствия.","textChars":37,"textLines":1,"bbox":[77,267,501,92]}
+{"kind":"shape","id":"sh/id4ju1oz","slide":7,"name":"Прямоугольник 19","bbox":[630,205,545,170]}
+{"kind":"textbox","id":"sh/jedkn654","slide":7,"name":"Прямоугольник 20","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[652,223,501,36]}
+{"kind":"textbox","id":"sh/4fm1wb6p","slide":7,"name":"Прямоугольник 21","text":"Приводим понятный пример из жизни потенциального клиента.","textPreview":"Приводим понятный пример из жизни потенциального клиента.","textChars":57,"textLines":1,"bbox":[652,267,501,92]}
+{"kind":"shape","id":"sh/50v2pgna","slide":7,"name":"Прямоугольник 22","bbox":[55,410,545,170]}
+{"kind":"textbox","id":"sh/q143ylov","slide":7,"name":"Прямоугольник 23","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[77,428,501,36]}
+{"kind":"textbox","id":"sh/r2dkrq5g","slide":7,"name":"Прямоугольник 24","text":"Выясняем отношение клиента к проблеме и текущей ситуации.","textPreview":"Выясняем отношение клиента к проблеме и текущей ситуации.","textChars":57,"textLines":1,"bbox":[77,472,501,92]}
+{"kind":"shape","id":"sh/s3ml0v61","slide":7,"name":"Прямоугольник 25","bbox":[630,410,545,170]}
+{"kind":"textbox","id":"sh/d4f2t0nm","slide":7,"name":"Прямоугольник 26","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[652,428,501,36]}
+{"kind":"textbox","id":"sh/e5o32lor","slide":7,"name":"Прямоугольник 27","text":"Формируем мотивацию через текущие результаты, динамику ухудшения и путь клиента.","textPreview":"Формируем мотивацию через текущие результаты, динамику ухудшения и путь клиента.","textChars":80,"textLines":1,"bbox":[652,472,501,92]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":11}
+{"kind":"shape","id":"sh/w3ed8r6x","slide":8,"name":"Прямоугольник 28","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/18byd4zy","slide":8,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/g72x4zyd","slide":8,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/ri9g7uhw","slide":8,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/6h0fypgb","slide":8,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/tkby9kzm","slide":8,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/sjix0zy1","slide":8,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/je9g3ahk","slide":8,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/id0fu50z","slide":8,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/o7ydoret","slide":8,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/98rehwve","slide":8,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/m5gvmhwn","slide":8,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/n6pwfmd8","slide":8,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"Прямоугольник 14","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/ehgvihwr","slide":8,"name":"Прямоугольник 15","text":"АЛГОРИТМ ФОРМИРОВАНИЯ ПОТРЕБНОСТИ","textPreview":"АЛГОРИТМ ФОРМИРОВАНИЯ ПОТРЕБНОСТИ","textChars":33,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/zipwbmdc","slide":8,"name":"Прямоугольник 16","bbox":[55,205,545,170]}
+{"kind":"textbox","id":"sh/kfixwbe1","slide":8,"name":"Прямоугольник 17","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[77,223,501,36]}
+{"kind":"textbox","id":"sh/lgbepgvm","slide":8,"name":"Прямоугольник 18","text":"Показываем проблему и её последствия.","textPreview":"Показываем проблему и её последствия.","textChars":37,"textLines":1,"bbox":[77,267,501,92]}
+{"kind":"shape","id":"sh/tw7e9gnq","slide":8,"name":"Прямоугольник 19","bbox":[630,205,545,170]}
+{"kind":"textbox","id":"sh/svydgb65","slide":8,"name":"Прямоугольник 20","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[652,223,501,36]}
+{"kind":"textbox","id":"sh/7u5w765k","slide":8,"name":"Прямоугольник 21","text":"Приводим понятный пример из жизни потенциального клиента.","textPreview":"Приводим понятный пример из жизни потенциального клиента.","textChars":57,"textLines":1,"bbox":[652,267,501,92]}
+{"kind":"shape","id":"sh/6twve1oz","slide":8,"name":"Прямоугольник 22","bbox":[55,410,545,170]}
+{"kind":"textbox","id":"sh/5sne5wne","slide":8,"name":"Прямоугольник 23","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[77,428,501,36]}
+{"kind":"textbox","id":"sh/kredcr6t","slide":8,"name":"Прямоугольник 24","text":"Выясняем отношение клиента к проблеме и текущей ситуации.","textPreview":"Выясняем отношение клиента к проблеме и текущей ситуации.","textChars":57,"textLines":1,"bbox":[77,472,501,92]}
+{"kind":"shape","id":"sh/jq5w365o","slide":8,"name":"Прямоугольник 25","bbox":[630,410,545,170]}
+{"kind":"textbox","id":"sh/i5wva1o3","slide":8,"name":"Прямоугольник 26","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[652,428,501,36]}
+{"kind":"textbox","id":"sh/x4ne1wni","slide":8,"name":"Прямоугольник 27","text":"Формируем мотивацию через текущие результаты, динамику ухудшения и путь клиента.","textPreview":"Формируем мотивацию через текущие результаты, динамику ухудшения и путь клиента.","textChars":80,"textLines":1,"bbox":[652,472,501,92]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":""}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":11}
+{"kind":"shape","id":"sh/cf6h0fql","slide":9,"name":"Прямоугольник 28","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/1cfmhgne","slide":9,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/0b65obm9","slide":9,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/nex4jq5k","slide":9,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/mdonql4z","slide":9,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/9gzml0nq","slide":9,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/ofq5svm5","slide":9,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/bih4na5w","slide":9,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/ah8nu54b","slide":9,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/oza1gfyh","slide":9,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/p0ji9kf2","slide":9,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/2xsjepgb","slide":9,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/3y107axw","slide":9,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/cnu1kzyd","slide":9,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/do3id4fy","slide":9,"name":"Прямоугольник 14","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/qlcjipgn","slide":9,"name":"Прямоугольник 15","text":"АЛГОРИТМ ФОРМИРОВАНИЯ ПОТРЕБНОСТИ","textPreview":"АЛГОРИТМ ФОРМИРОВАНИЯ ПОТРЕБНОСТИ","textChars":33,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/bml0buxs","slide":9,"name":"Прямоугольник 16","bbox":[55,205,545,170]}
+{"kind":"textbox","id":"sh/0ru1ozyp","slide":9,"name":"Прямоугольник 17","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[77,223,501,36]}
+{"kind":"textbox","id":"sh/lsn2h4fa","slide":9,"name":"Прямоугольник 18","text":"Показываем проблему и её последствия.","textPreview":"Показываем проблему и её последствия.","textChars":37,"textLines":1,"bbox":[77,267,501,92]}
+{"kind":"shape","id":"sh/98ji147e","slide":9,"name":"Прямоугольник 19","bbox":[630,205,545,170]}
+{"kind":"textbox","id":"sh/87a18zqt","slide":9,"name":"Прямоугольник 20","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[652,223,501,36]}
+{"kind":"textbox","id":"sh/76h0zup8","slide":9,"name":"Прямоугольник 21","text":"Приводим понятный пример из жизни потенциального клиента.","textPreview":"Приводим понятный пример из жизни потенциального клиента.","textChars":57,"textLines":1,"bbox":[652,267,501,92]}
+{"kind":"shape","id":"sh/ml8j6p8n","slide":9,"name":"Прямоугольник 22","bbox":[55,410,545,170]}
+{"kind":"textbox","id":"sh/hcji5o7a","slide":9,"name":"Прямоугольник 23","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[77,428,501,36]}
+{"kind":"textbox","id":"sh/wba1cjqp","slide":9,"name":"Прямоугольник 24","text":"Выясняем отношение клиента к проблеме и текущей ситуации.","textPreview":"Выясняем отношение клиента к проблеме и текущей ситуации.","textChars":57,"textLines":1,"bbox":[77,472,501,92]}
+{"kind":"shape","id":"sh/va103ep4","slide":9,"name":"Прямоугольник 25","bbox":[630,410,545,170]}
+{"kind":"textbox","id":"sh/u9sja98z","slide":9,"name":"Прямоугольник 26","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[652,428,501,36]}
+{"kind":"textbox","id":"sh/xgzitk76","slide":9,"name":"Прямоугольник 27","text":"Формируем мотивацию через текущие результаты, динамику ухудшения и путь клиента.","textPreview":"Формируем мотивацию через текущие результаты, динамику ухудшения и путь клиента.","textChars":80,"textLines":1,"bbox":[652,472,501,92]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":""}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":11}
+{"kind":"shape","id":"sh/0nut8rul","slide":10,"name":"Прямоугольник 28","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/xc3mho32","slide":10,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/cbu58j2h","slide":10,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/zelojyl8","slide":10,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/ydcnatkn","slide":10,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/l036l83y","slide":10,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/kzu5c32t","slide":10,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/725onyl4","slide":10,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/m1cnetkj","slide":10,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/s7yt4b21","slide":10,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/d87uxg3m","slide":10,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/q5gb21kb","slide":10,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/r6pcv6lw","slide":10,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/0bit8b2d","slide":10,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/1cru1g3y","slide":10,"name":"Прямоугольник 14","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/e9gb61k7","slide":10,"name":"Прямоугольник 15","text":"ШАГ 1. ПОКАЗЫВАЕМ ПРОБЛЕМУ И ПОСЛЕДСТВИЯ","textPreview":"ШАГ 1. ПОКАЗЫВАЕМ ПРОБЛЕМУ И ПОСЛЕДСТВИЯ","textChars":40,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/fapcz6ls","slide":10,"name":"Прямоугольник 16","bbox":[55,205,545,180]}
+{"kind":"textbox","id":"sh/ozitcv29","slide":10,"name":"Прямоугольник 17","text":"ЧТО ДЕЛАЕМ","textPreview":"ЧТО ДЕЛАЕМ","textChars":10,"textLines":1,"bbox":[77,223,501,36]}
+{"kind":"textbox","id":"sh/p0ru503u","slide":10,"name":"Прямоугольник 18","text":"Озвучиваем конкретную проблему, найденную при анализе карточки, и объясняем её возможные последствия.","textPreview":"Озвучиваем конкретную проблему, найденную при анализе карточки, и объясняем её возможные последствия.","textChars":101,"textLines":1,"bbox":[77,267,501,102]}
+{"kind":"shape","id":"sh/xwnupgvy","slide":10,"name":"Прямоугольник 19","bbox":[625,205,575,180]}
+{"kind":"textbox","id":"sh/wvetgbud","slide":10,"name":"Прямоугольник 20","text":"ПОЧЕМУ","textPreview":"ПОЧЕМУ","textChars":6,"textLines":1,"bbox":[647,223,531,36]}
+{"kind":"textbox","id":"sh/bu5cnqd8","slide":10,"name":"Прямоугольник 21","text":"Клиент может не замечать недостаток или не понимать, как он влияет на обращения.","textPreview":"Клиент может не замечать недостаток или не понимать, как он влияет на обращения.","textChars":80,"textLines":1,"bbox":[647,267,531,102]}
+{"kind":"shape","id":"sh/atwbelcn","slide":10,"name":"Прямоугольник 22","bbox":[55,410,545,180]}
+{"kind":"textbox","id":"sh/lk7ut0va","slide":10,"name":"Прямоугольник 23","text":"КАК ВЛИЯЕТ","textPreview":"КАК ВЛИЯЕТ","textChars":10,"textLines":1,"bbox":[77,428,501,36]}
+{"kind":"textbox","id":"sh/kjytkvup","slide":10,"name":"Прямоугольник 24","text":"Клиент начинает видеть связь между состоянием карточки и поведением потенциальных клиентов.","textPreview":"Клиент начинает видеть связь между состоянием карточки и поведением потенциальных клиентов.","textChars":91,"textLines":1,"bbox":[77,472,501,102]}
+{"kind":"shape","id":"sh/jypcrqd4","slide":10,"name":"Прямоугольник 25","bbox":[625,410,575,180]}
+{"kind":"textbox","id":"sh/yxgbilcj","slide":10,"name":"Прямоугольник 26","text":"КАК ДЕЛАТЬ","textPreview":"КАК ДЕЛАТЬ","textChars":10,"textLines":1,"bbox":[647,428,531,36]}
+{"kind":"textbox","id":"sh/1o3ahwvq","slide":10,"name":"Прямоугольник 27","text":"Опираться на проверяемые факты, не использовать давление и неподтверждённые цифры.","textPreview":"Опираться на проверяемые факты, не использовать давление и неподтверждённые цифры.","textChars":82,"textLines":1,"bbox":[647,472,531,102]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":""}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":5}
+{"kind":"shape","id":"sh/tsnip0ny","slide":11,"name":"Прямоугольник 19","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/xcryxg7y","slide":11,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/wbih4b6d","slide":11,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/n69grmpw","slide":11,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/250zy18b","slide":11,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/98rytw72","slide":11,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/o7ih0r6h","slide":11,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/72t03qp0","slide":11,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/61kzalof","slide":11,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/ofqtgnyt","slide":11,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/9gza9sze","slide":11,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/mdobedg3","slide":11,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/nehs7iho","slide":11,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/0b6tc3yx","slide":11,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/1cfa58zi","slide":11,"name":"Прямоугольник 14","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/epobatgr","slide":11,"name":"Прямоугольник 15","text":"ШАГ 1. ПРИМЕР ФОРМУЛИРОВКИ","textPreview":"ШАГ 1. ПРИМЕР ФОРМУЛИРОВКИ","textChars":26,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/zaxs3yhc","slide":11,"name":"Прямоугольник 16","bbox":[70,215,1100,350]}
+{"kind":"textbox","id":"sh/cn6t83y1","slide":11,"name":"Прямоугольник 17","text":"ПРИМЕР","textPreview":"ПРИМЕР","textChars":6,"textLines":1,"bbox":[92,233,1056,36]}
+{"kind":"textbox","id":"sh/dofa18z6","slide":11,"name":"Прямоугольник 18","text":"«Сейчас в карточке не заполнена часть услуг и цен, давно не обновлялись фотографии, а отзывы остаются без ответов. Из-за этого профиль может выглядеть неактуальным, и потенциальному клиенту будет сложнее принять решение об обращении».","textPreview":"«Сейчас в карточке не заполнена часть услуг и цен, давно не обновлялись фотографии, а отзывы остаются без ответов. Из-за этого профиль мо...","textChars":234,"textLines":1,"bbox":[92,277,1056,272]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":""}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":11}
+{"kind":"shape","id":"sh/cbm5kbyh","slide":12,"name":"Прямоугольник 28","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/1gbm9s3a","slide":12,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/0f2lgnmp","slide":12,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/ra943il8","slide":12,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/q903ad4n","slide":12,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/dcbm583y","slide":12,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/b6d4f2lc","slide":12,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/a543mx4r","slide":12,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/wvupgz6t","slide":12,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/xw3q94ne","slide":12,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/atc7epon","slide":12,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/bulo7u58","slide":12,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/orapcf6h","slide":12,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/9sj65kn2","slide":12,"name":"Прямоугольник 14","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"Прямоугольник 15","text":"ШАГ 2. ПРИВОДИМ ПРИМЕР ИЗ ЖИЗНИ","textPreview":"ШАГ 2. ПРИВОДИМ ПРИМЕР ИЗ ЖИЗНИ","textChars":31,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/nq1o3a5w","slide":12,"name":"Прямоугольник 16","bbox":[55,205,545,180]}
+{"kind":"textbox","id":"sh/0nap8f6l","slide":12,"name":"Прямоугольник 17","text":"ЧТО ДЕЛАЕМ","textPreview":"ЧТО ДЕЛАЕМ","textChars":10,"textLines":1,"bbox":[77,223,501,36]}
+{"kind":"textbox","id":"sh/1oj61kn6","slide":12,"name":"Прямоугольник 18","text":"Описываем понятный сценарий выбора компании потенциальным клиентом.","textPreview":"Описываем понятный сценарий выбора компании потенциальным клиентом.","textChars":67,"textLines":1,"bbox":[77,267,501,102]}
+{"kind":"shape","id":"sh/hkbm5wzu","slide":12,"name":"Прямоугольник 19","bbox":[625,205,575,180]}
+{"kind":"textbox","id":"sh/gj25cry9","slide":12,"name":"Прямоугольник 20","text":"ПОЧЕМУ","textPreview":"ПОЧЕМУ","textChars":6,"textLines":1,"bbox":[647,223,531,36]}
+{"kind":"textbox","id":"sh/fit436ho","slide":12,"name":"Прямоугольник 21","text":"Жизненный пример помогает наглядно показать проблему.","textPreview":"Жизненный пример помогает наглядно показать проблему.","textChars":53,"textLines":1,"bbox":[647,267,531,102]}
+{"kind":"shape","id":"sh/uh0na1g3","slide":12,"name":"Прямоугольник 22","bbox":[55,410,545,180]}
+{"kind":"textbox","id":"sh/tgrm1wzy","slide":12,"name":"Прямоугольник 23","text":"КАК ВЛИЯЕТ","textPreview":"КАК ВЛИЯЕТ","textChars":10,"textLines":1,"bbox":[77,428,501,36]}
+{"kind":"textbox","id":"sh/sfi58ryd","slide":12,"name":"Прямоугольник 24","text":"Клиент представляет себя на месте пользователя и лучше понимает возможные потери.","textPreview":"Клиент представляет себя на месте пользователя и лучше понимает возможные потери.","textChars":81,"textLines":1,"bbox":[77,472,501,102]}
+{"kind":"shape","id":"sh/7u94zmhs","slide":12,"name":"Прямоугольник 25","bbox":[625,410,575,180]}
+{"kind":"textbox","id":"sh/6t0n6hg7","slide":12,"name":"Прямоугольник 26","text":"КАК ДЕЛАТЬ","textPreview":"КАК ДЕЛАТЬ","textChars":10,"textLines":1,"bbox":[647,428,531,36]}
+{"kind":"textbox","id":"sh/dcv6dgz2","slide":12,"name":"Прямоугольник 27","text":"Использовать ситуацию, соответствующую сфере бизнеса клиента.","textPreview":"Использовать ситуацию, соответствующую сфере бизнеса клиента.","textChars":61,"textLines":1,"bbox":[647,472,531,102]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":""}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":5}
+{"kind":"shape","id":"sh/cnqh8fux","slide":13,"name":"Прямоугольник 19","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/q50nydsj","slide":13,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/bq9orito","slide":13,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/o3i5w3ad","slide":13,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/p4r6p8by","slide":13,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/21gnuts7","slide":13,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/32ponyts","slide":13,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/gzy5s3a1","slide":13,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/1076lobm","slide":13,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/hcfy9k3u","slide":13,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/gb6x0zm9","slide":13,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/vaxg7ulo","slide":13,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/u9ofyp43","slide":13,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/t8fy5k3i","slide":13,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/876xwfmx","slide":13,"name":"Прямоугольник 14","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/7mdg3als","slide":13,"name":"Прямоугольник 15","text":"ШАГ 2. ПРИМЕР ФОРМУЛИРОВКИ","textPreview":"ШАГ 2. ПРИМЕР ФОРМУЛИРОВКИ","textChars":26,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/6l4fu547","slide":13,"name":"Прямоугольник 16","bbox":[70,205,1100,380]}
+{"kind":"textbox","id":"sh/lkvy103m","slide":13,"name":"Прямоугольник 17","text":"ПРИМЕР","textPreview":"ПРИМЕР","textChars":6,"textLines":1,"bbox":[92,223,1056,36]}
+{"kind":"textbox","id":"sh/kjmxsfm1","slide":13,"name":"Прямоугольник 18","text":"«Представьте клиента, который открыл вашу карточку и карточку конкурента. У конкурента указаны услуги и цены, добавлены свежие фотографии, выходят публикации и есть ответы на отзывы. В вашей карточке информации меньше. При прочих равных клиенту будет проще выбрать конкурента».","textPreview":"«Представьте клиента, который открыл вашу карточку и карточку конкурента. У конкурента указаны услуги и цены, добавлены свежие фотографии...","textChars":277,"textLines":1,"bbox":[92,267,1056,302]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":""}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":11}
+{"kind":"shape","id":"sh/cz6h4fq1","slide":14,"name":"Прямоугольник 28","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/xc7eds76","slide":14,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/wbydknq1","slide":14,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/jepwf2pc","slide":14,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/idgvmx8r","slide":14,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/5grehs7i","slide":14,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/kfidonqx","slide":14,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/zi5c3y98","slide":14,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/ehwvat8n","slide":14,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/c3e1gjyd","slide":14,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/x4ni9ofy","slide":14,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/a1wze9g7","slide":14,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/b2507exs","slide":14,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/kre1k3y9","slide":14,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/ls7idofu","slide":14,"name":"Прямоугольник 14","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/y5wjitgj","slide":14,"name":"Прямоугольник 15","text":"ШАГ 3. ВЫЯСНЯЕМ ОТНОШЕНИЕ К ПРОБЛЕМЕ","textPreview":"ШАГ 3. ВЫЯСНЯЕМ ОТНОШЕНИЕ К ПРОБЛЕМЕ","textChars":36,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/z650byxo","slide":14,"name":"Прямоугольник 16","bbox":[55,205,545,180]}
+{"kind":"textbox","id":"sh/0buh8zy5","slide":14,"name":"Прямоугольник 17","text":"ЧТО ДЕЛАЕМ","textPreview":"ЧТО ДЕЛАЕМ","textChars":10,"textLines":1,"bbox":[77,223,501,36]}
+{"kind":"textbox","id":"sh/1w3i14fq","slide":14,"name":"Прямоугольник 18","text":"Спрашиваем, как клиент работает с карточками сейчас и устраивает ли его результат.","textPreview":"Спрашиваем, как клиент работает с карточками сейчас и устраивает ли его результат.","textChars":82,"textLines":1,"bbox":[77,267,501,102]}
+{"kind":"shape","id":"sh/hsvy50re","slide":14,"name":"Прямоугольник 19","bbox":[625,205,575,180]}
+{"kind":"textbox","id":"sh/grmxwvqt","slide":14,"name":"Прямоугольник 20","text":"ПОЧЕМУ","textPreview":"ПОЧЕМУ","textChars":6,"textLines":1,"bbox":[647,223,531,36]}
+{"kind":"textbox","id":"sh/fqdg3q98","slide":14,"name":"Прямоугольник 21","text":"Важно, чтобы клиент самостоятельно оценил ситуацию и подтвердил проблему.","textPreview":"Важно, чтобы клиент самостоятельно оценил ситуацию и подтвердил проблему.","textChars":73,"textLines":1,"bbox":[647,267,531,102]}
+{"kind":"shape","id":"sh/up4fal83","slide":14,"name":"Прямоугольник 22","bbox":[55,410,545,180]}
+{"kind":"textbox","id":"sh/pwvy90rq","slide":14,"name":"Прямоугольник 23","text":"КАК ВЛИЯЕТ","textPreview":"КАК ВЛИЯЕТ","textChars":10,"textLines":1,"bbox":[77,428,501,36]}
+{"kind":"textbox","id":"sh/4vmh0vq5","slide":14,"name":"Прямоугольник 24","text":"Разговор становится диалогом, а клиент проговаривает сложности собственными словами.","textPreview":"Разговор становится диалогом, а клиент проговаривает сложности собственными словами.","textChars":84,"textLines":1,"bbox":[77,472,501,102]}
+{"kind":"shape","id":"sh/3udg7q9k","slide":14,"name":"Прямоугольник 25","bbox":[625,410,575,180]}
+{"kind":"textbox","id":"sh/2t4fyl8z","slide":14,"name":"Прямоугольник 26","text":"КАК ДЕЛАТЬ","textPreview":"КАК ДЕЛАТЬ","textChars":10,"textLines":1,"bbox":[647,428,531,36]}
+{"kind":"textbox","id":"sh/d0fydk7m","slide":14,"name":"Прямоугольник 27","text":"Задавать открытые вопросы и не спорить с ответами клиента.","textPreview":"Задавать открытые вопросы и не спорить с ответами клиента.","textChars":58,"textLines":1,"bbox":[647,472,531,102]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":""}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":5}
+{"kind":"shape","id":"sh/1kjyt83e","slide":15,"name":"Прямоугольник 19","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/547mhg3m","slide":15,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/k3y5ov21","slide":15,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/76p4jqls","slide":15,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/65gnqlk7","slide":15,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/t87ml0ji","slide":15,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/s7y5sv2x","slide":15,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/na5476l8","slide":15,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/m9c3e1kn","slide":15,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/wrm9kvep","slide":15,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/hsvat0fa","slide":15,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/upkrilwj","slide":15,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/vqdsrqx4","slide":15,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/4vm9ovel","slide":15,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/5wvax0f6","slide":15,"name":"Прямоугольник 14","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/it4rm5wv","slide":15,"name":"Прямоугольник 15","text":"ШАГ 3. ПРИМЕР ФОРМУЛИРОВКИ","textPreview":"ШАГ 3. ПРИМЕР ФОРМУЛИРОВКИ","textChars":26,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/judsvqxg","slide":15,"name":"Прямоугольник 16","bbox":[70,205,1100,380]}
+{"kind":"textbox","id":"sh/0z29cbyh","slide":15,"name":"Прямоугольник 17","text":"ПРИМЕР","textPreview":"ПРИМЕР","textChars":6,"textLines":1,"bbox":[92,223,1056,36]}
+{"kind":"textbox","id":"sh/l0bqlgf2","slide":15,"name":"Прямоугольник 18","text":"«Подскажите, кто сейчас занимается ведением карточек на Яндекс Картах, 2ГИС и Zoon? Как часто вы обновляете информацию, добавляете фотографии, публикуете новости и отвечаете на отзывы?»","textPreview":"«Подскажите, кто сейчас занимается ведением карточек на Яндекс Картах, 2ГИС и Zoon? Как часто вы обновляете информацию, добавляете фотогр...","textChars":185,"textLines":1,"bbox":[92,267,1056,302]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":""}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":11}
+{"kind":"shape","id":"sh/ji9k7ypw","slide":16,"name":"Прямоугольник 28","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/8z2h8bq1","slide":16,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/9kby1g7m","slide":16,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/ytkf2h8j","slide":16,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/zutgvm94","slide":16,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/kv2h4rqp","slide":16,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/lwbyxwra","slide":16,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/ip4zel83","slide":16,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/3qdg7qpo","slide":16,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/fm1gzq5o","slide":16,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/e1sf65o3","slide":16,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/1ojy10ne","slide":16,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/gnax8v6t","slide":16,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/nqlg3a5k","slide":16,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/2pcfa5oz","slide":16,"name":"Прямоугольник 14","text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/ps3y5knq","slide":16,"name":"Прямоугольник 15","text":"ШАГ 4. ФОРМИРУЕМ МОТИВАЦИЮ К ДЕЙСТВИЮ","textPreview":"ШАГ 4. ФОРМИРУЕМ МОТИВАЦИЮ К ДЕЙСТВИЮ","textChars":37,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/oruhcf65","slide":16,"name":"Прямоугольник 16","bbox":[55,205,545,180]}
+{"kind":"textbox","id":"sh/bulg7u5g","slide":16,"name":"Прямоугольник 17","text":"ЧТО ДЕЛАЕМ","textPreview":"ЧТО ДЕЛАЕМ","textChars":10,"textLines":1,"bbox":[77,223,501,36]}
+{"kind":"textbox","id":"sh/atczepob","slide":16,"name":"Прямоугольник 18","text":"Показываем текущие последствия, возможную динамику ухудшения и путь потенциального клиента.","textPreview":"Показываем текущие последствия, возможную динамику ухудшения и путь потенциального клиента.","textChars":91,"textLines":1,"bbox":[77,267,501,102]}
+{"kind":"shape","id":"sh/mpgj6t8j","slide":16,"name":"Прямоугольник 19","bbox":[625,205,575,180]}
+{"kind":"textbox","id":"sh/7qp0zepo","slide":16,"name":"Прямоугольник 20","text":"ПОЧЕМУ","textPreview":"ПОЧЕМУ","textChars":6,"textLines":1,"bbox":[647,223,531,36]}
+{"kind":"textbox","id":"sh/8by18jq9","slide":16,"name":"Прямоугольник 21","text":"Клиент может понимать проблему, но не считать её решение приоритетным.","textPreview":"Клиент может понимать проблему, но не считать её решение приоритетным.","textChars":70,"textLines":1,"bbox":[647,267,531,102]}
+{"kind":"shape","id":"sh/9c7i1o7u","slide":16,"name":"Прямоугольник 22","bbox":[55,410,545,180]}
+{"kind":"textbox","id":"sh/ylwj2987","slide":16,"name":"Прямоугольник 23","text":"КАК ВЛИЯЕТ","textPreview":"КАК ВЛИЯЕТ","textChars":10,"textLines":1,"bbox":[77,428,501,36]}
+{"kind":"textbox","id":"sh/zm50veps","slide":16,"name":"Прямоугольник 24","text":"Клиент осознаёт, почему откладывать решение невыгодно.","textPreview":"Клиент осознаёт, почему откладывать решение невыгодно.","textChars":54,"textLines":1,"bbox":[77,472,501,102]}
+{"kind":"shape","id":"sh/kne14jqd","slide":16,"name":"Прямоугольник 25","bbox":[625,410,575,180]}
+{"kind":"textbox","id":"sh/lo7ixo7y","slide":16,"name":"Прямоугольник 26","text":"КАК ДЕЛАТЬ","textPreview":"КАК ДЕЛАТЬ","textChars":10,"textLines":1,"bbox":[647,428,531,36]}
+{"kind":"textbox","id":"sh/ih0jedob","slide":16,"name":"Прямоугольник 27","text":"Опираться на слова клиента и использовать условные формулировки: «может», «если ситуация сохранится», «вероятность».","textPreview":"Опираться на слова клиента и использовать условные формулировки: «может», «если ситуация сохранится», «вероятность».","textChars":116,"textLines":1,"bbox":[647,472,531,102]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":""}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":5}
+{"kind":"shape","id":"sh/90nq9gfi","slide":17,"name":"Прямоугольник 19","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/1c7e50ni","slide":17,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/gbedwfmx","slide":17,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/rm5czq50","slide":17,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/6lwvql4v","slide":17,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/t8ne10n6","slide":17,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/snedsvml","slide":17,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/jilcvq54","slide":17,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/ihcvml4j","slide":17,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/4by9or6l","slide":17,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/pc7qhwn6","slide":17,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/29grm1of","slide":17,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/3ap8fm50","slide":17,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/gnepkr69","slide":17,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/honqdwnu","slide":17,"name":"Прямоугольник 14","text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/ulw7ihoj","slide":17,"name":"Прямоугольник 15","text":"ШАГ 4. ПРИМЕР ФОРМУЛИРОВКИ","textPreview":"ШАГ 4. ПРИМЕР ФОРМУЛИРОВКИ","textChars":26,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/fm58bm54","slide":17,"name":"Прямоугольник 16","bbox":[70,195,1100,410]}
+{"kind":"textbox","id":"sh/0ji9wb6t","slide":17,"name":"Прямоугольник 17","text":"ПРИМЕР","textPreview":"ПРИМЕР","textChars":6,"textLines":1,"bbox":[92,213,1056,36]}
+{"kind":"textbox","id":"sh/14rqpgne","slide":17,"name":"Прямоугольник 18","text":"«Получается, карточками вы занимаетесь время от времени, поэтому информация обновляется нерегулярно, а часть отзывов остаётся без ответа. Если ничего не менять, профили могут выглядеть менее актуальными на фоне конкурентов. Согласны, что ведение карточек стоит сделать регулярным и системным?»","textPreview":"«Получается, карточками вы занимаетесь время от времени, поэтому информация обновляется нерегулярно, а часть отзывов остаётся без ответа....","textChars":293,"textLines":1,"bbox":[92,257,1056,332]}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":""}
+{"kind":"slide","id":"sl/y5wne50z","slide":18,"title":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textShapes":6}
+{"kind":"shape","id":"sh/nedoru9c","slide":18,"name":"Прямоугольник 20","bbox":[760,0,30,720]}
+{"kind":"shape","id":"sh/wrelszu9","slide":18,"name":"Прямоугольник 1","bbox":[808,0,30,720]}
+{"kind":"shape","id":"sh/hsn2l4bu","slide":18,"name":"Прямоугольник 2","bbox":[856,0,30,720]}
+{"kind":"shape","id":"sh/itw3upcf","slide":18,"name":"Прямоугольник 3","bbox":[904,0,30,720]}
+{"kind":"shape","id":"sh/je5knut0","slide":18,"name":"Прямоугольник 4","bbox":[952,0,30,720]}
+{"kind":"shape","id":"sh/4felwzu5","slide":18,"name":"Прямоугольник 5","bbox":[1000,0,30,720]}
+{"kind":"shape","id":"sh/5gnmp4bq","slide":18,"name":"Прямоугольник 6","bbox":[1048,0,30,720]}
+{"kind":"shape","id":"sh/6hw3y9sb","slide":18,"name":"Прямоугольник 7","bbox":[1096,0,30,720]}
+{"kind":"shape","id":"sh/rip4retw","slide":18,"name":"Прямоугольник 8","bbox":[1144,0,30,720]}
+{"kind":"shape","id":"sh/fapkr6pw","slide":18,"name":"Прямоугольник 9","bbox":[1192,0,30,720]}
+{"kind":"shape","id":"sh/upg3i18r","slide":18,"name":"Прямоугольник 10","bbox":[1240,0,30,720]}
+{"kind":"shape","id":"sh/1cr2tg72","slide":18,"name":"Прямоугольник 11","bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/gbylkbqh","slide":18,"name":"Прямоугольник 12","bbox":[46,28,265,28]}
+{"kind":"textbox","id":"sh/7mpknmp0","slide":18,"name":"Прямоугольник 13","text":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textPreview":"ФОРМИРОВАНИЕ ПОТРЕБНОСТИ","textChars":24,"textLines":1,"bbox":[58,30,245,24]}
+{"kind":"textbox","id":"sh/6lg3e18f","slide":18,"name":"Прямоугольник 14","text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1190,30,45,24]}
+{"kind":"textbox","id":"sh/to72pw76","slide":18,"name":"Прямоугольник 15","text":"РЕЗЮМЕ ЛЕКЦИИ","textPreview":"РЕЗЮМЕ ЛЕКЦИИ","textChars":13,"textLines":1,"bbox":[48,78,1160,82]}
+{"kind":"shape","id":"sh/snylgrql","slide":18,"name":"Прямоугольник 16","bbox":[70,210,1100,360]}
+{"kind":"textbox","id":"sh/bi94zqp4","slide":18,"name":"Прямоугольник 17","text":"ГЛАВНАЯ МЫСЛЬ","textPreview":"ГЛАВНАЯ МЫСЛЬ","textChars":13,"textLines":1,"bbox":[92,228,1056,36]}
+{"kind":"textbox","id":"sh/qh03ql8j","slide":18,"name":"Прямоугольник 18","text":"На этапе формирования потребности мы на основе фактов показываем клиенту, как состояние профиля влияет на доверие и обращения. Наша задача — добиться, чтобы клиент сам признал проблему и захотел узнать, как её решить.","textPreview":"На этапе формирования потребности мы на основе фактов показываем клиенту, как состояние профиля влияет на доверие и обращения. Наша задач...","textChars":217,"textLines":1,"bbox":[92,272,1056,282]}
+{"kind":"textbox","id":"sh/md4nipsr","slide":18,"name":"Прямоугольник 19","text":"ФАКТЫ  →  ОСОЗНАНИЕ ПРОБЛЕМЫ  →  ЖЕЛАНИЕ РЕШИТЬ","textPreview":"ФАКТЫ  →  ОСОЗНАНИЕ ПРОБЛЕМЫ  →  ЖЕЛАНИЕ РЕШИТЬ","textChars":47,"textLines":1,"bbox":[70,610,1100,42]}
+{"kind":"notes","id":"nt/y5wne50z","slide":18,"text":""}

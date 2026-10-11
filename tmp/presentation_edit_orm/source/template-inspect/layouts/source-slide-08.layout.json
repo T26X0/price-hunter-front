@@ -1,0 +1,674 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/fu1gfa1s",
+    "id": "fu1gfa1s",
+    "slide": 8,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#050706",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Arial",
+      "Calibri",
+      "Calibri Light"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tw7e9gnq",
+      "id": "20",
+      "name": "Прямоугольник 19",
+      "bbox": [
+        760,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#19370C",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18byd4zy",
+      "id": "2",
+      "name": "Прямоугольник 1",
+      "bbox": [
+        808,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102808",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g72x4zyd",
+      "id": "3",
+      "name": "Прямоугольник 2",
+      "bbox": [
+        856,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0A1806",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ri9g7uhw",
+      "id": "4",
+      "name": "Прямоугольник 3",
+      "bbox": [
+        904,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#19370C",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6h0fypgb",
+      "id": "5",
+      "name": "Прямоугольник 4",
+      "bbox": [
+        952,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102808",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tkby9kzm",
+      "id": "6",
+      "name": "Прямоугольник 5",
+      "bbox": [
+        1000,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0A1806",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sjix0zy1",
+      "id": "7",
+      "name": "Прямоугольник 6",
+      "bbox": [
+        1048,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#19370C",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/je9g3ahk",
+      "id": "8",
+      "name": "Прямоугольник 7",
+      "bbox": [
+        1096,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102808",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/id0fu50z",
+      "id": "9",
+      "name": "Прямоугольник 8",
+      "bbox": [
+        1144,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0A1806",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7ydoret",
+      "id": "10",
+      "name": "Прямоугольник 9",
+      "bbox": [
+        1192,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#19370C",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/98rehwve",
+      "id": "11",
+      "name": "Прямоугольник 10",
+      "bbox": [
+        1240,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102808",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5gvmhwn",
+      "id": "12",
+      "name": "Прямоугольник 11",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(5, 7, 6, 0.66667)",
+      "lineColor": "#050706",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6pwfmd8",
+      "id": "13",
+      "name": "Прямоугольник 12",
+      "bbox": [
+        46,
+        28,
+        265,
+        28
+      ],
+      "geometry": "rect",
+      "fillColor": "#163A08",
+      "lineColor": "#62D218",
+      "lineWidth": 1
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0jydkreh",
+      "id": "14",
+      "name": "Прямоугольник 13",
+      "bbox": [
+        58,
+        30,
+        245,
+        24
+      ],
+      "geometry": "rect",
+      "text": "ФОРМИРОВАНИЕ ПОТРЕБНОСТИ",
+      "textPreview": "ФОРМИРОВАНИЕ ПОТРЕБНОСТИ",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ФОРМИРОВАНИЕ ПОТРЕБНОСТИ"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ФОРМИРОВАНИЕ ПОТРЕБНОСТИ",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Arial",
+            "color": "#E8F8DF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ФОРМИРОВАНИЕ ПОТРЕБНОСТИ",
+              "fontSize": 12,
+              "typeface": "Arial",
+              "color": "#E8F8DF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1k7edwv2",
+      "id": "15",
+      "name": "Прямоугольник 14",
+      "bbox": [
+        1190,
+        30,
+        45,
+        24
+      ],
+      "geometry": "rect",
+      "text": "08",
+      "textPreview": "08",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Arial",
+            "color": "#B7C1B7",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "08",
+              "fontSize": 13,
+              "typeface": "Arial",
+              "color": "#B7C1B7",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ehgvihwr",
+      "id": "16",
+      "name": "Прямоугольник 15",
+      "bbox": [
+        48,
+        78,
+        1160,
+        82
+      ],
+      "geometry": "rect",
+      "text": "ШАГ 1. ПРИМЕР ФОРМУЛИРОВКИ",
+      "textPreview": "ШАГ 1. ПРИМЕР ФОРМУЛИРОВКИ",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ШАГ 1. ПРИМЕР ФОРМУЛИРОВКИ"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ШАГ 1. ПРИМЕР ФОРМУЛИРОВКИ",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Arial",
+            "color": "#F5F7F4",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ШАГ 1. ПРИМЕР ФОРМУЛИРОВКИ",
+              "fontSize": 38,
+              "typeface": "Arial",
+              "color": "#F5F7F4",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zipwbmdc",
+      "id": "17",
+      "name": "Прямоугольник 16",
+      "bbox": [
+        70,
+        215,
+        1100,
+        350
+      ],
+      "geometry": "rect",
+      "fillColor": "#0B0F0C",
+      "lineColor": "#325A20",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kfixwbe1",
+      "id": "18",
+      "name": "Прямоугольник 17",
+      "bbox": [
+        92,
+        233,
+        1056,
+        36
+      ],
+      "geometry": "rect",
+      "text": "ПРИМЕР",
+      "textPreview": "ПРИМЕР",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ПРИМЕР"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ПРИМЕР",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#F5F7F4",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ПРИМЕР",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#F5F7F4",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lgbepgvm",
+      "id": "19",
+      "name": "Прямоугольник 18",
+      "bbox": [
+        92,
+        277,
+        1056,
+        272
+      ],
+      "geometry": "rect",
+      "text": "«Сейчас в карточке не заполнена часть услуг и цен, давно не обновлялись фотографии, а отзывы остаются без ответов. Из-за этого профиль может выглядеть неактуальным, и потенциальному клиенту будет сложнее принять решение об обращении».",
+      "textPreview": "«Сейчас в карточке не заполнена часть услуг и цен, давно не обновлялись фотографии, а отзывы остаются без ответов. Из-за этого профиль мо...",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "«Сейчас в карточке не заполнена часть услуг и цен, давно не обновлялись фотографии, а отзывы остаются без"
+          },
+          {
+            "index": 2,
+            "text": "ответов. Из-за этого профиль может выглядеть неактуальным, и потенциальному клиенту будет сложнее"
+          },
+          {
+            "index": 3,
+            "text": "принять решение об обращении»."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "«Сейчас в карточке не заполнена часть услуг и цен, давно не обновлялись фотографии, а отзывы остаются без ответов. Из-за этого профиль может выглядеть неактуальным, и потенциальному клиенту будет сложнее принять решение об обращении».",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#B7C1B7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "«Сейчас в карточке не заполнена часть услуг и цен, давно не обновлялись фотографии, а отзывы остаются без ответов. Из-за этого профиль может выглядеть неактуальным, и потенциальному клиенту будет сложнее принять решение об обращении».",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#B7C1B7",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

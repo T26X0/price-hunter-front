@@ -1,0 +1,4 @@
+Source deck: /Users/dmitrijzorin/Desktop/Формирование_потребности_в_стиле_ORM-Service.pptx
+Visual reference: /Users/dmitrijzorin/Downloads/Визуализация.pptx
+
+No external claims, images, or data are introduced. The visual reference is used only for structural inspiration: linear process maps and progressive step-by-step reveal.

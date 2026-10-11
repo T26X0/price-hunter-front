@@ -1,0 +1,145 @@
+{"kind":"deck","id":"pr/xm8jy3","name":"Deck"}
+{"kind":"layout","layoutId":"cbcaf072-3b5a-43d8-b0c7-c49d0e8b7f67","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"82452f23-f856-4982-98e1-7bbf6ee79397","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/6ozey8","slide":1,"title":"ПРАКТИЧЕСКОЕ ОБУЧЕНИЕ","textShapes":4}
+{"kind":"textbox","id":"sh/fql07q98","slide":1,"text":"ПРАКТИЧЕСКОЕ ОБУЧЕНИЕ","textPreview":"ПРАКТИЧЕСКОЕ ОБУЧЕНИЕ","textChars":21,"textLines":1,"bbox":[70,62,500,28]}
+{"kind":"textbox","id":"sh/0ruh0vat","slide":1,"text":"Формирование\nпотребности","textPreview":"Формирование | потребности","textChars":24,"textLines":2,"bbox":[70,165,900,220]}
+{"kind":"textbox","id":"sh/1s3i90re","slide":1,"text":"Продажи ведения профиля на Яндекс Картах, 2ГИС и Zoon","textPreview":"Продажи ведения профиля на Яндекс Картах, 2ГИС и Zoon","textChars":53,"textLines":1,"bbox":[72,430,900,70]}
+{"kind":"shape","id":"sh/2tcz2lsz","slide":1,"bbox":[72,548,350,8]}
+{"kind":"textbox","id":"sh/nul0bq9k","slide":1,"text":"Цель: клиент видит проблему и хочет её решить","textPreview":"Цель: клиент видит проблему и хочет её решить","textChars":45,"textLines":1,"bbox":[72,580,900,55]}
+{"kind":"notes","id":"nt/6ozey8","slide":1,"text":""}
+{"kind":"slide","id":"sl/ge1j76","slide":2,"title":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textShapes":7}
+{"kind":"textbox","id":"sh/craxgvq1","slide":2,"text":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textPreview":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textChars":22,"textLines":1,"bbox":[58,30,700,24]}
+{"kind":"textbox","id":"sh/rq1wnq9g","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,30,60,24]}
+{"kind":"textbox","id":"sh/qpsfelsb","slide":2,"text":"Потребность начинается с желания изменить ситуацию","textPreview":"Потребность начинается с желания изменить ситуацию","textChars":50,"textLines":1,"bbox":[58,76,1160,80]}
+{"kind":"shape","id":"sh/1w3ytkry","slide":2,"bbox":[58,166,110,7]}
+{"kind":"textbox","id":"sh/0vuxkfqd","slide":2,"text":"Потребность","textPreview":"Потребность","textChars":11,"textLines":1,"bbox":[70,220,380,55]}
+{"kind":"textbox","id":"sh/zu1gra9s","slide":2,"text":"осознанная клиентом необходимость решить проблему или улучшить текущий результат","textPreview":"осознанная клиентом необходимость решить проблему или улучшить текущий результат","textChars":80,"textLines":1,"bbox":[70,280,530,150]}
+{"kind":"shape","id":"sh/etsfi587","slide":2,"bbox":[700,220,470,260]}
+{"kind":"textbox","id":"sh/h0zehgre","slide":2,"text":"Важно","textPreview":"Важно","textChars":5,"textLines":1,"bbox":[740,250,390,45]}
+{"kind":"textbox","id":"sh/gzqx8bat","slide":2,"text":"Менеджер не придумывает потребность. Он помогает клиенту увидеть связь между фактами, последствиями и необходимостью действовать.","textPreview":"Менеджер не придумывает потребность. Он помогает клиенту увидеть связь между фактами, последствиями и необходимостью действовать.","textChars":129,"textLines":1,"bbox":[740,305,390,140]}
+{"kind":"notes","id":"nt/ge1j76","slide":2,"text":""}
+{"kind":"slide","id":"sl/in2htk","slide":3,"title":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textShapes":12}
+{"kind":"textbox","id":"sh/q5sryhov","slide":3,"text":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textPreview":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textChars":22,"textLines":1,"bbox":[58,30,700,24]}
+{"kind":"textbox","id":"sh/d8jq9w7m","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,30,60,24]}
+{"kind":"textbox","id":"sh/s7a90r61","slide":3,"text":"Три состояния потребности определяют следующий шаг","textPreview":"Три состояния потребности определяют следующий шаг","textChars":50,"textLines":1,"bbox":[58,76,1160,80]}
+{"kind":"shape","id":"sh/fu18b6ps","slide":3,"bbox":[58,166,110,7]}
+{"kind":"shape","id":"sh/e9sr21o7","slide":3,"bbox":[58,220,325,350]}
+{"kind":"textbox","id":"sh/1w3qdw7i","slide":3,"text":"1. Скрытая","textPreview":"1. Скрытая","textChars":10,"textLines":1,"bbox":[82,248,277,52]}
+{"kind":"textbox","id":"sh/0vu94r6d","slide":3,"text":"Проблема есть, но клиент её не замечает.","textPreview":"Проблема есть, но клиент её не замечает.","textChars":40,"textLines":1,"bbox":[82,320,277,105]}
+{"kind":"textbox","id":"sh/vyh8z2p8","slide":3,"text":"Показать факт и влияние.","textPreview":"Показать факт и влияние.","textChars":24,"textLines":1,"bbox":[82,470,277,60]}
+{"kind":"shape","id":"sh/ud87qxo3","slide":3,"bbox":[428,220,325,350]}
+{"kind":"textbox","id":"sh/kza5s72p","slide":3,"text":"2. Осознанная","textPreview":"2. Осознанная","textChars":13,"textLines":1,"bbox":[452,248,277,52]}
+{"kind":"textbox","id":"sh/lkj61c3a","slide":3,"text":"Клиент видит проблему, но не считает её приоритетной.","textPreview":"Клиент видит проблему, но не считает её приоритетной.","textChars":53,"textLines":1,"bbox":[452,320,277,105]}
+{"kind":"textbox","id":"sh/yxsnqxkj","slide":3,"text":"Показать последствия.","textPreview":"Показать последствия.","textChars":21,"textLines":1,"bbox":[452,470,277,60]}
+{"kind":"shape","id":"sh/zy1oz2l4","slide":3,"bbox":[798,220,325,350]}
+{"kind":"textbox","id":"sh/8na5wr21","slide":3,"text":"3. Активная","textPreview":"3. Активная","textChars":11,"textLines":1,"bbox":[822,248,277,52]}
+{"kind":"textbox","id":"sh/toj65w36","slide":3,"text":"Клиент понимает последствия и ищет решение.","textPreview":"Клиент понимает последствия и ищет решение.","textChars":43,"textLines":1,"bbox":[822,320,277,105]}
+{"kind":"textbox","id":"sh/mlsnuhkv","slide":3,"text":"Перейти к презентации.","textPreview":"Перейти к презентации.","textChars":22,"textLines":1,"bbox":[822,470,277,60]}
+{"kind":"notes","id":"nt/in2htk","slide":3,"text":""}
+{"kind":"slide","id":"sl/dgnvii","slide":4,"title":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textShapes":12}
+{"kind":"textbox","id":"sh/n2lkzqtc","slide":4,"text":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textPreview":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textChars":22,"textLines":1,"bbox":[58,30,700,24]}
+{"kind":"textbox","id":"sh/83u1sbux","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1160,30,60,24]}
+{"kind":"textbox","id":"sh/94321gbi","slide":4,"text":"Без потребности услуга кажется лишней или дорогой","textPreview":"Без потребности услуга кажется лишней или дорогой","textChars":49,"textLines":1,"bbox":[58,76,1160,80]}
+{"kind":"shape","id":"sh/ydsjm1cv","slide":4,"bbox":[58,166,110,7]}
+{"kind":"textbox","id":"sh/ze1kv6dg","slide":4,"text":"До этапа","textPreview":"До этапа","textChars":8,"textLines":1,"bbox":[70,215,460,45]}
+{"kind":"shape","id":"sh/0za1obu1","slide":4,"bbox":[70,270,470,230]}
+{"kind":"textbox","id":"sh/l0j2xgbm","slide":4,"text":"• «У нас всё нормально»","textPreview":"• «У нас всё нормально»","textChars":23,"textLines":1,"bbox":[100,300,390,58]}
+{"kind":"textbox","id":"sh/q98ji1cz","slide":4,"text":"• «Мы занимаемся сами»","textPreview":"• «Мы занимаемся сами»","textChars":22,"textLines":1,"bbox":[100,365,390,58]}
+{"kind":"textbox","id":"sh/bahkr6dk","slide":4,"text":"• «Для нас это дорого»","textPreview":"• «Для нас это дорого»","textChars":22,"textLines":1,"bbox":[100,430,390,58]}
+{"kind":"textbox","id":"sh/bi1o3ytw","slide":4,"text":"После этапа","textPreview":"После этапа","textChars":11,"textLines":1,"bbox":[690,215,460,45]}
+{"kind":"shape","id":"sh/ahs7utsr","slide":4,"bbox":[690,270,470,230]}
+{"kind":"textbox","id":"sh/xkj658b2","slide":4,"text":"• «Да, проблема есть»","textPreview":"• «Да, проблема есть»","textChars":21,"textLines":1,"bbox":[720,300,390,58]}
+{"kind":"textbox","id":"sh/cjapw3ah","slide":4,"text":"• «Этим нужно заниматься»","textPreview":"• «Этим нужно заниматься»","textChars":25,"textLines":1,"bbox":[720,365,390,58]}
+{"kind":"textbox","id":"sh/zm1o7it8","slide":4,"text":"• «Расскажите, как решить»","textPreview":"• «Расскажите, как решить»","textChars":26,"textLines":1,"bbox":[720,430,390,58]}
+{"kind":"textbox","id":"sh/yls7ydsn","slide":4,"text":"Задача менеджера — изменить состояние клиента, а не сразу перечислить услуги.","textPreview":"Задача менеджера — изменить состояние клиента, а не сразу перечислить услуги.","textChars":77,"textLines":1,"bbox":[180,570,920,55]}
+{"kind":"notes","id":"nt/dgnvii","slide":4,"text":""}
+{"kind":"slide","id":"sl/s3i71s","slide":5,"title":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textShapes":13}
+{"kind":"textbox","id":"sh/gz2l8nid","slide":5,"text":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textPreview":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textChars":22,"textLines":1,"bbox":[58,30,700,24]}
+{"kind":"textbox","id":"sh/vyt4fi1s","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1160,30,60,24]}
+{"kind":"textbox","id":"sh/uxk36d07","slide":5,"text":"Пять принципов сохраняют доверие клиента","textPreview":"Пять принципов сохраняют доверие клиента","textChars":40,"textLines":1,"bbox":[58,76,1160,80]}
+{"kind":"shape","id":"sh/twbmd8j2","slide":5,"bbox":[58,166,110,7]}
+{"kind":"textbox","id":"sh/8v2l4nih","slide":5,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[70,205,50,50]}
+{"kind":"textbox","id":"sh/7ut4bi1w","slide":5,"text":"Опираемся на конкретные факты из карточки","textPreview":"Опираемся на конкретные факты из карточки","textChars":41,"textLines":1,"bbox":[145,205,1010,55]}
+{"kind":"textbox","id":"sh/6tk32d0b","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[70,287,50,50]}
+{"kind":"textbox","id":"sh/dsfmpcj6","slide":5,"text":"Не запугиваем и не придумываем потери","textPreview":"Не запугиваем и не придумываем потери","textChars":37,"textLines":1,"bbox":[145,287,1010,55]}
+{"kind":"textbox","id":"sh/sr65g7il","slide":5,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[70,369,50,50]}
+{"kind":"textbox","id":"sh/a1s7y50r","slide":5,"text":"Показываем проблему глазами пользователя","textPreview":"Показываем проблему глазами пользователя","textChars":40,"textLines":1,"bbox":[145,369,1010,55]}
+{"kind":"textbox","id":"sh/b2187ahw","slide":5,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[70,451,50,50]}
+{"kind":"textbox","id":"sh/w3up0vih","slide":5,"text":"После каждого блока получаем реакцию","textPreview":"После каждого блока получаем реакцию","textChars":36,"textLines":1,"bbox":[145,451,1010,55]}
+{"kind":"textbox","id":"sh/xo3q90z2","slide":5,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[70,533,50,50]}
+{"kind":"textbox","id":"sh/mxs7ul0f","slide":5,"text":"Не презентуем решение раньше времени","textPreview":"Не презентуем решение раньше времени","textChars":36,"textLines":1,"bbox":[145,533,1010,55]}
+{"kind":"notes","id":"nt/s3i71s","slide":5,"text":""}
+{"kind":"slide","id":"sl/fctldy","slide":6,"title":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textShapes":15}
+{"kind":"textbox","id":"sh/qtonulkn","slide":6,"text":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textPreview":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textChars":22,"textLines":1,"bbox":[58,30,700,24]}
+{"kind":"textbox","id":"sh/dgz6p03y","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1160,30,60,24]}
+{"kind":"textbox","id":"sh/cv65wv2t","slide":6,"text":"Алгоритм: от факта к готовности действовать","textPreview":"Алгоритм: от факта к готовности действовать","textChars":43,"textLines":1,"bbox":[58,76,1160,80]}
+{"kind":"shape","id":"sh/3qx4jqlw","slide":6,"bbox":[58,166,110,7]}
+{"kind":"textbox","id":"sh/2ponqlkb","slide":6,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[70,205,75,62]}
+{"kind":"textbox","id":"sh/psfmlg32","slide":6,"text":"Проблема и последствия","textPreview":"Проблема и последствия","textChars":22,"textLines":1,"bbox":[170,205,880,62]}
+{"kind":"textbox","id":"sh/4r65sb2h","slide":6,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[1110,260,50,30]}
+{"kind":"textbox","id":"sh/fmd4f6l0","slide":6,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[70,300,75,62]}
+{"kind":"textbox","id":"sh/ul4nm1kf","slide":6,"text":"Пример из жизни","textPreview":"Пример из жизни","textChars":15,"textLines":1,"bbox":[170,300,880,62]}
+{"kind":"textbox","id":"sh/svqlcryt","slide":6,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[1110,355,50,30]}
+{"kind":"textbox","id":"sh/twz25cfe","slide":6,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[70,395,75,62]}
+{"kind":"textbox","id":"sh/6to3ahgn","slide":6,"text":"Отношение клиента","textPreview":"Отношение клиента","textChars":17,"textLines":1,"bbox":[170,395,880,62]}
+{"kind":"textbox","id":"sh/7uhk3mh8","slide":6,"text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[1110,450,50,30]}
+{"kind":"textbox","id":"sh/kr6l87yh","slide":6,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[70,490,75,62]}
+{"kind":"textbox","id":"sh/5sf21cz2","slide":6,"text":"Мотивация к действию","textPreview":"Мотивация к действию","textChars":20,"textLines":1,"bbox":[170,490,880,62]}
+{"kind":"textbox","id":"sh/ipo36xgr","slide":6,"text":"Факт → влияние → пример → вопрос → мотивация","textPreview":"Факт → влияние → пример → вопрос → мотивация","textChars":44,"textLines":1,"bbox":[250,610,780,45]}
+{"kind":"notes","id":"nt/fctldy","slide":6,"text":""}
+{"kind":"slide","id":"sl/3eaely","slide":7,"title":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textShapes":8}
+{"kind":"textbox","id":"sh/hsnulgju","slide":7,"text":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textPreview":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textChars":22,"textLines":1,"bbox":[58,30,700,24]}
+{"kind":"textbox","id":"sh/upwbq1k3","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1160,30,60,24]}
+{"kind":"textbox","id":"sh/vq5cj61o","slide":7,"text":"Сначала делаем проблему понятной и наглядной","textPreview":"Сначала делаем проблему понятной и наглядной","textChars":44,"textLines":1,"bbox":[58,76,1160,80]}
+{"kind":"shape","id":"sh/4vetwv25","slide":7,"bbox":[58,166,110,7]}
+{"kind":"textbox","id":"sh/5w7upgjq","slide":7,"text":"1. Проблема и последствия","textPreview":"1. Проблема и последствия","textChars":25,"textLines":1,"bbox":[70,210,500,45]}
+{"kind":"shape","id":"sh/itwbulkz","slide":7,"bbox":[70,270,520,235]}
+{"kind":"textbox","id":"sh/3u5cnq1k","slide":7,"text":"«В карточке не заполнена часть услуг и цен, давно не обновлялись фотографии, а отзывы остаются без ответов. Из-за этого профиль может выглядеть неактуальным».","textPreview":"«В карточке не заполнена часть услуг и цен, давно не обновлялись фотографии, а отзывы остаются без ответов. Из-за этого профиль может выг...","textChars":158,"textLines":1,"bbox":[100,295,460,175]}
+{"kind":"textbox","id":"sh/sjyt0v2h","slide":7,"text":"2. Пример из жизни","textPreview":"2. Пример из жизни","textChars":18,"textLines":1,"bbox":[670,210,500,45]}
+{"kind":"shape","id":"sh/dk7ut0j2","slide":7,"bbox":[670,270,520,235]}
+{"kind":"textbox","id":"sh/98ni10fy","slide":7,"text":"«Клиент сравнивает две карточки. У конкурента есть цены, свежие фото и ответы на отзывы. В вашей карточке информации меньше — выбрать конкурента ему проще».","textPreview":"«Клиент сравнивает две карточки. У конкурента есть цены, свежие фото и ответы на отзывы. В вашей карточке информации меньше — выбрать кон...","textChars":156,"textLines":1,"bbox":[700,295,460,175]}
+{"kind":"textbox","id":"sh/87u18ved","slide":7,"text":"Говорим о поведении пользователя — не обвиняем бизнес.","textPreview":"Говорим о поведении пользователя — не обвиняем бизнес.","textChars":54,"textLines":1,"bbox":[230,570,820,45]}
+{"kind":"notes","id":"nt/3eaely","slide":7,"text":""}
+{"kind":"slide","id":"sl/3aqlhf","slide":8,"title":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textShapes":8}
+{"kind":"textbox","id":"sh/bmtwnmhw","slide":8,"text":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textPreview":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textChars":22,"textLines":1,"bbox":[58,30,700,24]}
+{"kind":"textbox","id":"sh/cn2xw7i1","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1160,30,60,24]}
+{"kind":"textbox","id":"sh/xobepczm","slide":8,"text":"Затем клиент сам оценивает ситуацию и приоритет","textPreview":"Затем клиент сам оценивает ситуацию и приоритет","textChars":47,"textLines":1,"bbox":[58,76,1160,80]}
+{"kind":"shape","id":"sh/2xkfqx0z","slide":8,"bbox":[58,166,110,7]}
+{"kind":"textbox","id":"sh/nytwj2hk","slide":8,"text":"3. Отношение клиента","textPreview":"3. Отношение клиента","textChars":20,"textLines":1,"bbox":[70,210,500,45]}
+{"kind":"shape","id":"sh/oj2xs7i5","slide":8,"bbox":[70,270,520,235]}
+{"kind":"textbox","id":"sh/pkbelczq","slide":8,"text":"«Кто сейчас ведёт карточки на Яндекс Картах, 2ГИС и Zoon? Как часто обновляете информацию, публикуете материалы и отвечаете на отзывы?»","textPreview":"«Кто сейчас ведёт карточки на Яндекс Картах, 2ГИС и Zoon? Как часто обновляете информацию, публикуете материалы и отвечаете на отзывы?»","textChars":135,"textLines":1,"bbox":[100,295,460,175]}
+{"kind":"textbox","id":"sh/et0vmx03","slide":8,"text":"4. Мотивация к действию","textPreview":"4. Мотивация к действию","textChars":23,"textLines":1,"bbox":[670,210,500,45]}
+{"kind":"shape","id":"sh/fu9wfi1o","slide":8,"bbox":[670,270,520,235]}
+{"kind":"textbox","id":"sh/nal4ri9o","slide":8,"text":"«Если ничего не менять, профили могут выглядеть менее актуальными на фоне конкурентов. Согласны, что ведение стоит сделать регулярным и системным?»","textPreview":"«Если ничего не менять, профили могут выглядеть менее актуальными на фоне конкурентов. Согласны, что ведение стоит сделать регулярным и с...","textChars":147,"textLines":1,"bbox":[700,295,460,175]}
+{"kind":"textbox","id":"sh/2psnyds3","slide":8,"text":"Вопросы превращают монолог менеджера в вывод клиента.","textPreview":"Вопросы превращают монолог менеджера в вывод клиента.","textChars":53,"textLines":1,"bbox":[235,570,810,45]}
+{"kind":"notes","id":"nt/3aqlhf","slide":8,"text":""}
+{"kind":"slide","id":"sl/hhyv2x","slide":9,"title":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textShapes":12}
+{"kind":"textbox","id":"sh/pwz2hwva","slide":9,"text":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textPreview":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textChars":22,"textLines":1,"bbox":[58,30,700,24]}
+{"kind":"textbox","id":"sh/it8jmhwz","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1160,30,60,24]}
+{"kind":"textbox","id":"sh/3uhkfmdk","slide":9,"text":"Результат этапа виден по реакции клиента","textPreview":"Результат этапа виден по реакции клиента","textChars":40,"textLines":1,"bbox":[58,76,1160,80]}
+{"kind":"shape","id":"sh/cza1sre1","slide":9,"bbox":[58,166,110,7]}
+{"kind":"shape","id":"sh/d0j2lwvm","slide":9,"bbox":[70,210,70,62]}
+{"kind":"textbox","id":"sh/qx8jq1wv","slide":9,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[85,215,40,50]}
+{"kind":"textbox","id":"sh/ryhkj6dg","slide":9,"text":"Признаёт наличие проблемы","textPreview":"Признаёт наличие проблемы","textChars":25,"textLines":1,"bbox":[180,210,950,62]}
+{"kind":"shape","id":"sh/8361g7ex","slide":9,"bbox":[70,298,70,62]}
+{"kind":"textbox","id":"sh/t4fi9cv2","slide":9,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[85,303,40,50]}
+{"kind":"textbox","id":"sh/hcfmh87m","slide":9,"text":"Соглашается с её последствиями","textPreview":"Соглашается с её последствиями","textChars":30,"textLines":1,"bbox":[180,298,950,62]}
+{"kind":"shape","id":"sh/gbm58361","slide":9,"bbox":[70,386,70,62]}
+{"kind":"textbox","id":"sh/fad4fypg","slide":9,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[85,391,40,50]}
+{"kind":"textbox","id":"sh/u94n6tov","slide":9,"text":"Говорит, что карточками нужно заниматься системно","textPreview":"Говорит, что карточками нужно заниматься системно","textChars":49,"textLines":1,"bbox":[180,386,950,62]}
+{"kind":"shape","id":"sh/p0f6l87i","slide":9,"bbox":[70,474,70,62]}
+{"kind":"textbox","id":"sh/4z65c36d","slide":9,"text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[85,479,40,50]}
+{"kind":"textbox","id":"sh/3yx4jyps","slide":9,"text":"Просит рассказать, как мы можем помочь","textPreview":"Просит рассказать, как мы можем помочь","textChars":38,"textLines":1,"bbox":[180,474,950,62]}
+{"kind":"textbox","id":"sh/2donato7","slide":9,"text":"Только после этого переходим к презентации решения.","textPreview":"Только после этого переходим к презентации решения.","textChars":51,"textLines":1,"bbox":[245,610,790,45]}
+{"kind":"notes","id":"nt/hhyv2x","slide":9,"text":""}
+{"kind":"slide","id":"sl/ds37a6","slide":10,"title":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textShapes":6}
+{"kind":"textbox","id":"sh/yt4b6p0v","slide":10,"text":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textPreview":"ОБУЧЕНИЕ ОТДЕЛА ПРОДАЖ","textChars":22,"textLines":1,"bbox":[58,30,700,24]}
+{"kind":"textbox","id":"sh/lwvu14zm","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1160,30,60,24]}
+{"kind":"textbox","id":"sh/kvmt8zi1","slide":10,"text":"Главный вывод","textPreview":"Главный вывод","textChars":13,"textLines":1,"bbox":[58,76,1160,80]}
+{"kind":"shape","id":"sh/bqtsvah4","slide":10,"bbox":[58,166,110,7]}
+{"kind":"textbox","id":"sh/apkb250z","slide":10,"text":"Мы не продаём ведение профиля сразу.","textPreview":"Мы не продаём ведение профиля сразу.","textChars":36,"textLines":1,"bbox":[90,220,1050,55]}
+{"kind":"textbox","id":"sh/xsvaxkza","slide":10,"text":"Сначала помогаем клиенту связать состояние карточки с выбором пользователей, последствиями для бизнеса и необходимостью действовать.","textPreview":"Сначала помогаем клиенту связать состояние карточки с выбором пользователей, последствиями для бизнеса и необходимостью действовать.","textChars":132,"textLines":1,"bbox":[90,300,1050,145]}
+{"kind":"shape","id":"sh/crmt4fip","slide":10,"bbox":[90,500,1050,95]}
+{"kind":"textbox","id":"sh/vmxc7eho","slide":10,"text":"Цель: «Вижу проблему — хочу узнать, как её решить».","textPreview":"Цель: «Вижу проблему — хочу узнать, как её решить».","textChars":51,"textLines":1,"bbox":[130,520,970,55]}
+{"kind":"notes","id":"nt/ds37a6","slide":10,"text":""}

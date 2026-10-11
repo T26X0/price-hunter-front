@@ -1,0 +1,250 @@
+{"kind":"deck","id":"pr/5n1st9","name":"Deck"}
+{"kind":"layout","layoutId":"dbbbd62b-1822-4731-9d05-a6631417db8f","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"3ba43299-5538-4263-96ab-f7e9ccec7bf7","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/zulm2h","slide":1,"title":"VICTORY GROUP / ORM SERVICE","textShapes":13}
+{"kind":"shape","id":"sh/e9k3u9wn","slide":1,"name":"rule","bbox":[48,44,1184,4]}
+{"kind":"textbox","id":"sh/1cbm5ove","slide":1,"text":"VICTORY GROUP / ORM SERVICE","textPreview":"VICTORY GROUP / ORM SERVICE","textChars":27,"textLines":1,"bbox":[50,66,410,20]}
+{"kind":"textbox","id":"sh/gb2lwjet","slide":1,"name":"cover-title","text":"ШАГ\nЛЕКЦИИ","textPreview":"ШАГ | ЛЕКЦИИ","textChars":10,"textLines":2,"bbox":[48,142,720,176]}
+{"kind":"textbox","id":"sh/r6tkzedc","slide":1,"text":"Презентация продукта","textPreview":"Презентация продукта","textChars":20,"textLines":1,"bbox":[52,340,520,44]}
+{"kind":"textbox","id":"sh/6503q9wr","slide":1,"text":"Как объяснить ценность решения,\nсвязать его с проблемой и перейти к следующему шагу","textPreview":"Как объяснить ценность решения, | связать его с проблемой и перейти к следующему шагу","textChars":83,"textLines":2,"bbox":[52,404,610,64]}
+{"kind":"textbox","id":"sh/t8b214v2","slide":1,"text":"Лекция для менеджера","textPreview":"Лекция для менеджера","textChars":20,"textLines":1,"bbox":[52,618,330,26]}
+{"kind":"textbox","id":"sh/s72lszeh","slide":1,"text":"ORM / управление репутацией","textPreview":"ORM / управление репутацией","textChars":27,"textLines":1,"bbox":[52,654,420,20]}
+{"kind":"textbox","id":"sh/ji9kvud0","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[909,116,245,178]}
+{"kind":"shape","id":"sh/ih03mpwf","slide":1,"name":"cover-map","bbox":[772,350,405,198]}
+{"kind":"textbox","id":"sh/k3qdgz6l","slide":1,"text":"ПРОБЛЕМА","textPreview":"ПРОБЛЕМА","textChars":8,"textLines":1,"bbox":[800,383,180,22]}
+{"kind":"textbox","id":"sh/54jep476","slide":1,"text":"РЕШЕНИЕ","textPreview":"РЕШЕНИЕ","textChars":7,"textLines":1,"bbox":[800,443,180,22]}
+{"kind":"textbox","id":"sh/i18vepof","slide":1,"text":"ВЫГОДА","textPreview":"ВЫГОДА","textChars":6,"textLines":1,"bbox":[800,503,180,22]}
+{"kind":"shape","id":"sh/j2hwnup0","slide":1,"name":"rule","bbox":[1008,397,132,2]}
+{"kind":"shape","id":"sh/wzqdcf6p","slide":1,"name":"rule","bbox":[1008,457,132,2]}
+{"kind":"shape","id":"sh/x0zulk7u","slide":1,"name":"number","bbox":[1134,384,28,28]}
+{"kind":"textbox","id":"sh/ax8vap8j","slide":1,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[1134,385,28,26]}
+{"kind":"shape","id":"sh/vyhcjap4","slide":1,"name":"number","bbox":[1134,444,28,28]}
+{"kind":"textbox","id":"sh/gvadoj6t","slide":1,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[1134,445,28,26]}
+{"kind":"shape","id":"sh/hw3exo7e","slide":1,"name":"number","bbox":[1134,504,28,28]}
+{"kind":"textbox","id":"sh/pczehozi","slide":1,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1134,505,28,26]}
+{"kind":"notes","id":"nt/zulm2h","slide":1,"text":"[Sources]\n- https://victoryagency.ru/services/reputation (visual reference for palette, large uppercase typography and content rhythm; accessed 2026-09-04)\n[/Sources]"}
+{"kind":"slide","id":"sl/i34a5k","slide":2,"title":"ЦЕЛЬ ЭТАПА","textShapes":9}
+{"kind":"shape","id":"sh/jepw3y9w","slide":2,"name":"rule","bbox":[48,38,1184,3]}
+{"kind":"textbox","id":"sh/kfyxw3ah","slide":2,"text":"ЦЕЛЬ ЭТАПА","textPreview":"ЦЕЛЬ ЭТАПА","textChars":10,"textLines":1,"bbox":[48,56,560,18]}
+{"kind":"textbox","id":"sh/5g7e58rm","slide":2,"text":"02 / 11","textPreview":"02 / 11","textChars":7,"textLines":1,"bbox":[1090,56,142,18]}
+{"kind":"textbox","id":"sh/6hgfyds7","slide":2,"name":"title","text":"Сначала сделайте\nценность понятной","textPreview":"Сначала сделайте | ценность понятной","textChars":34,"textLines":2,"bbox":[48,105,1060,100]}
+{"kind":"textbox","id":"sh/7ipw7i9s","slide":2,"name":"subtitle","text":"Клиент уже признал проблему. Теперь он должен увидеть, как решение поможет её устранить.","textPreview":"Клиент уже признал проблему. Теперь он должен увидеть, как решение поможет её устранить.","textChars":88,"textLines":1,"bbox":[50,202,1010,48]}
+{"kind":"shape","id":"sh/s3yx03ad","slide":2,"name":"before","bbox":[50,326,507,184]}
+{"kind":"textbox","id":"sh/t47e98ry","slide":2,"text":"ДО ПРЕЗЕНТАЦИИ","textPreview":"ДО ПРЕЗЕНТАЦИИ","textChars":14,"textLines":1,"bbox":[78,354,300,20]}
+{"kind":"textbox","id":"sh/u50f2dsj","slide":2,"text":"«Я вижу проблему,\nно не вижу решения»","textPreview":"«Я вижу проблему, | но не вижу решения»","textChars":37,"textLines":2,"bbox":[78,402,402,70]}
+{"kind":"shape","id":"sh/f69gbi94","slide":2,"name":"arrow","bbox":[587,397,100,30]}
+{"kind":"shape","id":"sh/vap0rq9k","slide":2,"name":"after","bbox":[724,326,507,184]}
+{"kind":"textbox","id":"sh/apgzylsf","slide":2,"text":"ПОСЛЕ ПРЕЗЕНТАЦИИ","textPreview":"ПОСЛЕ ПРЕЗЕНТАЦИИ","textChars":17,"textLines":1,"bbox":[752,354,330,20]}
+{"kind":"textbox","id":"sh/xcrit0rq","slide":2,"text":"«Я понимаю решение,\nвыгоду и следующий шаг»","textPreview":"«Я понимаю решение, | выгоду и следующий шаг»","textChars":43,"textLines":2,"bbox":[752,402,422,70]}
+{"kind":"shape","id":"sh/wby10va5","slide":2,"name":"key-message","bbox":[48,590,1184,54]}
+{"kind":"textbox","id":"sh/nmp0n69o","slide":2,"text":"Задача менеджера: сделать связь «проблема → решение → выгода» очевидной для клиента.","textPreview":"Задача менеджера: сделать связь «проблема → решение → выгода» очевидной для клиента.","textChars":84,"textLines":1,"bbox":[74,602,1128,28]}
+{"kind":"notes","id":"nt/i34a5k","slide":2,"text":""}
+{"kind":"slide","id":"sl/g9lfca","slide":3,"title":"ЛОГИКА ЛЕКЦИИ","textShapes":14}
+{"kind":"shape","id":"sh/8fmtcvmp","slide":3,"name":"rule","bbox":[48,38,1184,3]}
+{"kind":"textbox","id":"sh/7edc3ql4","slide":3,"text":"ЛОГИКА ЛЕКЦИИ","textPreview":"ЛОГИКА ЛЕКЦИИ","textChars":13,"textLines":1,"bbox":[48,56,560,18]}
+{"kind":"textbox","id":"sh/6d4bal4z","slide":3,"text":"03 / 11","textPreview":"03 / 11","textChars":7,"textLines":1,"bbox":[1090,56,142,18]}
+{"kind":"textbox","id":"sh/h4vu903m","slide":3,"name":"title","text":"Логика раньше деталей","textPreview":"Логика раньше деталей","textChars":21,"textLines":1,"bbox":[48,105,1060,88]}
+{"kind":"textbox","id":"sh/g3mdgfm1","slide":3,"name":"subtitle","text":"Первые три шага помогают клиенту понять, зачем слушать о продукте и почему решение имеет отношение к его ситуации.","textPreview":"Первые три шага помогают клиенту понять, зачем слушать о продукте и почему решение имеет отношение к его ситуации.","textChars":114,"textLines":1,"bbox":[50,202,1010,48]}
+{"kind":"shape","id":"sh/v2dc7alg","slide":3,"name":"logic-card","bbox":[48,320,352,218]}
+{"kind":"textbox","id":"sh/uh4be54v","slide":3,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[72,348,70,24]}
+{"kind":"textbox","id":"sh/x8buxg32","slide":3,"text":"Зачем нужен этап","textPreview":"Зачем нужен этап","textChars":16,"textLines":1,"bbox":[72,392,290,58]}
+{"kind":"textbox","id":"sh/w72t4bmh","slide":3,"text":"Показываем, какую задачу клиента решает презентация.","textPreview":"Показываем, какую задачу клиента решает презентация.","textChars":52,"textLines":1,"bbox":[72,471,292,48]}
+{"kind":"shape","id":"sh/ytori58z","slide":3,"name":"arrow","bbox":[400,409,48,22]}
+{"kind":"shape","id":"sh/zuxsrapk","slide":3,"name":"logic-card","bbox":[448,320,352,218]}
+{"kind":"textbox","id":"sh/kv69kfq5","slide":3,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[472,348,70,24]}
+{"kind":"textbox","id":"sh/lwfatk7a","slide":3,"text":"Что происходит\nс клиентом","textPreview":"Что происходит | с клиентом","textChars":25,"textLines":2,"bbox":[472,392,290,58]}
+{"kind":"textbox","id":"sh/mx8rmp8v","slide":3,"text":"Потребность уже есть, но решения и ценности он ещё не видит.","textPreview":"Потребность уже есть, но решения и ценности он ещё не видит.","textChars":60,"textLines":1,"bbox":[472,471,292,48]}
+{"kind":"shape","id":"sh/7yhsvupg","slide":3,"name":"arrow","bbox":[800,409,48,22]}
+{"kind":"shape","id":"sh/8zq9ofq1","slide":3,"name":"logic-card","bbox":[848,320,352,218]}
+{"kind":"textbox","id":"sh/90zaxk7m","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[872,348,70,24]}
+{"kind":"textbox","id":"sh/u18rqp87","slide":3,"text":"В какое состояние\nпереводим","textPreview":"В какое состояние | переводим","textChars":27,"textLines":2,"bbox":[872,392,290,58]}
+{"kind":"textbox","id":"sh/v2hszups","slide":3,"text":"Из «просто слушаю» — в «готов обсуждать решение».","textPreview":"Из «просто слушаю» — в «готов обсуждать решение».","textChars":49,"textLines":1,"bbox":[872,471,292,48]}
+{"kind":"textbox","id":"sh/rq187u5k","slide":3,"text":"Сначала создайте для клиента понятный контекст решения. Характеристики — после логики.","textPreview":"Сначала создайте для клиента понятный контекст решения. Характеристики — после логики.","textChars":86,"textLines":1,"bbox":[50,610,1030,24]}
+{"kind":"notes","id":"nt/g9lfca","slide":3,"text":""}
+{"kind":"slide","id":"sl/o1bbvm","slide":4,"title":"ПРАВИЛА ЭТАПА","textShapes":19}
+{"kind":"shape","id":"sh/90jahon6","slide":4,"name":"rule","bbox":[48,38,1184,3]}
+{"kind":"textbox","id":"sh/mx8b694v","slide":4,"text":"ПРАВИЛА ЭТАПА","textPreview":"ПРАВИЛА ЭТАПА","textChars":13,"textLines":1,"bbox":[48,56,560,18]}
+{"kind":"textbox","id":"sh/7yhsfe50","slide":4,"text":"04 / 11","textPreview":"04 / 11","textChars":7,"textLines":1,"bbox":[1090,56,142,18]}
+{"kind":"textbox","id":"sh/w3atcjmx","slide":4,"name":"title","text":"Меньше монолога —\nбольше связи с задачей","textPreview":"Меньше монолога — | больше связи с задачей","textChars":40,"textLines":2,"bbox":[48,105,1060,96]}
+{"kind":"textbox","id":"sh/h4juloni","slide":4,"name":"subtitle","text":"Ценность создаётся через структуру, конкретику и вовлекающий вопрос после озвучивания стоимости.","textPreview":"Ценность создаётся через структуру, конкретику и вовлекающий вопрос после озвучивания стоимости.","textChars":96,"textLines":1,"bbox":[50,202,1010,48]}
+{"kind":"shape","id":"sh/u1sbat4r","slide":4,"name":"rule-panel","bbox":[48,310,552,235]}
+{"kind":"textbox","id":"sh/v21cjy5c","slide":4,"text":"ДЕЛАЕМ","textPreview":"ДЕЛАЕМ","textChars":6,"textLines":1,"bbox":[76,338,270,24]}
+{"kind":"shape","id":"sh/4rutg3mt","slide":4,"name":"number","bbox":[78,389,16,16]}
+{"kind":"textbox","id":"sh/5s3up8ne","slide":4,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[78,390,16,14]}
+{"kind":"textbox","id":"sh/9kna94ru","slide":4,"text":"Называем одну конкретную выгоду на одно свойство.","textPreview":"Называем одну конкретную выгоду на одно свойство.","textChars":49,"textLines":1,"bbox":[108,382,456,40]}
+{"kind":"shape","id":"sh/8jet0za9","slide":4,"name":"number","bbox":[78,437,16,16]}
+{"kind":"textbox","id":"sh/ni5s7u94","slide":4,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[78,438,16,14]}
+{"kind":"textbox","id":"sh/mhcbypsj","slide":4,"text":"Показываем, как решение влияет на ситуацию клиента.","textPreview":"Показываем, как решение влияет на ситуацию клиента.","textChars":51,"textLines":1,"bbox":[108,430,456,40]}
+{"kind":"shape","id":"sh/xonud4r6","slide":4,"name":"number","bbox":[78,485,16,16]}
+{"kind":"textbox","id":"sh/wnet4jal","slide":4,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[78,486,16,14]}
+{"kind":"textbox","id":"sh/vm5cbe90","slide":4,"text":"Задаём вопрос, который вовлекает в следующий шаг.","textPreview":"Задаём вопрос, который вовлекает в следующий шаг.","textChars":49,"textLines":1,"bbox":[108,478,456,40]}
+{"kind":"shape","id":"sh/alwb29sf","slide":4,"name":"rule-panel","bbox":[648,310,552,235]}
+{"kind":"textbox","id":"sh/ds3a1krm","slide":4,"text":"ИЗБЕГАЕМ","textPreview":"ИЗБЕГАЕМ","textChars":8,"textLines":1,"bbox":[676,338,270,24]}
+{"kind":"shape","id":"sh/crutsfah","slide":4,"name":"number","bbox":[678,389,16,16]}
+{"kind":"textbox","id":"sh/4vyt8fix","slide":4,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[678,390,16,14]}
+{"kind":"textbox","id":"sh/pw7uhkzi","slide":4,"text":"Долгого рассказа о продукте без связи с проблемой.","textPreview":"Долгого рассказа о продукте без связи с проблемой.","textChars":50,"textLines":1,"bbox":[708,382,456,40]}
+{"kind":"shape","id":"sh/29wb6507","slide":4,"name":"number","bbox":[678,437,16,16]}
+{"kind":"textbox","id":"sh/3a5sfahs","slide":4,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[678,438,16,14]}
+{"kind":"textbox","id":"sh/czytczi9","slide":4,"text":"Пропуска названия компании и логики алгоритма.","textPreview":"Пропуска названия компании и логики алгоритма.","textChars":46,"textLines":1,"bbox":[708,430,456,40]}
+{"kind":"shape","id":"sh/d07ul4zu","slide":4,"name":"number","bbox":[678,485,16,16]}
+{"kind":"textbox","id":"sh/qxgbap03","slide":4,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[678,486,16,14]}
+{"kind":"textbox","id":"sh/rypcjuho","slide":4,"text":"Озвучивания цены до того, как создана ценность.","textPreview":"Озвучивания цены до того, как создана ценность.","textChars":47,"textLines":1,"bbox":[708,478,456,40]}
+{"kind":"shape","id":"sh/03itgzi5","slide":4,"name":"key-message","bbox":[48,602,1184,54]}
+{"kind":"textbox","id":"sh/14rup4zq","slide":4,"text":"Клиент должен услышать не сумму к оплате, а цену решения своей задачи.","textPreview":"Клиент должен услышать не сумму к оплате, а цену решения своей задачи.","textChars":70,"textLines":1,"bbox":[74,614,1128,28]}
+{"kind":"notes","id":"nt/o1bbvm","slide":4,"text":""}
+{"kind":"slide","id":"sl/t7harh","slide":5,"title":"ИНСТРУМЕНТ","textShapes":14}
+{"kind":"shape","id":"sh/ilk7ex0j","slide":5,"name":"rule","bbox":[48,38,1184,3]}
+{"kind":"textbox","id":"sh/pob69cja","slide":5,"text":"ИНСТРУМЕНТ","textPreview":"ИНСТРУМЕНТ","textChars":10,"textLines":1,"bbox":[48,56,560,18]}
+{"kind":"textbox","id":"sh/4n2pg7ip","slide":5,"text":"05 / 11","textPreview":"05 / 11","textChars":7,"textLines":1,"bbox":[1090,56,142,18]}
+{"kind":"textbox","id":"sh/vi9o3i18","slide":5,"name":"title","text":"ССВ: формула\nценностного сообщения","textPreview":"ССВ: формула | ценностного сообщения","textChars":34,"textLines":2,"bbox":[48,105,1060,95]}
+{"kind":"textbox","id":"sh/uh07ax0n","slide":5,"name":"subtitle","text":"Свойство само по себе не продаёт. Клиенту нужен понятный переход от характеристики к выгоде.","textPreview":"Свойство само по себе не продаёт. Клиенту нужен понятный переход от характеристики к выгоде.","textChars":92,"textLines":1,"bbox":[50,202,1010,48]}
+{"kind":"shape","id":"sh/hkb65sje","slide":5,"name":"ssv","bbox":[50,340,334,200]}
+{"kind":"textbox","id":"sh/gj2pcnit","slide":5,"text":"С","textPreview":"С","textChars":1,"textLines":1,"bbox":[74,365,60,52]}
+{"kind":"textbox","id":"sh/zed8fm1c","slide":5,"text":"СВОЙСТВО","textPreview":"СВОЙСТВО","textChars":8,"textLines":1,"bbox":[74,432,270,24]}
+{"kind":"textbox","id":"sh/ed47mh0r","slide":5,"text":"Что есть в продукте: характеристика или действие.","textPreview":"Что есть в продукте: характеристика или действие.","textChars":49,"textLines":1,"bbox":[74,474,270,45]}
+{"kind":"shape","id":"sh/wryl0r6d","slide":5,"name":"arrow","bbox":[384,423,48,20]}
+{"kind":"shape","id":"sh/hs729w7y","slide":5,"name":"ssv","bbox":[445,340,334,200]}
+{"kind":"textbox","id":"sh/upw3yhon","slide":5,"text":"С","textPreview":"С","textChars":1,"textLines":1,"bbox":[469,365,60,52]}
+{"kind":"textbox","id":"sh/vq5k7mps","slide":5,"text":"СВЯЗКА","textPreview":"СВЯЗКА","textChars":6,"textLines":1,"bbox":[469,432,270,24]}
+{"kind":"textbox","id":"sh/83elwrqh","slide":5,"text":"Мост к выгоде: «благодаря этому», «с помощью этого».","textPreview":"Мост к выгоде: «благодаря этому», «с помощью этого».","textChars":52,"textLines":1,"bbox":[469,474,270,45]}
+{"kind":"shape","id":"sh/9on25w72","slide":5,"name":"arrow","bbox":[779,423,48,20]}
+{"kind":"shape","id":"sh/m1w3uh8b","slide":5,"name":"ssv","bbox":[840,340,334,200]}
+{"kind":"textbox","id":"sh/n25k3mpw","slide":5,"text":"В","textPreview":"В","textChars":1,"textLines":1,"bbox":[864,365,60,52]}
+{"kind":"textbox","id":"sh/0zuls7q5","slide":5,"text":"ВЫГОДА","textPreview":"ВЫГОДА","textChars":6,"textLines":1,"bbox":[864,432,270,24]}
+{"kind":"textbox","id":"sh/l0n21c7q","slide":5,"text":"Что меняется для клиента и почему это для него важно.","textPreview":"Что меняется для клиента и почему это для него важно.","textChars":53,"textLines":1,"bbox":[864,474,270,45]}
+{"kind":"shape","id":"sh/1kva94vi","slide":5,"name":"key-message","bbox":[48,602,1184,54]}
+{"kind":"textbox","id":"sh/gjm9gzex","slide":5,"text":"Одна характеристика → одна связка → одна конкретная выгода","textPreview":"Одна характеристика → одна связка → одна конкретная выгода","textChars":58,"textLines":1,"bbox":[74,614,1128,28]}
+{"kind":"notes","id":"nt/t7harh","slide":5,"text":""}
+{"kind":"slide","id":"sl/5exk1e","slide":6,"title":"ПРИМЕР","textShapes":14}
+{"kind":"shape","id":"sh/5gby5wvi","slide":6,"name":"rule","bbox":[48,38,1184,3]}
+{"kind":"textbox","id":"sh/idkfu1w7","slide":6,"text":"ПРИМЕР","textPreview":"ПРИМЕР","textChars":6,"textLines":1,"bbox":[48,56,560,18]}
+{"kind":"textbox","id":"sh/3etw36xs","slide":6,"text":"06 / 11","textPreview":"06 / 11","textChars":7,"textLines":1,"bbox":[1090,56,142,18]}
+{"kind":"textbox","id":"sh/gbixsre1","slide":6,"name":"title","text":"Как собрать фразу\nпо ССВ","textPreview":"Как собрать фразу | по ССВ","textChars":24,"textLines":2,"bbox":[48,105,1060,94]}
+{"kind":"textbox","id":"sh/hcbe1wfm","slide":6,"name":"subtitle","text":"Пример на базе модуля, который обновляет информацию в профиле компании.","textPreview":"Пример на базе модуля, который обновляет информацию в профиле компании.","textChars":71,"textLines":1,"bbox":[50,202,1010,48]}
+{"kind":"textbox","id":"sh/up0fqhwv","slide":6,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[52,332,46,22]}
+{"kind":"textbox","id":"sh/vq9wzmxg","slide":6,"text":"СВОЙСТВО","textPreview":"СВОЙСТВО","textChars":8,"textLines":1,"bbox":[124,330,190,22]}
+{"kind":"shape","id":"sh/8nixo7e5","slide":6,"name":"rule","bbox":[124,365,160,3]}
+{"kind":"textbox","id":"sh/torexcfa","slide":6,"text":"«В рамках модуля мы обновляем информацию в профиле: добавляем новости»","textPreview":"«В рамках модуля мы обновляем информацию в профиле: добавляем новости»","textChars":70,"textLines":1,"bbox":[350,322,800,54]}
+{"kind":"textbox","id":"sh/54jy1cre","slide":6,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[52,417,46,22]}
+{"kind":"textbox","id":"sh/43ahsrat","slide":6,"text":"СВЯЗКА","textPreview":"СВЯЗКА","textChars":6,"textLines":1,"bbox":[124,415,190,22]}
+{"kind":"shape","id":"sh/32hgzm98","slide":6,"name":"rule","bbox":[124,450,160,3]}
+{"kind":"textbox","id":"sh/i18zqhsn","slide":6,"text":"«Благодаря этому…»","textPreview":"«Благодаря этому…»","textChars":18,"textLines":1,"bbox":[350,407,800,54]}
+{"kind":"textbox","id":"sh/h0zyxcri","slide":6,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[52,502,46,22]}
+{"kind":"textbox","id":"sh/gzqxo7ax","slide":6,"text":"ВЫГОДА","textPreview":"ВЫГОДА","textChars":6,"textLines":1,"bbox":[124,500,190,22]}
+{"kind":"shape","id":"sh/vyhgv29c","slide":6,"name":"rule","bbox":[124,535,160,3]}
+{"kind":"textbox","id":"sh/ux8fmxsr","slide":6,"text":"«Клиенты чаще находят компанию по ключевым запросам, а не только по названию»","textPreview":"«Клиенты чаще находят компанию по ключевым запросам, а не только по названию»","textChars":77,"textLines":1,"bbox":[350,492,800,54]}
+{"kind":"shape","id":"sh/tczytsb6","slide":6,"name":"key-message","bbox":[48,608,1184,54]}
+{"kind":"textbox","id":"sh/8b6xk7al","slide":6,"text":"Готовая фраза звучит как естественное объяснение, а не как перечисление терминов.","textPreview":"Готовая фраза звучит как естественное объяснение, а не как перечисление терминов.","textChars":81,"textLines":1,"bbox":[74,620,1128,28]}
+{"kind":"notes","id":"nt/5exk1e","slide":6,"text":""}
+{"kind":"slide","id":"sl/4jv4fa","slide":7,"title":"АЛГОРИТМ","textShapes":12}
+{"kind":"shape","id":"sh/h0vutkny","slide":7,"name":"rule","bbox":[48,38,1184,3]}
+{"kind":"textbox","id":"sh/ud4by547","slide":7,"text":"АЛГОРИТМ","textPreview":"АЛГОРИТМ","textChars":8,"textLines":1,"bbox":[48,56,560,18]}
+{"kind":"textbox","id":"sh/vedcra5s","slide":7,"text":"07 / 11","textPreview":"07 / 11","textChars":7,"textLines":1,"bbox":[1090,56,142,18]}
+{"kind":"textbox","id":"sh/8bmtwfmh","slide":7,"name":"title","text":"Шаг 1–2: сначала объясняем,\nкто мы и что предлагаем","textPreview":"Шаг 1–2: сначала объясняем, | кто мы и что предлагаем","textChars":51,"textLines":2,"bbox":[48,105,1060,94]}
+{"kind":"textbox","id":"sh/9cvupknm","slide":7,"name":"subtitle","text":"Клиенту нужна короткая рамка: почему компании можно доверять и как устроено решение.","textPreview":"Клиенту нужна короткая рамка: почему компании можно доверять и как устроено решение.","textChars":84,"textLines":1,"bbox":[50,202,1010,48]}
+{"kind":"shape","id":"sh/m9kbu54b","slide":7,"name":"step-card","bbox":[50,330,575,278]}
+{"kind":"textbox","id":"sh/7atcna5w","slide":7,"text":"ШАГ 1","textPreview":"ШАГ 1","textChars":5,"textLines":1,"bbox":[78,351,150,18]}
+{"kind":"textbox","id":"sh/s76d8zml","slide":7,"text":"Презентация\nкомпании","textPreview":"Презентация | компании","textChars":20,"textLines":2,"bbox":[78,394,405,57]}
+{"kind":"textbox","id":"sh/t8fu14n6","slide":7,"text":"Коротко: кто мы, чем занимаемся и почему можем помочь решить задачу клиента.","textPreview":"Коротко: кто мы, чем занимаемся и почему можем помочь решить задачу клиента.","textChars":76,"textLines":1,"bbox":[78,465,452,48]}
+{"kind":"textbox","id":"sh/h4n65wji","slide":7,"text":"Пример: «Мы помогаем компаниям управлять репутацией в интернете».","textPreview":"Пример: «Мы помогаем компаниям управлять репутацией в интернете».","textChars":65,"textLines":1,"bbox":[78,548,466,48]}
+{"kind":"shape","id":"sh/g3epcrix","slide":7,"name":"step-card","bbox":[657,330,575,278]}
+{"kind":"textbox","id":"sh/f25o3m1c","slide":7,"text":"ШАГ 2","textPreview":"ШАГ 2","textChars":5,"textLines":1,"bbox":[685,351,150,18]}
+{"kind":"textbox","id":"sh/u1w7ah0r","slide":7,"text":"Презентация ORM","textPreview":"Презентация ORM","textChars":15,"textLines":1,"bbox":[685,394,405,57]}
+{"kind":"textbox","id":"sh/tgn61cj6","slide":7,"text":"Объясняем, что ORM — это сервис управления репутацией с набором модулей.","textPreview":"Объясняем, что ORM — это сервис управления репутацией с набором модулей.","textChars":72,"textLines":1,"bbox":[685,465,452,48]}
+{"kind":"textbox","id":"sh/8fu587il","slide":7,"text":"Задача: дать понятную рамку до перехода к конкретной проблеме.","textPreview":"Задача: дать понятную рамку до перехода к конкретной проблеме.","textChars":62,"textLines":1,"bbox":[685,548,466,48]}
+{"kind":"notes","id":"nt/4jv4fa","slide":7,"text":""}
+{"kind":"slide","id":"sl/1m8vlm","slide":8,"title":"АЛГОРИТМ","textShapes":10}
+{"kind":"shape","id":"sh/bulo3ehc","slide":8,"name":"rule","bbox":[48,38,1184,3]}
+{"kind":"textbox","id":"sh/cvu5wjyx","slide":8,"text":"АЛГОРИТМ","textPreview":"АЛГОРИТМ","textChars":8,"textLines":1,"bbox":[48,56,560,18]}
+{"kind":"textbox","id":"sh/dwn654fi","slide":8,"text":"08 / 11","textPreview":"08 / 11","textChars":7,"textLines":1,"bbox":[1090,56,142,18]}
+{"kind":"textbox","id":"sh/2pcnqpgv","slide":8,"name":"title","text":"Шаг 3: верните клиента\nк его собственной проблеме","textPreview":"Шаг 3: верните клиента | к его собственной проблеме","textChars":49,"textLines":2,"bbox":[48,105,1060,94]}
+{"kind":"textbox","id":"sh/3qlozuhg","slide":8,"name":"subtitle","text":"Связка с ранее выявленной ситуацией делает предложение конкретным и помогает сохранить фокус клиента.","textPreview":"Связка с ранее выявленной ситуацией делает предложение конкретным и помогает сохранить фокус клиента.","textChars":101,"textLines":1,"bbox":[50,202,1010,48]}
+{"kind":"shape","id":"sh/oru5szyl","slide":8,"name":"weak","bbox":[48,320,474,225]}
+{"kind":"textbox","id":"sh/ps3614z6","slide":8,"text":"СЛАБАЯ ПОДАЧА","textPreview":"СЛАБАЯ ПОДАЧА","textChars":13,"textLines":1,"bbox":[76,348,260,20]}
+{"kind":"textbox","id":"sh/mlw72tgz","slide":8,"text":"«У нас есть модуль\nдля обновления карточек»","textPreview":"«У нас есть модуль | для обновления карточек»","textChars":43,"textLines":2,"bbox":[76,398,390,62]}
+{"kind":"textbox","id":"sh/nm5obyxk","slide":8,"text":"Звучит как общий рассказ о продукте.","textPreview":"Звучит как общий рассказ о продукте.","textChars":36,"textLines":1,"bbox":[76,491,366,24]}
+{"kind":"shape","id":"sh/vml8jm50","slide":8,"name":"arrow","bbox":[552,418,110,28]}
+{"kind":"shape","id":"sh/ulcrahof","slide":8,"name":"strong","bbox":[708,320,524,225]}
+{"kind":"textbox","id":"sh/ho3qlcn6","slide":8,"text":"СИЛЬНАЯ ПОДАЧА","textPreview":"СИЛЬНАЯ ПОДАЧА","textChars":14,"textLines":1,"bbox":[736,348,270,20]}
+{"kind":"textbox","id":"sh/gnu9crml","slide":8,"text":"«Вы ранее отметили, что карточки\nпочти не обновляются. Именно\nс этим можем вам помочь»","textPreview":"«Вы ранее отметили, что карточки | почти не обновляются. Именно | с этим можем вам помочь»","textChars":86,"textLines":3,"bbox":[736,394,445,90]}
+{"kind":"shape","id":"sh/3q58nm5c","slide":8,"name":"key-message","bbox":[48,608,1184,54]}
+{"kind":"textbox","id":"sh/ipcreh4r","slide":8,"text":"Каждый продуктовый тезис должен возвращать клиента к его реальной задаче.","textPreview":"Каждый продуктовый тезис должен возвращать клиента к его реальной задаче.","textChars":73,"textLines":1,"bbox":[74,620,1128,28]}
+{"kind":"notes","id":"nt/1m8vlm","slide":8,"text":""}
+{"kind":"slide","id":"sl/31r81d","slide":9,"title":"АЛГОРИТМ","textShapes":11}
+{"kind":"shape","id":"sh/7m94z610","slide":9,"name":"rule","bbox":[48,38,1184,3]}
+{"kind":"textbox","id":"sh/8ni5sb2l","slide":9,"text":"АЛГОРИТМ","textPreview":"АЛГОРИТМ","textChars":8,"textLines":1,"bbox":[48,56,560,18]}
+{"kind":"textbox","id":"sh/torm1wj6","slide":9,"text":"09 / 11","textPreview":"09 / 11","textChars":7,"textLines":1,"bbox":[1090,56,142,18]}
+{"kind":"textbox","id":"sh/up0nu10r","slide":9,"name":"title","text":"Шаг 4: презентуем модуль\nчерез его результат","textPreview":"Шаг 4: презентуем модуль | через его результат","textChars":44,"textLines":2,"bbox":[48,105,1060,96]}
+{"kind":"textbox","id":"sh/vq94361w","slide":9,"name":"subtitle","text":"Выберите конкретный модуль под выявленную проблему и объясните его по формуле ССВ.","textPreview":"Выберите конкретный модуль под выявленную проблему и объясните его по формуле ССВ.","textChars":82,"textLines":1,"bbox":[50,202,1010,48]}
+{"kind":"shape","id":"sh/gr25wbih","slide":9,"name":"value-chain","bbox":[50,330,334,210]}
+{"kind":"textbox","id":"sh/hsbm5gj2","slide":9,"text":"ПРОБЛЕМА","textPreview":"ПРОБЛЕМА","textChars":8,"textLines":1,"bbox":[75,360,200,18]}
+{"kind":"textbox","id":"sh/itknyl0n","slide":9,"text":"Карточки компании\nне обновляются","textPreview":"Карточки компании | не обновляются","textChars":32,"textLines":2,"bbox":[75,408,270,86]}
+{"kind":"shape","id":"sh/3et47q18","slide":9,"name":"arrow","bbox":[384,418,48,22]}
+{"kind":"shape","id":"sh/n21cvah0","slide":9,"name":"value-chain","bbox":[445,330,334,210]}
+{"kind":"textbox","id":"sh/m1sb25gf","slide":9,"text":"МОДУЛЬ","textPreview":"МОДУЛЬ","textChars":6,"textLines":1,"bbox":[470,360,200,18]}
+{"kind":"textbox","id":"sh/94juxkz6","slide":9,"text":"Обновляем\nинформацию в профиле","textPreview":"Обновляем | информацию в профиле","textChars":30,"textLines":2,"bbox":[470,408,270,86]}
+{"kind":"shape","id":"sh/o3at4fyl","slide":9,"name":"arrow","bbox":[779,418,48,22]}
+{"kind":"shape","id":"sh/zyhsrah4","slide":9,"name":"value-chain","bbox":[840,330,334,210]}
+{"kind":"textbox","id":"sh/ed8by50j","slide":9,"text":"ВЫГОДА","textPreview":"ВЫГОДА","textChars":6,"textLines":1,"bbox":[865,360,200,18]}
+{"kind":"textbox","id":"sh/10zut0zu","slide":9,"text":"Клиента чаще находят\nпо ключевым запросам","textPreview":"Клиента чаще находят | по ключевым запросам","textChars":41,"textLines":2,"bbox":[865,408,270,86]}
+{"kind":"textbox","id":"sh/0zqt0fyp","slide":9,"text":"Проверка: может ли клиент повторить, какую именно проблему решает модуль?","textPreview":"Проверка: может ли клиент повторить, какую именно проблему решает модуль?","textChars":73,"textLines":1,"bbox":[52,600,1040,26]}
+{"kind":"notes","id":"nt/31r81d","slide":9,"text":""}
+{"kind":"slide","id":"sl/zd63f6","slide":10,"title":"АЛГОРИТМ","textShapes":20}
+{"kind":"shape","id":"sh/587y5wzy","slide":10,"name":"rule","bbox":[48,38,1184,3]}
+{"kind":"textbox","id":"sh/i5wfahg7","slide":10,"text":"АЛГОРИТМ","textPreview":"АЛГОРИТМ","textChars":8,"textLines":1,"bbox":[48,56,560,18]}
+{"kind":"textbox","id":"sh/j6pg3mhs","slide":10,"text":"10 / 11","textPreview":"10 / 11","textChars":7,"textLines":1,"bbox":[1090,56,142,18]}
+{"kind":"textbox","id":"sh/w3ex8ryh","slide":10,"name":"title","text":"Стоимость — после\nсоздания ценности","textPreview":"Стоимость — после | создания ценности","textChars":35,"textLines":2,"bbox":[48,105,1060,96]}
+{"kind":"textbox","id":"sh/h4ny1cz2","slide":10,"name":"subtitle","text":"Стоимость звучит как цена решения задачи, когда клиент уже понял проблему, решение и выгоду.","textPreview":"Стоимость звучит как цена решения задачи, когда клиент уже понял проблему, решение и выгоду.","textChars":92,"textLines":1,"bbox":[50,202,1010,48]}
+{"kind":"shape","id":"sh/u1wf6hgb","slide":10,"name":"rule","bbox":[48,348,190,4]}
+{"kind":"textbox","id":"sh/v25wzmhw","slide":10,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,378,50,20]}
+{"kind":"textbox","id":"sh/8zex47y5","slide":10,"text":"Проблема","textPreview":"Проблема","textChars":8,"textLines":1,"bbox":[48,418,195,30]}
+{"kind":"textbox","id":"sh/90nexczq","slide":10,"text":"клиент признаёт,\nчто происходит","textPreview":"клиент признаёт, | что происходит","textChars":31,"textLines":2,"bbox":[48,466,194,52]}
+{"kind":"shape","id":"sh/xo3e18ze","slide":10,"name":"arrow","bbox":[242,428,30,15]}
+{"kind":"shape","id":"sh/wnax83yt","slide":10,"name":"rule","bbox":[285,348,190,4]}
+{"kind":"textbox","id":"sh/bm1wzyh8","slide":10,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[285,378,50,20]}
+{"kind":"textbox","id":"sh/alsf6tgn","slide":10,"text":"Решение","textPreview":"Решение","textChars":7,"textLines":1,"bbox":[285,418,195,30]}
+{"kind":"textbox","id":"sh/9kjexoz2","slide":10,"text":"видит, как мы\nпомогаем","textPreview":"видит, как мы | помогаем","textChars":22,"textLines":2,"bbox":[285,466,194,52]}
+{"kind":"shape","id":"sh/ozax4jyh","slide":10,"name":"arrow","bbox":[479,428,30,15]}
+{"kind":"shape","id":"sh/ny1wvehc","slide":10,"name":"rule","bbox":[522,348,190,4]}
+{"kind":"textbox","id":"sh/mxsf29gr","slide":10,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[522,378,50,20]}
+{"kind":"textbox","id":"sh/1wzetoz6","slide":10,"text":"Выгода","textPreview":"Выгода","textChars":6,"textLines":1,"bbox":[522,418,195,30]}
+{"kind":"textbox","id":"sh/0vqx0jyl","slide":10,"text":"понимает, что\nизменится","textPreview":"понимает, что | изменится","textChars":23,"textLines":2,"bbox":[522,466,194,52]}
+{"kind":"shape","id":"sh/szuxgj6h","slide":10,"name":"arrow","bbox":[716,428,30,15]}
+{"kind":"shape","id":"sh/d03e9o72","slide":10,"name":"rule","bbox":[759,348,190,4]}
+{"kind":"textbox","id":"sh/qdcfe9ob","slide":10,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[759,378,50,20]}
+{"kind":"textbox","id":"sh/relw7epw","slide":10,"text":"Стоимость","textPreview":"Стоимость","textChars":9,"textLines":1,"bbox":[759,418,195,30]}
+{"kind":"textbox","id":"sh/4buxcz65","slide":10,"text":"оценивает цену\nрешения","textPreview":"оценивает цену | решения","textChars":22,"textLines":2,"bbox":[759,466,194,52]}
+{"kind":"shape","id":"sh/5c3e547q","slide":10,"name":"arrow","bbox":[953,428,30,15]}
+{"kind":"shape","id":"sh/i9sfa9of","slide":10,"name":"rule","bbox":[996,348,190,4]}
+{"kind":"textbox","id":"sh/3alw3up0","slide":10,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[996,378,50,20]}
+{"kind":"textbox","id":"sh/o7exo36p","slide":10,"text":"Вопрос","textPreview":"Вопрос","textChars":6,"textLines":1,"bbox":[996,418,195,30]}
+{"kind":"textbox","id":"sh/p8nyh87a","slide":10,"text":"обсуждает\nследующий шаг","textPreview":"обсуждает | следующий шаг","textChars":23,"textLines":2,"bbox":[996,466,194,52]}
+{"kind":"shape","id":"sh/j290729c","slide":10,"name":"question","bbox":[48,590,1184,66]}
+{"kind":"textbox","id":"sh/y10zex8r","slide":10,"text":"Вовлекающий вопрос: «Подскажите, что скажете — готовы запуститься в работу?»","textPreview":"Вовлекающий вопрос: «Подскажите, что скажете — готовы запуститься в работу?»","textChars":76,"textLines":1,"bbox":[76,609,1128,28]}
+{"kind":"notes","id":"nt/zd63f6","slide":10,"text":""}
+{"kind":"slide","id":"sl/7m3gm3","slide":11,"title":"ЗАВЕРШЕНИЕ","textShapes":19}
+{"kind":"shape","id":"sh/sv2p4nmt","slide":11,"name":"rule","bbox":[48,38,1184,3]}
+{"kind":"textbox","id":"sh/7utovi5o","slide":11,"text":"ЗАВЕРШЕНИЕ","textPreview":"ЗАВЕРШЕНИЕ","textChars":10,"textLines":1,"bbox":[48,56,560,18]}
+{"kind":"textbox","id":"sh/6tk72d43","slide":11,"text":"11 / 11","textPreview":"11 / 11","textChars":7,"textLines":1,"bbox":[1090,56,142,18]}
+{"kind":"textbox","id":"sh/5sr6t8ni","slide":11,"name":"title","text":"Закрываем этап\nпроверкой результата","textPreview":"Закрываем этап | проверкой результата","textChars":35,"textLines":2,"bbox":[48,105,1060,100]}
+{"kind":"textbox","id":"sh/krip03mx","slide":11,"name":"subtitle","text":"После презентации важно понять: клиент согласен на следующий шаг или ему нужно помочь снять сопротивление.","textPreview":"После презентации важно понять: клиент согласен на следующий шаг или ему нужно помочь снять сопротивление.","textChars":106,"textLines":1,"bbox":[50,202,1010,48]}
+{"kind":"textbox","id":"sh/jq9ory5c","slide":11,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[50,345,44,22]}
+{"kind":"textbox","id":"sh/ip07yt4r","slide":11,"text":"«Надо подумать»","textPreview":"«Надо подумать»","textChars":15,"textLines":1,"bbox":[116,340,240,28]}
+{"kind":"textbox","id":"sh/povq5s3m","slide":11,"text":"переходим к отработке возражения","textPreview":"переходим к отработке возражения","textChars":32,"textLines":1,"bbox":[392,342,330,28]}
+{"kind":"shape","id":"sh/4nmpc7m1","slide":11,"name":"rule","bbox":[116,384,572,1]}
+{"kind":"textbox","id":"sh/q50n2lkj","slide":11,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[50,413,44,22]}
+{"kind":"textbox","id":"sh/bq94v61o","slide":11,"text":"«Выставляйте счёт»","textPreview":"«Выставляйте счёт»","textChars":18,"textLines":1,"bbox":[116,408,240,28]}
+{"kind":"textbox","id":"sh/cri54b29","slide":11,"text":"фиксируем договорённость и действие","textPreview":"фиксируем договорённость и действие","textChars":35,"textLines":1,"bbox":[392,410,330,28]}
+{"kind":"shape","id":"sh/dsrmxgju","slide":11,"name":"rule","bbox":[116,452,572,1]}
+{"kind":"textbox","id":"sh/21g3y1k7","slide":11,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[50,481,44,22]}
+{"kind":"textbox","id":"sh/3294r61s","slide":11,"text":"«Пришлите КП»","textPreview":"«Пришлите КП»","textChars":13,"textLines":1,"bbox":[116,476,240,28]}
+{"kind":"textbox","id":"sh/o3i50b2d","slide":11,"text":"обсуждаем точный срок и следующий контакт","textPreview":"обсуждаем точный срок и следующий контакт","textChars":41,"textLines":1,"bbox":[392,478,330,28]}
+{"kind":"shape","id":"sh/p4rmtgjy","slide":11,"name":"rule","bbox":[116,520,572,1]}
+{"kind":"shape","id":"sh/mxkna5kb","slide":11,"name":"checklist","bbox":[770,308,462,285]}
+{"kind":"textbox","id":"sh/nyt43q1w","slide":11,"text":"ПРОВЕРЬТЕ\nПОНИМАНИЕ","textPreview":"ПРОВЕРЬТЕ | ПОНИМАНИЕ","textChars":19,"textLines":2,"bbox":[798,339,240,52]}
+{"kind":"textbox","id":"sh/j2lkvih8","slide":11,"text":"1. Что такое презентация?","textPreview":"1. Что такое презентация?","textChars":25,"textLines":1,"bbox":[798,430,400,24]}
+{"kind":"textbox","id":"sh/i1cj2x03","slide":11,"text":"2. Что будет, если пропустить шаг?","textPreview":"2. Что будет, если пропустить шаг?","textChars":34,"textLines":1,"bbox":[798,464,400,24]}
+{"kind":"textbox","id":"sh/54n2xsze","slide":11,"text":"3. Что делать, если клиент не понял?","textPreview":"3. Что делать, если клиент не понял?","textChars":36,"textLines":1,"bbox":[798,498,400,24]}
+{"kind":"textbox","id":"sh/k3e14nit","slide":11,"text":"4. Как отличить согласие от ухода?","textPreview":"4. Как отличить согласие от ухода?","textChars":34,"textLines":1,"bbox":[798,532,400,24]}
+{"kind":"textbox","id":"sh/765kz2hk","slide":11,"text":"Резюме: возвращаемся к алгоритму, закрепляем формулу ССВ и договариваемся о следующем действии.","textPreview":"Резюме: возвращаемся к алгоритму, закрепляем формулу ССВ и договариваемся о следующем действии.","textChars":95,"textLines":1,"bbox":[50,646,1100,22]}
+{"kind":"notes","id":"nt/7m3gm3","slide":11,"text":""}

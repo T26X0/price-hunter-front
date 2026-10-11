@@ -1,0 +1,5 @@
+Slides 6-9 of the edited deck reuse source slide 6 and progressively reveal the four algorithm stages. This replaces a static 2x2 grid with a left-to-right sequence, following the reference deck's progressive explanation technique.
+
+Slide 4 retains all original text and cards; two green connectors are added to make the causal progression explicit.
+
+Slide counters are corrected for the 18-slide edited deck. The original source counter on its final slide read 16; the delivered slide will read 18.

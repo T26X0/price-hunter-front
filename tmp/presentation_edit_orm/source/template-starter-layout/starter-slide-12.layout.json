@@ -1,0 +1,1138 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/uc65ac",
+    "id": "uc65ac",
+    "slide": 12,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#050706",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Arial",
+      "Calibri",
+      "Calibri Light"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1s3qdo7e",
+      "id": "29",
+      "name": "Прямоугольник 28",
+      "bbox": [
+        760,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#19370C",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qt8za1of",
+      "id": "2",
+      "name": "Прямоугольник 1",
+      "bbox": [
+        808,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102808",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/buhgjm50",
+      "id": "3",
+      "name": "Прямоугольник 2",
+      "bbox": [
+        856,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0A1806",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/or6h8r69",
+      "id": "4",
+      "name": "Прямоугольник 3",
+      "bbox": [
+        904,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#19370C",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psfyhwnu",
+      "id": "5",
+      "name": "Прямоугольник 4",
+      "bbox": [
+        952,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102808",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2poz6hoj",
+      "id": "6",
+      "name": "Прямоугольник 5",
+      "bbox": [
+        1000,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0A1806",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3qxgfmpo",
+      "id": "7",
+      "name": "Прямоугольник 6",
+      "bbox": [
+        1048,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#19370C",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gn6h476d",
+      "id": "8",
+      "name": "Прямоугольник 7",
+      "bbox": [
+        1096,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102808",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1ofydc7y",
+      "id": "9",
+      "name": "Прямоугольник 8",
+      "bbox": [
+        1144,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0A1806",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pcfi1kb6",
+      "id": "10",
+      "name": "Прямоугольник 9",
+      "bbox": [
+        1192,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#19370C",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ob6h8fu1",
+      "id": "11",
+      "name": "Прямоугольник 10",
+      "bbox": [
+        1240,
+        0,
+        30,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#102808",
+      "lineColor": "#0A1806",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/naxgzatg",
+      "id": "12",
+      "name": "Прямоугольник 11",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(5, 7, 6, 0.66667)",
+      "lineColor": "#050706",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/29oz65cv",
+      "id": "13",
+      "name": "Прямоугольник 12",
+      "bbox": [
+        46,
+        28,
+        265,
+        28
+      ],
+      "geometry": "rect",
+      "fillColor": "#163A08",
+      "lineColor": "#62D218",
+      "lineWidth": 1
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18fyx0va",
+      "id": "14",
+      "name": "Прямоугольник 13",
+      "bbox": [
+        58,
+        30,
+        245,
+        24
+      ],
+      "geometry": "rect",
+      "text": "ФОРМИРОВАНИЕ ПОТРЕБНОСТИ",
+      "textPreview": "ФОРМИРОВАНИЕ ПОТРЕБНОСТИ",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ФОРМИРОВАНИЕ ПОТРЕБНОСТИ"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ФОРМИРОВАНИЕ ПОТРЕБНОСТИ",
+          "resolvedTextStyle": {
+            "fontSize": 12,
+            "typeface": "Arial",
+            "color": "#E8F8DF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ФОРМИРОВАНИЕ ПОТРЕБНОСТИ",
+              "fontSize": 12,
+              "typeface": "Arial",
+              "color": "#E8F8DF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/076h4vup",
+      "id": "15",
+      "name": "Прямоугольник 14",
+      "bbox": [
+        1190,
+        30,
+        45,
+        24
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Arial",
+            "color": "#B7C1B7",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 13,
+              "typeface": "Arial",
+              "color": "#B7C1B7",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f6xgvad4",
+      "id": "16",
+      "name": "Прямоугольник 15",
+      "bbox": [
+        48,
+        78,
+        1160,
+        82
+      ],
+      "geometry": "rect",
+      "text": "ШАГ 2. ПРИВОДИМ ПРИМЕР ИЗ ЖИЗНИ",
+      "textPreview": "ШАГ 2. ПРИВОДИМ ПРИМЕР ИЗ ЖИЗНИ",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ШАГ 2. ПРИВОДИМ ПРИМЕР ИЗ ЖИЗНИ"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ШАГ 2. ПРИВОДИМ ПРИМЕР ИЗ ЖИЗНИ",
+          "resolvedTextStyle": {
+            "fontSize": 38,
+            "typeface": "Arial",
+            "color": "#F5F7F4",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ШАГ 2. ПРИВОДИМ ПРИМЕР ИЗ ЖИЗНИ",
+              "fontSize": 38,
+              "typeface": "Arial",
+              "color": "#F5F7F4",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e54z25cj",
+      "id": "17",
+      "name": "Прямоугольник 16",
+      "bbox": [
+        55,
+        205,
+        545,
+        180
+      ],
+      "geometry": "rect",
+      "fillColor": "#0B0F0C",
+      "lineColor": "#325A20",
+      "lineWidth": 1
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4vyt0vy",
+      "id": "18",
+      "name": "Прямоугольник 17",
+      "bbox": [
+        77,
+        223,
+        501,
+        36
+      ],
+      "geometry": "rect",
+      "text": "ЧТО ДЕЛАЕМ",
+      "textPreview": "ЧТО ДЕЛАЕМ",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ЧТО ДЕЛАЕМ"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ЧТО ДЕЛАЕМ",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#F5F7F4",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ЧТО ДЕЛАЕМ",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#F5F7F4",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s3mh0vut",
+      "id": "19",
+      "name": "Прямоугольник 18",
+      "bbox": [
+        77,
+        267,
+        501,
+        102
+      ],
+      "geometry": "rect",
+      "text": "Описываем понятный сценарий выбора компании потенциальным клиентом.",
+      "textPreview": "Описываем понятный сценарий выбора компании потенциальным клиентом.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Описываем понятный сценарий выбора компании"
+          },
+          {
+            "index": 2,
+            "text": "потенциальным клиентом."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Описываем понятный сценарий выбора компании потенциальным клиентом.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#B7C1B7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Описываем понятный сценарий выбора компании потенциальным клиентом.",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#B7C1B7",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4za9wz6l",
+      "id": "20",
+      "name": "Прямоугольник 19",
+      "bbox": [
+        625,
+        205,
+        575,
+        180
+      ],
+      "geometry": "rect",
+      "fillColor": "#0B0F0C",
+      "lineColor": "#325A20",
+      "lineWidth": 1
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/50jq5476",
+      "id": "21",
+      "name": "Прямоугольник 20",
+      "bbox": [
+        647,
+        223,
+        531,
+        36
+      ],
+      "geometry": "rect",
+      "text": "ПОЧЕМУ",
+      "textPreview": "ПОЧЕМУ",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ПОЧЕМУ"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ПОЧЕМУ",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#F5F7F4",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ПОЧЕМУ",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#F5F7F4",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixs7upov",
+      "id": "22",
+      "name": "Прямоугольник 21",
+      "bbox": [
+        647,
+        267,
+        531,
+        102
+      ],
+      "geometry": "rect",
+      "text": "Жизненный пример помогает наглядно показать проблему.",
+      "textPreview": "Жизненный пример помогает наглядно показать проблему.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Жизненный пример помогает наглядно показать"
+          },
+          {
+            "index": 2,
+            "text": "проблему."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Жизненный пример помогает наглядно показать проблему.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#B7C1B7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Жизненный пример помогает наглядно показать проблему.",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#B7C1B7",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3y183up0",
+      "id": "23",
+      "name": "Прямоугольник 22",
+      "bbox": [
+        55,
+        410,
+        545,
+        180
+      ],
+      "geometry": "rect",
+      "fillColor": "#0B0F0C",
+      "lineColor": "#325A20",
+      "lineWidth": 1
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvqpsf6p",
+      "id": "24",
+      "name": "Прямоугольник 23",
+      "bbox": [
+        77,
+        428,
+        501,
+        36
+      ],
+      "geometry": "rect",
+      "text": "КАК ВЛИЯЕТ",
+      "textPreview": "КАК ВЛИЯЕТ",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "КАК ВЛИЯЕТ"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "КАК ВЛИЯЕТ",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#F5F7F4",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "КАК ВЛИЯЕТ",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#F5F7F4",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwjq1k7a",
+      "id": "25",
+      "name": "Прямоугольник 24",
+      "bbox": [
+        77,
+        472,
+        501,
+        102
+      ],
+      "geometry": "rect",
+      "text": "Клиент представляет себя на месте пользователя и лучше понимает возможные потери.",
+      "textPreview": "Клиент представляет себя на месте пользователя и лучше понимает возможные потери.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Клиент представляет себя на месте пользователя и"
+          },
+          {
+            "index": 2,
+            "text": "лучше понимает возможные потери."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Клиент представляет себя на месте пользователя и лучше понимает возможные потери.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#B7C1B7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Клиент представляет себя на месте пользователя и лучше понимает возможные потери.",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#B7C1B7",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u987q5oj",
+      "id": "26",
+      "name": "Прямоугольник 25",
+      "bbox": [
+        625,
+        410,
+        575,
+        180
+      ],
+      "geometry": "rect",
+      "fillColor": "#0B0F0C",
+      "lineColor": "#325A20",
+      "lineWidth": 1
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vuh8zap4",
+      "id": "27",
+      "name": "Прямоугольник 26",
+      "bbox": [
+        647,
+        428,
+        531,
+        36
+      ],
+      "geometry": "rect",
+      "text": "КАК ДЕЛАТЬ",
+      "textPreview": "КАК ДЕЛАТЬ",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "КАК ДЕЛАТЬ"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "КАК ДЕЛАТЬ",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#F5F7F4",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "КАК ДЕЛАТЬ",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#F5F7F4",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0ru94j6t",
+      "id": "28",
+      "name": "Прямоугольник 27",
+      "bbox": [
+        647,
+        472,
+        531,
+        102
+      ],
+      "geometry": "rect",
+      "text": "Использовать ситуацию, соответствующую сфере бизнеса клиента.",
+      "textPreview": "Использовать ситуацию, соответствующую сфере бизнеса клиента.",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "insets": {
+          "top": 4,
+          "right": 4,
+          "bottom": 4,
+          "left": 4
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Использовать ситуацию, соответствующую сфере"
+          },
+          {
+            "index": 2,
+            "text": "бизнеса клиента."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Использовать ситуацию, соответствующую сфере бизнеса клиента.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#B7C1B7",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Использовать ситуацию, соответствующую сфере бизнеса клиента.",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#B7C1B7",
+              "alignment": "left"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ]
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,5 @@
+Source deck has 15 slides in a dark ORM-Service teaching style: near-black background, dark-green vertical stripe field at right, thin green borders, white headings, and light-gray body copy. Typography is Calibri / Calibri Light with no visible master placeholders.
+
+Reusable patterns: title slide, two-column cards, three-column cards, numbered principle rows, four-card algorithm grid, four-card instructional grids, example quotation slide, summary slide.
+
+Edit contract: preserve the source master/layout hierarchy, all background stripes, the dark palette, header chip, and card styling. Convert the algorithm into four duplicate-slide builds that progressively reveal one to four stages in a left-to-right process. Add subtle green connectors to the existing three-state "Задача этапа" cards. Renumber slide counters after the added progressive builds.

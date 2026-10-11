@@ -1,0 +1,159 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "opening slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [{ "action": "rewrite", "sourceElementId": "sh/5sfepcfe" }]
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 2,
+      "narrativeRole": "orientation slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [{ "action": "rewrite", "sourceElementId": "sh/xk7qlczu" }]
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 3,
+      "narrativeRole": "definition slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [{ "action": "rewrite", "sourceElementId": "sh/a5c3ql8z" }]
+    },
+    {
+      "outputSlide": 4,
+      "sourceSlide": 4,
+      "narrativeRole": "state progression map",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/x8vaxsfe" },
+        { "action": "keep", "sourceElementIds": ["sh/v6tsv2xo", "sh/p0batw72", "sh/2xkrih8b"] },
+        { "action": "add", "newPrimitiveAllowed": true, "mustNotOverlapInherited": true, "zone": { "left": 411, "top": 336, "width": 18, "height": 40 }, "reason": "Green directional arrow between the first and second existing cards." },
+        { "action": "add", "newPrimitiveAllowed": true, "mustNotOverlapInherited": true, "zone": { "left": 786, "top": 336, "width": 18, "height": 40 }, "reason": "Green directional arrow between the second and third existing cards." }
+      ]
+    },
+    {
+      "outputSlide": 5,
+      "sourceSlide": 5,
+      "narrativeRole": "principles slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [{ "action": "rewrite", "sourceElementId": "sh/58vehgvy" }]
+    },
+    {
+      "outputSlide": 6,
+      "sourceSlide": 6,
+      "narrativeRole": "algorithm reveal one",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementIds": ["sh/47mt0b6x", "sh/j6dcr65c"] },
+        { "action": "rewrite-and-reposition", "sourceElementIds": ["sh/i54bylor", "sh/twfux0ne", "sh/svmt4v6t"] },
+        { "action": "delete", "sourceElementIds": ["sh/cbe5g3ih", "sh/dcnm98zm", "sh/qpwnet0b", "sh/bq547yhw", "sh/0fy5k3id", "sh/lg76d8zy", "sh/ydgnit07", "sh/zep4byhs", "sh/gju58ji9"] }
+      ]
+    },
+    {
+      "outputSlide": 7,
+      "sourceSlide": 6,
+      "narrativeRole": "algorithm reveal two",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementIds": ["sh/47mt0b6x", "sh/j6dcr65c"] },
+        { "action": "rewrite-and-reposition", "sourceElementIds": ["sh/i54bylor", "sh/twfux0ne", "sh/svmt4v6t", "sh/cbe5g3ih", "sh/dcnm98zm", "sh/qpwnet0b"] },
+        { "action": "delete", "sourceElementIds": ["sh/bq547yhw", "sh/0fy5k3id", "sh/lg76d8zy", "sh/ydgnit07", "sh/zep4byhs", "sh/gju58ji9"] },
+        { "action": "add", "newPrimitiveAllowed": true, "mustNotOverlapInherited": true, "zone": { "left": 305, "top": 338, "width": 28, "height": 44 }, "reason": "Directional arrow between the first and second process stages." }
+      ]
+    },
+    {
+      "outputSlide": 8,
+      "sourceSlide": 6,
+      "narrativeRole": "algorithm reveal three",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementIds": ["sh/47mt0b6x", "sh/j6dcr65c"] },
+        { "action": "rewrite-and-reposition", "sourceElementIds": ["sh/i54bylor", "sh/twfux0ne", "sh/svmt4v6t", "sh/cbe5g3ih", "sh/dcnm98zm", "sh/qpwnet0b", "sh/bq547yhw", "sh/0fy5k3id", "sh/lg76d8zy"] },
+        { "action": "delete", "sourceElementIds": ["sh/ydgnit07", "sh/zep4byhs", "sh/gju58ji9"] },
+        { "action": "add", "newPrimitiveAllowed": true, "mustNotOverlapInherited": true, "zone": { "left": 305, "top": 338, "width": 28, "height": 44 }, "reason": "Directional arrow between the first and second process stages." },
+        { "action": "add", "newPrimitiveAllowed": true, "mustNotOverlapInherited": true, "zone": { "left": 585, "top": 338, "width": 28, "height": 44 }, "reason": "Directional arrow between the second and third process stages." }
+      ]
+    },
+    {
+      "outputSlide": 9,
+      "sourceSlide": 6,
+      "narrativeRole": "algorithm reveal complete",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementIds": ["sh/47mt0b6x", "sh/j6dcr65c"] },
+        { "action": "rewrite-and-reposition", "sourceElementIds": ["sh/i54bylor", "sh/twfux0ne", "sh/svmt4v6t", "sh/cbe5g3ih", "sh/dcnm98zm", "sh/qpwnet0b", "sh/bq547yhw", "sh/0fy5k3id", "sh/lg76d8zy", "sh/ydgnit07", "sh/zep4byhs", "sh/gju58ji9"] },
+        { "action": "add", "newPrimitiveAllowed": true, "mustNotOverlapInherited": true, "zone": { "left": 305, "top": 338, "width": 28, "height": 44 }, "reason": "Directional arrow between the first and second process stages." },
+        { "action": "add", "newPrimitiveAllowed": true, "mustNotOverlapInherited": true, "zone": { "left": 585, "top": 338, "width": 28, "height": 44 }, "reason": "Directional arrow between the second and third process stages." },
+        { "action": "add", "newPrimitiveAllowed": true, "mustNotOverlapInherited": true, "zone": { "left": 865, "top": 338, "width": 28, "height": 44 }, "reason": "Directional arrow between the third and fourth process stages." }
+      ]
+    },
+    {
+      "outputSlide": 10,
+      "sourceSlide": 7,
+      "narrativeRole": "step one explanation",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [{ "action": "rewrite", "sourceElementId": "sh/25ojml43" }]
+    },
+    {
+      "outputSlide": 11,
+      "sourceSlide": 8,
+      "narrativeRole": "step one wording",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [{ "action": "rewrite", "sourceElementId": "sh/1k7edwv2" }]
+    },
+    {
+      "outputSlide": 12,
+      "sourceSlide": 9,
+      "narrativeRole": "step two explanation",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [{ "action": "rewrite", "sourceElementId": "sh/do3id4fy" }]
+    },
+    {
+      "outputSlide": 13,
+      "sourceSlide": 10,
+      "narrativeRole": "step two wording",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [{ "action": "rewrite", "sourceElementId": "sh/1cru1g3y" }]
+    },
+    {
+      "outputSlide": 14,
+      "sourceSlide": 11,
+      "narrativeRole": "step three explanation",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [{ "action": "rewrite", "sourceElementId": "sh/1cfa58zi" }]
+    },
+    {
+      "outputSlide": 15,
+      "sourceSlide": 12,
+      "narrativeRole": "step three wording",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [{ "action": "rewrite", "sourceElementId": "sh/9sj65kn2" }]
+    },
+    {
+      "outputSlide": 16,
+      "sourceSlide": 13,
+      "narrativeRole": "step four explanation",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [{ "action": "rewrite", "sourceElementId": "sh/876xwfmx" }]
+    },
+    {
+      "outputSlide": 17,
+      "sourceSlide": 14,
+      "narrativeRole": "step four wording",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [{ "action": "rewrite", "sourceElementId": "sh/ls7idofu" }]
+    },
+    {
+      "outputSlide": 18,
+      "sourceSlide": 15,
+      "narrativeRole": "summary flow",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementIds": ["sh/5wvax0f6", "sh/1kjyt83e"] }
+      ]
+    }
+  ],
+  "omittedSourceSlides": []
+}

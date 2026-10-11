@@ -1,0 +1,341 @@
+{"kind":"deck","id":"pr/72icvk","name":"Deck"}
+{"kind":"layout","layoutId":"19d2f5e8-ab77-4633-942e-f3c59d279c95","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"c4274ac5-0ebf-4a24-a5b2-bce67d1df846","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/0oijty","slide":1,"title":"ОБУЧЕНИЕ И РАЗВИТИЕ ПЕРСОНАЛА","textShapes":10}
+{"kind":"textbox","id":"sh/1c32xkz2","slide":1,"text":"ОБУЧЕНИЕ И РАЗВИТИЕ ПЕРСОНАЛА","textPreview":"ОБУЧЕНИЕ И РАЗВИТИЕ ПЕРСОНАЛА","textChars":29,"textLines":1,"bbox":[52,46,400,20]}
+{"kind":"shape","id":"sh/e9cj25gb","slide":1,"name":"rule","bbox":[52,78,1176,2]}
+{"kind":"textbox","id":"sh/falkvahw","slide":1,"name":"cover-title","text":"Учимся\nучить","textPreview":"Учимся | учить","textChars":12,"textLines":2,"bbox":[52,170,590,186]}
+{"kind":"textbox","id":"sh/sna10fil","slide":1,"name":"cover-subtitle","text":"Как проводить обучающие встречи,\nкоторые меняют поведение сотрудника","textPreview":"Как проводить обучающие встречи, | которые меняют поведение сотрудника","textChars":68,"textLines":2,"bbox":[56,392,590,78]}
+{"kind":"shape","id":"sh/t8jit0z6","slide":1,"name":"cover-panel","bbox":[752,163,382,306]}
+{"kind":"textbox","id":"sh/6lsjy50f","slide":1,"text":"ЗНАНИЕ","textPreview":"ЗНАНИЕ","textChars":6,"textLines":1,"bbox":[787,206,220,30]}
+{"kind":"textbox","id":"sh/rm10rah0","slide":1,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[794,255,70,45]}
+{"kind":"textbox","id":"sh/cje1czyp","slide":1,"text":"УМЕНИЕ","textPreview":"УМЕНИЕ","textChars":6,"textLines":1,"bbox":[866,260,200,30]}
+{"kind":"textbox","id":"sh/d4n254za","slide":1,"text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[875,311,70,45]}
+{"kind":"textbox","id":"sh/5cvyh836","slide":1,"text":"НАВЫК","textPreview":"НАВЫК","textChars":5,"textLines":1,"bbox":[946,316,140,30]}
+{"kind":"textbox","id":"sh/kb2h832l","slide":1,"text":"2 часть","textPreview":"2 часть","textChars":7,"textLines":1,"bbox":[56,592,190,30]}
+{"kind":"textbox","id":"sh/jqtgfyl0","slide":1,"text":"Материал для руководителя / наставника","textPreview":"Материал для руководителя / наставника","textChars":38,"textLines":1,"bbox":[56,628,460,22]}
+{"kind":"notes","id":"nt/0oijty","slide":1,"text":""}
+{"kind":"slide","id":"sl/ffr1tg","slide":2,"title":"ПОДГОТОВКА","textShapes":18}
+{"kind":"textbox","id":"sh/mh87a5or","slide":2,"name":"section","text":"ПОДГОТОВКА","textPreview":"ПОДГОТОВКА","textChars":10,"textLines":1,"bbox":[48,38,260,20]}
+{"kind":"textbox","id":"sh/9kz65k7i","slide":2,"name":"slide-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,38,72,20]}
+{"kind":"shape","id":"sh/8jqpcf6x","slide":2,"name":"rule","bbox":[48,67,1184,1]}
+{"kind":"textbox","id":"sh/v61o7ap8","slide":2,"name":"title","text":"Обучение начинается с наблюдаемого дефицита","textPreview":"Обучение начинается с наблюдаемого дефицита","textChars":43,"textLines":1,"bbox":[48,92,1080,80]}
+{"kind":"textbox","id":"sh/uls7epon","slide":2,"name":"subtitle","text":"Сначала определяем, что именно в работе сотрудника требует развития.","textPreview":"Сначала определяем, что именно в работе сотрудника требует развития.","textChars":68,"textLines":1,"bbox":[48,179,820,44]}
+{"kind":"shape","id":"sh/h8j69k7e","slide":2,"name":"arrow","bbox":[278,385,60,20]}
+{"kind":"shape","id":"sh/w7apgf6t","slide":2,"name":"process-node","bbox":[48,328,70,70]}
+{"kind":"textbox","id":"sh/ja1obu5k","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[48,347,70,28]}
+{"kind":"textbox","id":"sh/i9s7ipoz","slide":2,"text":"Проверить","textPreview":"Проверить","textChars":9,"textLines":1,"bbox":[48,426,250,30]}
+{"kind":"textbox","id":"sh/o32x8rat","slide":2,"text":"наблюдение по чек-листу","textPreview":"наблюдение по чек-листу","textChars":23,"textLines":1,"bbox":[48,464,238,54]}
+{"kind":"shape","id":"sh/p4vehwbe","slide":2,"name":"arrow","bbox":[574,385,60,20]}
+{"kind":"shape","id":"sh/21kf6hsn","slide":2,"name":"process-node","bbox":[344,328,70,70]}
+{"kind":"textbox","id":"sh/32twfmt8","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[344,347,70,28]}
+{"kind":"textbox","id":"sh/c7mxcrap","slide":2,"text":"Выбрать","textPreview":"Выбрать","textChars":7,"textLines":1,"bbox":[344,426,250,30]}
+{"kind":"textbox","id":"sh/d8vylwba","slide":2,"text":"один дефицитный тематический блок","textPreview":"один дефицитный тематический блок","textChars":33,"textLines":1,"bbox":[344,464,238,54]}
+{"kind":"shape","id":"sh/q54fahsz","slide":2,"name":"arrow","bbox":[870,385,60,20]}
+{"kind":"shape","id":"sh/b6dgjmtk","slide":2,"name":"process-node","bbox":[640,328,70,70]}
+{"kind":"textbox","id":"sh/0b6xgba1","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[640,347,70,28]}
+{"kind":"textbox","id":"sh/lcfypgbm","slide":2,"text":"Сформулировать","textPreview":"Сформулировать","textChars":14,"textLines":1,"bbox":[640,426,250,30]}
+{"kind":"textbox","id":"sh/9gr6dcze","slide":2,"text":"учебную цель и критерии","textPreview":"учебную цель и критерии","textChars":23,"textLines":1,"bbox":[640,464,238,54]}
+{"kind":"shape","id":"sh/8fi5k7yt","slide":2,"name":"process-node","bbox":[936,328,70,70]}
+{"kind":"textbox","id":"sh/ne9ob2h8","slide":2,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[936,347,70,28]}
+{"kind":"textbox","id":"sh/md0nixgn","slide":2,"text":"Проверить","textPreview":"Проверить","textChars":9,"textLines":1,"bbox":[936,426,250,30]}
+{"kind":"textbox","id":"sh/xkr6hcza","slide":2,"text":"изменение в реальной работе","textPreview":"изменение в реальной работе","textChars":27,"textLines":1,"bbox":[936,464,238,54]}
+{"kind":"shape","id":"sh/wjipo7y5","slide":2,"name":"key-message","bbox":[48,564,1184,58]}
+{"kind":"textbox","id":"sh/vi9ofmhk","slide":2,"text":"Фокус встречи — не «рассказать всё», а убрать один конкретный дефицит в поведении.","textPreview":"Фокус встречи — не «рассказать всё», а убрать один конкретный дефицит в поведении.","textChars":82,"textLines":1,"bbox":[72,580,1110,26]}
+{"kind":"shape","id":"sh/ah0nmhgz","slide":2,"name":"rule","bbox":[48,654,1184,1]}
+{"kind":"textbox","id":"sh/do765sz6","slide":2,"text":"Выбор темы → учебная цель → работа по алгоритму → проверка результата","textPreview":"Выбор темы → учебная цель → работа по алгоритму → проверка результата","textChars":69,"textLines":1,"bbox":[48,668,900,18]}
+{"kind":"notes","id":"nt/ffr1tg","slide":2,"text":""}
+{"kind":"slide","id":"sl/tlx7k6","slide":3,"title":"ПОДГОТОВКА","textShapes":13}
+{"kind":"textbox","id":"sh/ydsvilgz","slide":3,"name":"section","text":"ПОДГОТОВКА","textPreview":"ПОДГОТОВКА","textChars":10,"textLines":1,"bbox":[48,38,260,20]}
+{"kind":"textbox","id":"sh/lgjed0zq","slide":3,"name":"slide-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,38,72,20]}
+{"kind":"shape","id":"sh/kfadkvy5","slide":3,"name":"rule","bbox":[48,67,1184,1]}
+{"kind":"textbox","id":"sh/bahw7qh8","slide":3,"name":"title","text":"От чек-листа к теме встречи","textPreview":"От чек-листа к теме встречи","textChars":27,"textLines":1,"bbox":[48,92,1080,80]}
+{"kind":"textbox","id":"sh/a98velg3","slide":3,"name":"subtitle","text":"Работайте последовательно: один тематический блок за одну обучающую встречу.","textPreview":"Работайте последовательно: один тематический блок за одну обучающую встречу.","textChars":76,"textLines":1,"bbox":[48,179,820,44]}
+{"kind":"shape","id":"sh/xcze9gze","slide":3,"name":"knowledge-panel","bbox":[48,256,536,292]}
+{"kind":"shape","id":"sh/wbqdgbyt","slide":3,"name":"badge","bbox":[72,282,150,28]}
+{"kind":"textbox","id":"sh/nmhc36hc","slide":3,"text":"ДИАГНОСТИКА","textPreview":"ДИАГНОСТИКА","textChars":11,"textLines":1,"bbox":[82,287,130,18]}
+{"kind":"textbox","id":"sh/ml8va10r","slide":3,"text":"Знания","textPreview":"Знания","textChars":6,"textLines":1,"bbox":[72,335,260,34]}
+{"kind":"textbox","id":"sh/47uto3y9","slide":3,"text":"Проверяем тестом или опросником","textPreview":"Проверяем тестом или опросником","textChars":31,"textLines":1,"bbox":[72,382,430,30]}
+{"kind":"shape","id":"sh/p83uh8ze","slide":3,"name":"rule","bbox":[72,434,390,2]}
+{"kind":"textbox","id":"sh/25cbmtg3","slide":3,"text":"Вопрос: сотрудник понимает\nалгоритм и логику действий?","textPreview":"Вопрос: сотрудник понимает | алгоритм и логику действий?","textChars":54,"textLines":2,"bbox":[72,460,430,58]}
+{"kind":"shape","id":"sh/36lcfyho","slide":3,"name":"skill-panel","bbox":[640,256,592,292]}
+{"kind":"shape","id":"sh/gjutk3yx","slide":3,"name":"badge","bbox":[664,282,150,28]}
+{"kind":"textbox","id":"sh/h43ud8zi","slide":3,"text":"ДИАГНОСТИКА","textPreview":"ДИАГНОСТИКА","textChars":11,"textLines":1,"bbox":[674,287,130,18]}
+{"kind":"textbox","id":"sh/uhsbitgr","slide":3,"text":"Умения и навыки","textPreview":"Умения и навыки","textChars":15,"textLines":1,"bbox":[664,335,390,34]}
+{"kind":"textbox","id":"sh/filcbyhc","slide":3,"text":"Проверяем по чек-листу поведения","textPreview":"Проверяем по чек-листу поведения","textChars":32,"textLines":1,"bbox":[664,382,450,30]}
+{"kind":"shape","id":"sh/0fedwny1","slide":3,"name":"rule","bbox":[664,434,430,2]}
+{"kind":"textbox","id":"sh/10nupsfm","slide":3,"text":"Берём в работу пункты с оценкой 0 —\nи только один блок за встречу.","textPreview":"Берём в работу пункты с оценкой 0 — | и только один блок за встречу.","textChars":66,"textLines":2,"bbox":[664,460,460,58]}
+{"kind":"shape","id":"sh/9w3u9s7q","slide":3,"name":"rule","bbox":[48,654,1184,1]}
+{"kind":"textbox","id":"sh/8vat0nql","slide":3,"text":"Чем точнее диагностика, тем конкретнее тема обучения.","textPreview":"Чем точнее диагностика, тем конкретнее тема обучения.","textChars":53,"textLines":1,"bbox":[48,668,900,18]}
+{"kind":"notes","id":"nt/tlx7k6","slide":3,"text":""}
+{"kind":"slide","id":"sl/5crs4p","slide":4,"title":"ПОДГОТОВКА","textShapes":14}
+{"kind":"textbox","id":"sh/76d4zql8","slide":4,"name":"section","text":"ПОДГОТОВКА","textPreview":"ПОДГОТОВКА","textChars":10,"textLines":1,"bbox":[48,38,260,20]}
+{"kind":"textbox","id":"sh/876lsv2t","slide":4,"name":"slide-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1160,38,72,20]}
+{"kind":"shape","id":"sh/98fm103e","slide":4,"name":"rule","bbox":[48,67,1184,1]}
+{"kind":"textbox","id":"sh/u9o3u5kz","slide":4,"name":"title","text":"Учебная цель — это измеримый результат","textPreview":"Учебная цель — это измеримый результат","textChars":38,"textLines":1,"bbox":[48,92,1080,80]}
+{"kind":"textbox","id":"sh/vax43qlk","slide":4,"name":"subtitle","text":"Она описывает, что сотрудник будет знать и делать после встречи — и как вы это проверите.","textPreview":"Она описывает, что сотрудник будет знать и делать после встречи — и как вы это проверите.","textChars":89,"textLines":1,"bbox":[48,179,820,44]}
+{"kind":"shape","id":"sh/wb6lwv25","slide":4,"name":"goal-card","bbox":[48,280,350,184]}
+{"kind":"textbox","id":"sh/hcfm503q","slide":4,"text":"Знает","textPreview":"Знает","textChars":5,"textLines":1,"bbox":[72,310,300,34]}
+{"kind":"textbox","id":"sh/ido3y5kv","slide":4,"text":"какой алгоритм использовать и почему","textPreview":"какой алгоритм использовать и почему","textChars":36,"textLines":1,"bbox":[72,362,300,62]}
+{"kind":"shape","id":"sh/jyh47alg","slide":4,"name":"goal-card","bbox":[446,280,350,184]}
+{"kind":"textbox","id":"sh/red8fuhg","slide":4,"text":"Умеет","textPreview":"Умеет","textChars":5,"textLines":1,"bbox":[470,310,300,34]}
+{"kind":"textbox","id":"sh/qd476p0v","slide":4,"text":"выполнить конкретное действие по алгоритму","textPreview":"выполнить конкретное действие по алгоритму","textChars":42,"textLines":1,"bbox":[470,362,300,62]}
+{"kind":"shape","id":"sh/dgvqh4zm","slide":4,"name":"goal-card","bbox":[844,280,350,184]}
+{"kind":"textbox","id":"sh/sfmp8zi1","slide":4,"text":"Подтверждает","textPreview":"Подтверждает","textChars":12,"textLines":1,"bbox":[868,310,300,34]}
+{"kind":"textbox","id":"sh/3ad8buh4","slide":4,"text":"результат по заранее заданным критериям","textPreview":"результат по заранее заданным критериям","textChars":39,"textLines":1,"bbox":[868,362,300,62]}
+{"kind":"shape","id":"sh/i9472p0z","slide":4,"name":"example","bbox":[48,500,1184,100]}
+{"kind":"textbox","id":"sh/5cvqdkza","slide":4,"text":"Пример","textPreview":"Пример","textChars":6,"textLines":1,"bbox":[74,523,110,22]}
+{"kind":"textbox","id":"sh/4bmp4zip","slide":4,"text":"Сотрудник знает алгоритм установления контакта с ЛПР и применяет его при холодном звонке.","textPreview":"Сотрудник знает алгоритм установления контакта с ЛПР и применяет его при холодном звонке.","textChars":89,"textLines":1,"bbox":[190,517,980,40]}
+{"kind":"textbox","id":"sh/n6x8neho","slide":4,"text":"Критерий: воспроизводит действия по чек-листу в рабочей ситуации.","textPreview":"Критерий: воспроизводит действия по чек-листу в рабочей ситуации.","textChars":65,"textLines":1,"bbox":[190,561,900,22]}
+{"kind":"shape","id":"sh/m5ore903","slide":4,"name":"rule","bbox":[48,654,1184,1]}
+{"kind":"textbox","id":"sh/idcj2hon","slide":4,"text":"Формула: действие сотрудника + условия применения + критерий результата.","textPreview":"Формула: действие сотрудника + условия применения + критерий результата.","textChars":72,"textLines":1,"bbox":[48,668,900,18]}
+{"kind":"notes","id":"nt/5crs4p","slide":4,"text":""}
+{"kind":"slide","id":"sl/526lu4","slide":5,"title":"ОБУЧАЮЩАЯ ВСТРЕЧА","textShapes":22}
+{"kind":"textbox","id":"sh/6d0b25wv","slide":5,"name":"section","text":"ОБУЧАЮЩАЯ ВСТРЕЧА","textPreview":"ОБУЧАЮЩАЯ ВСТРЕЧА","textChars":17,"textLines":1,"bbox":[48,38,260,20]}
+{"kind":"textbox","id":"sh/tgraxkf6","slide":5,"name":"slide-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1160,38,72,20]}
+{"kind":"shape","id":"sh/sfit4fe1","slide":5,"name":"rule","bbox":[48,67,1184,1]}
+{"kind":"textbox","id":"sh/japsrax4","slide":5,"name":"title","text":"Вводная часть: включить сотрудника в обучение","textPreview":"Вводная часть: включить сотрудника в обучение","textChars":45,"textLines":1,"bbox":[48,92,1080,80]}
+{"kind":"textbox","id":"sh/i9gry5wj","slide":5,"name":"subtitle","text":"Её задача — снять неопределённость, показать значимость и договориться о совместной работе.","textPreview":"Её задача — снять неопределённость, показать значимость и договориться о совместной работе.","textChars":91,"textLines":1,"bbox":[48,179,820,44]}
+{"kind":"shape","id":"sh/5cratkfa","slide":5,"name":"intro-number","bbox":[54,261,38,38]}
+{"kind":"textbox","id":"sh/kbit0fep","slide":5,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[54,270,38,18]}
+{"kind":"textbox","id":"sh/vmpsnqx8","slide":5,"text":"Зачем","textPreview":"Зачем","textChars":5,"textLines":1,"bbox":[118,258,180,28]}
+{"kind":"textbox","id":"sh/algrulgn","slide":5,"text":"почему это важно в работе","textPreview":"почему это важно в работе","textChars":25,"textLines":1,"bbox":[315,259,680,28]}
+{"kind":"shape","id":"sh/kjmlsn2x","slide":5,"name":"rule","bbox":[116,310,938,1]}
+{"kind":"shape","id":"sh/lkvml83i","slide":5,"name":"intro-number","bbox":[54,327,38,38]}
+{"kind":"textbox","id":"sh/yh43qdkr","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[54,336,38,18]}
+{"kind":"textbox","id":"sh/jid4jilc","slide":5,"text":"Цель","textPreview":"Цель","textChars":4,"textLines":1,"bbox":[118,324,180,28]}
+{"kind":"textbox","id":"sh/wfmlo3ml","slide":5,"text":"какой результат ожидаем","textPreview":"какой результат ожидаем","textChars":23,"textLines":1,"bbox":[315,325,680,28]}
+{"kind":"shape","id":"sh/xgvmh836","slide":5,"name":"rule","bbox":[116,376,938,1]}
+{"kind":"shape","id":"sh/adk3mt4v","slide":5,"name":"intro-number","bbox":[54,393,38,38]}
+{"kind":"textbox","id":"sh/bed4fyl0","slide":5,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[54,402,38,18]}
+{"kind":"textbox","id":"sh/gb650725","slide":5,"text":"Польза","textPreview":"Польза","textChars":6,"textLines":1,"bbox":[118,390,180,28]}
+{"kind":"textbox","id":"sh/hczmts3q","slide":5,"text":"что получит сам сотрудник","textPreview":"что получит сам сотрудник","textChars":25,"textLines":1,"bbox":[315,391,680,28]}
+{"kind":"shape","id":"sh/p8vmdsvu","slide":5,"name":"rule","bbox":[116,442,938,1]}
+{"kind":"shape","id":"sh/o7mlknu9","slide":5,"name":"intro-number","bbox":[54,459,38,38]}
+{"kind":"textbox","id":"sh/36t4bido","slide":5,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[54,468,38,18]}
+{"kind":"textbox","id":"sh/25k3ixc3","slide":5,"text":"Маршрут","textPreview":"Маршрут","textChars":7,"textLines":1,"bbox":[118,456,180,28]}
+{"kind":"textbox","id":"sh/14bm9svi","slide":5,"text":"как пройдёт встреча","textPreview":"как пройдёт встреча","textChars":19,"textLines":1,"bbox":[315,457,680,28]}
+{"kind":"shape","id":"sh/g32lgnux","slide":5,"name":"rule","bbox":[116,508,938,1]}
+{"kind":"shape","id":"sh/f2t47idc","slide":5,"name":"intro-number","bbox":[54,525,38,38]}
+{"kind":"textbox","id":"sh/e1k3edc7","slide":5,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[54,534,38,18]}
+{"kind":"textbox","id":"sh/t0bm58vm","slide":5,"text":"Участие","textPreview":"Участие","textChars":7,"textLines":1,"bbox":[118,522,180,28]}
+{"kind":"textbox","id":"sh/szilc3u1","slide":5,"text":"каких действий ждём от сотрудника","textPreview":"каких действий ждём от сотрудника","textChars":33,"textLines":1,"bbox":[315,523,680,28]}
+{"kind":"shape","id":"sh/i5gj69sz","slide":5,"name":"opening-script","bbox":[922,255,310,278]}
+{"kind":"textbox","id":"sh/j6p0fet4","slide":5,"text":"СТАРТОВАЯ\nФРАЗА","textPreview":"СТАРТОВАЯ | ФРАЗА","textChars":15,"textLines":2,"bbox":[950,286,180,52]}
+{"kind":"textbox","id":"sh/k7y18jap","slide":5,"text":"«Сегодня разберём…,\nпотренируемся и\nзафиксируем, как\nприменить это в работе»","textPreview":"«Сегодня разберём…, | потренируемся и | зафиксируем, как | применить это в работе»","textChars":76,"textLines":4,"bbox":[950,358,250,115]}
+{"kind":"shape","id":"sh/58rihoba","slide":5,"name":"rule","bbox":[48,654,1184,1]}
+{"kind":"textbox","id":"sh/ahgji9sn","slide":5,"text":"Сильное начало создаёт ответственность за результат, а не ощущение «очередной лекции».","textPreview":"Сильное начало создаёт ответственность за результат, а не ощущение «очередной лекции».","textChars":86,"textLines":1,"bbox":[48,668,900,18]}
+{"kind":"notes","id":"nt/526lu4","slide":5,"text":""}
+{"kind":"slide","id":"sl/jfyixd","slide":6,"title":"ОБУЧАЮЩАЯ ВСТРЕЧА","textShapes":22}
+{"kind":"textbox","id":"sh/wf2xcbit","slide":6,"name":"section","text":"ОБУЧАЮЩАЯ ВСТРЕЧА","textPreview":"ОБУЧАЮЩАЯ ВСТРЕЧА","textChars":17,"textLines":1,"bbox":[48,38,260,20]}
+{"kind":"textbox","id":"sh/vetg3618","slide":6,"name":"slide-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1160,38,72,20]}
+{"kind":"shape","id":"sh/adkfa103","slide":6,"name":"rule","bbox":[48,67,1184,1]}
+{"kind":"textbox","id":"sh/9cbe1wji","slide":6,"name":"title","text":"Алгоритм обучения: от знания к навыку","textPreview":"Алгоритм обучения: от знания к навыку","textChars":37,"textLines":1,"bbox":[48,92,1080,80]}
+{"kind":"textbox","id":"sh/8b2x8rix","slide":6,"name":"subtitle","text":"Не перескакивайте через этапы: сотруднику нужно сначала понять, увидеть, попробовать с опорой — и только потом делать самостоятельно.","textPreview":"Не перескакивайте через этапы: сотруднику нужно сначала понять, увидеть, попробовать с опорой — и только потом делать самостоятельно.","textChars":133,"textLines":1,"bbox":[48,179,820,44]}
+{"kind":"shape","id":"sh/na9wzm1c","slide":6,"name":"arrow","bbox":[294,338,46,24]}
+{"kind":"shape","id":"sh/m90f6hkr","slide":6,"name":"learning-stage","bbox":[48,286,250,225]}
+{"kind":"textbox","id":"sh/l8rexwj6","slide":6,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[71,313,42,24]}
+{"kind":"textbox","id":"sh/07ix4r2l","slide":6,"text":"Расскажу","textPreview":"Расскажу","textChars":8,"textLines":1,"bbox":[71,352,186,58]}
+{"kind":"textbox","id":"sh/2hs7q5sf","slide":6,"text":"ЗНАНИЕ","textPreview":"ЗНАНИЕ","textChars":6,"textLines":1,"bbox":[71,422,126,18]}
+{"kind":"textbox","id":"sh/3i18jat0","slide":6,"text":"Сотрудник может воспроизвести информацию и ответить на вопросы.","textPreview":"Сотрудник может воспроизвести информацию и ответить на вопросы.","textChars":63,"textLines":1,"bbox":[71,455,204,44]}
+{"kind":"shape","id":"sh/4ju9sfal","slide":6,"name":"arrow","bbox":[594,338,46,24]}
+{"kind":"shape","id":"sh/pk3qlkr6","slide":6,"name":"learning-stage","bbox":[348,286,250,225]}
+{"kind":"textbox","id":"sh/uts7m5sj","slide":6,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[371,313,42,24]}
+{"kind":"textbox","id":"sh/fe18fat4","slide":6,"text":"Покажу","textPreview":"Покажу","textChars":6,"textLines":1,"bbox":[371,352,186,58]}
+{"kind":"textbox","id":"sh/gfapova9","slide":6,"text":"ПРИМЕР","textPreview":"ПРИМЕР","textChars":6,"textLines":1,"bbox":[371,422,126,18]}
+{"kind":"textbox","id":"sh/hgjqh0bu","slide":6,"text":"Сотрудник увидел применение действий и понял, что наблюдать.","textPreview":"Сотрудник увидел применение действий и понял, что наблюдать.","textChars":60,"textLines":1,"bbox":[371,455,204,44]}
+{"kind":"shape","id":"sh/6p87ils7","slide":6,"name":"arrow","bbox":[894,338,46,24]}
+{"kind":"shape","id":"sh/7qh8bqts","slide":6,"name":"learning-stage","bbox":[648,286,250,225]}
+{"kind":"textbox","id":"sh/vux4jm9k","slide":6,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[671,313,42,24]}
+{"kind":"textbox","id":"sh/atonqh8z","slide":6,"text":"Сделаем\nвместе","textPreview":"Сделаем | вместе","textChars":14,"textLines":2,"bbox":[671,352,186,58]}
+{"kind":"textbox","id":"sh/xwf6lwrq","slide":6,"text":"УМЕНИЕ","textPreview":"УМЕНИЕ","textChars":6,"textLines":1,"bbox":[671,422,126,18]}
+{"kind":"textbox","id":"sh/wv65srq5","slide":6,"text":"Сотрудник воспроизводит действие с опорой и подсказками.","textPreview":"Сотрудник воспроизводит действие с опорой и подсказками.","textChars":56,"textLines":1,"bbox":[671,455,204,44]}
+{"kind":"shape","id":"sh/jyxon69w","slide":6,"name":"learning-stage","bbox":[948,286,250,225]}
+{"kind":"textbox","id":"sh/ixonu18b","slide":6,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[971,313,42,24]}
+{"kind":"textbox","id":"sh/5kz6pw7m","slide":6,"text":"Сделай\nсам","textPreview":"Сделай | сам","textChars":10,"textLines":2,"bbox":[971,352,186,58]}
+{"kind":"textbox","id":"sh/kz65wbq1","slide":6,"text":"НАВЫК","textPreview":"НАВЫК","textChars":5,"textLines":1,"bbox":[971,422,126,18]}
+{"kind":"textbox","id":"sh/z2d4b29c","slide":6,"text":"Сотрудник выполняет действие без опоры и подсказок.","textPreview":"Сотрудник выполняет действие без опоры и подсказок.","textChars":51,"textLines":1,"bbox":[971,455,204,44]}
+{"kind":"shape","id":"sh/y14nix8r","slide":6,"name":"benchmark","bbox":[48,555,1184,56]}
+{"kind":"textbox","id":"sh/4vytwj2d","slide":6,"text":"Ориентир практики: 85% и выше — сначала с опорой, затем без неё.","textPreview":"Ориентир практики: 85% и выше — сначала с опорой, затем без неё.","textChars":64,"textLines":1,"bbox":[72,572,1125,24]}
+{"kind":"shape","id":"sh/5wru543y","slide":6,"name":"rule","bbox":[48,654,1184,1]}
+{"kind":"textbox","id":"sh/itgbu9kn","slide":6,"text":"Последовательность обучения: объяснение → наблюдение → тренировка → самостоятельное применение.","textPreview":"Последовательность обучения: объяснение → наблюдение → тренировка → самостоятельное применение.","textChars":95,"textLines":1,"bbox":[48,668,900,18]}
+{"kind":"notes","id":"nt/jfyixd","slide":6,"text":""}
+{"kind":"slide","id":"sl/06bf84","slide":7,"title":"ЭТАП «РАССКАЖУ»","textShapes":19}
+{"kind":"textbox","id":"sh/kbutsvmp","slide":7,"name":"section","text":"ЭТАП «РАССКАЖУ»","textPreview":"ЭТАП «РАССКАЖУ»","textChars":15,"textLines":1,"bbox":[48,38,260,20]}
+{"kind":"textbox","id":"sh/zqlczq54","slide":7,"name":"slide-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1160,38,72,20]}
+{"kind":"shape","id":"sh/ypcbql4j","slide":7,"name":"rule","bbox":[48,67,1184,1]}
+{"kind":"textbox","id":"sh/9gnu50n6","slide":7,"name":"title","text":"Этап «Расскажу»: передаём знание","textPreview":"Этап «Расскажу»: передаём знание","textChars":32,"textLines":1,"bbox":[48,92,1080,80]}
+{"kind":"textbox","id":"sh/8fedwfml","slide":7,"name":"subtitle","text":"Результат этапа — сотрудник может пересказать материал, воспроизвести алгоритм и ответить на вопросы.","textPreview":"Результат этапа — сотрудник может пересказать материал, воспроизвести алгоритм и ответить на вопросы.","textChars":101,"textLines":1,"bbox":[48,179,820,44]}
+{"kind":"shape","id":"sh/7e5c3a50","slide":7,"name":"tell-step","bbox":[48,292,202,214]}
+{"kind":"textbox","id":"sh/mdcbu54v","slide":7,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[66,315,35,28]}
+{"kind":"textbox","id":"sh/pkjutgn2","slide":7,"text":"Цель","textPreview":"Цель","textChars":4,"textLines":1,"bbox":[66,356,160,30]}
+{"kind":"textbox","id":"sh/ojatkbmh","slide":7,"text":"объясните, для чего нужен этот этап","textPreview":"объясните, для чего нужен этот этап","textChars":35,"textLines":1,"bbox":[66,406,160,56]}
+{"kind":"shape","id":"sh/ed0vad8n","slide":7,"name":"arrow","bbox":[250,378,22,18]}
+{"kind":"shape","id":"sh/fe9wjips","slide":7,"name":"tell-step","bbox":[278,292,202,214]}
+{"kind":"textbox","id":"sh/gfidcnqd","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[296,315,35,28]}
+{"kind":"textbox","id":"sh/1grels7y","slide":7,"text":"Маршрут","textPreview":"Маршрут","textChars":7,"textLines":1,"bbox":[296,356,160,30]}
+{"kind":"textbox","id":"sh/210vex8j","slide":7,"text":"скажите, что и как будете делать","textPreview":"скажите, что и как будете делать","textChars":32,"textLines":1,"bbox":[296,406,160,56]}
+{"kind":"shape","id":"sh/329wn2p4","slide":7,"name":"arrow","bbox":[480,378,22,18]}
+{"kind":"shape","id":"sh/o3ixg76p","slide":7,"name":"tell-step","bbox":[508,292,202,214]}
+{"kind":"textbox","id":"sh/p4bepc7a","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[526,315,35,28]}
+{"kind":"textbox","id":"sh/q5kfixov","slide":7,"text":"Лекция","textPreview":"Лекция","textChars":6,"textLines":1,"bbox":[526,356,160,30]}
+{"kind":"textbox","id":"sh/b6twr2p0","slide":7,"text":"дайте структурированную информацию","textPreview":"дайте структурированную информацию","textChars":34,"textLines":1,"bbox":[526,406,160,56]}
+{"kind":"shape","id":"sh/natcf258","slide":7,"name":"arrow","bbox":[710,378,22,18]}
+{"kind":"shape","id":"sh/m9kv6h4n","slide":7,"name":"tell-step","bbox":[738,292,202,214]}
+{"kind":"textbox","id":"sh/9cvehcne","slide":7,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[756,315,35,28]}
+{"kind":"textbox","id":"sh/8bmd87mt","slide":7,"text":"Проверка","textPreview":"Проверка","textChars":8,"textLines":1,"bbox":[756,356,160,30]}
+{"kind":"textbox","id":"sh/z6tcb25c","slide":7,"text":"задайте вопросы на понимание","textPreview":"задайте вопросы на понимание","textChars":28,"textLines":1,"bbox":[756,406,160,56]}
+{"kind":"shape","id":"sh/y5kv2x4r","slide":7,"name":"tell-outcome","bbox":[1010,292,222,214]}
+{"kind":"textbox","id":"sh/l8budcn2","slide":7,"text":"ПРИЗНАК\nЗАВЕРШЕНИЯ","textPreview":"ПРИЗНАК | ЗАВЕРШЕНИЯ","textChars":18,"textLines":2,"bbox":[1032,322,160,48]}
+{"kind":"textbox","id":"sh/072d47mx","slide":7,"text":"«Сотрудник\nобъясняет\nсвоими словами»","textPreview":"«Сотрудник | объясняет | своими словами»","textChars":36,"textLines":3,"bbox":[1032,396,160,78]}
+{"kind":"shape","id":"sh/bi9c7i50","slide":7,"name":"rule","bbox":[48,654,1184,1]}
+{"kind":"textbox","id":"sh/qh0vyx4f","slide":7,"text":"Лекция — это не монолог. Проверка понимания встроена в сам этап.","textPreview":"Лекция — это не монолог. Проверка понимания встроена в сам этап.","textChars":64,"textLines":1,"bbox":[48,668,900,18]}
+{"kind":"notes","id":"nt/06bf84","slide":7,"text":""}
+{"kind":"slide","id":"sl/mpk923","slide":8,"title":"ЭТАП «РАССКАЖУ»","textShapes":17}
+{"kind":"textbox","id":"sh/03u5cfqx","slide":8,"name":"section","text":"ЭТАП «РАССКАЖУ»","textPreview":"ЭТАП «РАССКАЖУ»","textChars":15,"textLines":1,"bbox":[48,38,260,20]}
+{"kind":"textbox","id":"sh/z2l4ja9c","slide":8,"name":"slide-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1160,38,72,20]}
+{"kind":"shape","id":"sh/e1cna5sr","slide":8,"name":"rule","bbox":[48,67,1184,1]}
+{"kind":"textbox","id":"sh/983mpkre","slide":8,"name":"title","text":"4 принципа сильного объяснения","textPreview":"4 принципа сильного объяснения","textChars":30,"textLines":1,"bbox":[48,92,1080,80]}
+{"kind":"textbox","id":"sh/87u5gzqt","slide":8,"name":"subtitle","text":"Смысл, структура и темп важнее объёма информации.","textPreview":"Смысл, структура и темп важнее объёма информации.","textChars":49,"textLines":1,"bbox":[48,179,820,44]}
+{"kind":"shape","id":"sh/n6l4nu98","slide":8,"name":"principle-card","bbox":[48,266,532,135]}
+{"kind":"textbox","id":"sh/m5cnep83","slide":8,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[70,286,44,26]}
+{"kind":"textbox","id":"sh/xwnmt4rq","slide":8,"text":"Значимость","textPreview":"Значимость","textChars":10,"textLines":1,"bbox":[134,284,390,30]}
+{"kind":"textbox","id":"sh/wve5kzq5","slide":8,"text":"Сначала объясните, зачем информация нужна и где пригодится на практике.","textPreview":"Сначала объясните, зачем информация нужна и где пригодится на практике.","textChars":71,"textLines":1,"bbox":[134,326,400,50]}
+{"kind":"shape","id":"sh/e58felsj","slide":8,"name":"principle-card","bbox":[652,266,532,135]}
+{"kind":"textbox","id":"sh/f6hg7qt4","slide":8,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[674,286,44,26]}
+{"kind":"textbox","id":"sh/07axgvap","slide":8,"text":"Структура","textPreview":"Структура","textChars":9,"textLines":1,"bbox":[738,284,390,30]}
+{"kind":"textbox","id":"sh/18jy90ba","slide":8,"text":"Организуйте материал через определения, классификации, алгоритмы и принципы.","textPreview":"Организуйте материал через определения, классификации, алгоритмы и принципы.","textChars":76,"textLines":1,"bbox":[738,326,400,50]}
+{"kind":"shape","id":"sh/29sfilsv","slide":8,"name":"principle-card","bbox":[48,437,532,135]}
+{"kind":"textbox","id":"sh/na1gbqtg","slide":8,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[70,457,44,26]}
+{"kind":"textbox","id":"sh/obaxkva1","slide":8,"text":"От общего к частному","textPreview":"От общего к частному","textChars":20,"textLines":1,"bbox":[134,455,390,30]}
+{"kind":"textbox","id":"sh/pcjyd0b6","slide":8,"text":"Сначала базовые понятия и логика, затем шаги, детали и примеры.","textPreview":"Сначала базовые понятия и логика, затем шаги, детали и примеры.","textChars":63,"textLines":1,"bbox":[134,497,400,50]}
+{"kind":"shape","id":"sh/idof61cr","slide":8,"name":"principle-card","bbox":[652,437,532,135]}
+{"kind":"textbox","id":"sh/jexwz6tw","slide":8,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[674,457,44,26]}
+{"kind":"textbox","id":"sh/7idc729o","slide":8,"text":"Порции","textPreview":"Порции","textChars":6,"textLines":1,"bbox":[738,455,390,30]}
+{"kind":"textbox","id":"sh/mh4vexsj","slide":8,"text":"Учитывайте ограниченный объём внимания и индивидуальный темп усвоения.","textPreview":"Учитывайте ограниченный объём внимания и индивидуальный темп усвоения.","textChars":70,"textLines":1,"bbox":[738,497,400,50]}
+{"kind":"shape","id":"sh/9kvu9cru","slide":8,"name":"rule","bbox":[48,654,1184,1]}
+{"kind":"textbox","id":"sh/8jmdg7a9","slide":8,"text":"Если информации слишком много — сократите, сгруппируйте или разделите на несколько встреч.","textPreview":"Если информации слишком много — сократите, сгруппируйте или разделите на несколько встреч.","textChars":90,"textLines":1,"bbox":[48,668,900,18]}
+{"kind":"notes","id":"nt/mpk923","slide":8,"text":""}
+{"kind":"slide","id":"sl/zqgtna","slide":9,"title":"ЭТАП «РАССКАЖУ»","textShapes":22}
+{"kind":"textbox","id":"sh/vmt4r254","slide":9,"name":"section","text":"ЭТАП «РАССКАЖУ»","textPreview":"ЭТАП «РАССКАЖУ»","textChars":15,"textLines":1,"bbox":[48,38,260,20]}
+{"kind":"textbox","id":"sh/wn25k7mp","slide":9,"name":"slide-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1160,38,72,20]}
+{"kind":"shape","id":"sh/xob6tcna","slide":9,"name":"rule","bbox":[48,67,1184,1]}
+{"kind":"textbox","id":"sh/mh0nud4n","slide":9,"name":"title","text":"Конструктор лекции по этапу продаж","textPreview":"Конструктор лекции по этапу продаж","textChars":34,"textLines":1,"bbox":[48,92,1080,80]}
+{"kind":"textbox","id":"sh/nit4ni5s","slide":9,"name":"subtitle","text":"Восемь вопросов, которые помогают выстроить не набор фактов, а логику воздействия на клиента.","textPreview":"Восемь вопросов, которые помогают выстроить не набор фактов, а логику воздействия на клиента.","textChars":93,"textLines":1,"bbox":[48,179,820,44]}
+{"kind":"textbox","id":"sh/8j25wnmd","slide":9,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[48,258,38,24]}
+{"kind":"textbox","id":"sh/9kbmpsny","slide":9,"text":"Для чего нужен этот этап?","textPreview":"Для чего нужен этот этап?","textChars":25,"textLines":1,"bbox":[102,250,510,42]}
+{"kind":"shape","id":"sh/6d4nqh4r","slide":9,"name":"rule","bbox":[102,303,510,1]}
+{"kind":"textbox","id":"sh/7edozm5c","slide":9,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[48,337,38,24]}
+{"kind":"textbox","id":"sh/rihkji9c","slide":9,"text":"Что происходит с клиентом?","textPreview":"Что происходит с клиентом?","textChars":26,"textLines":1,"bbox":[102,329,510,42]}
+{"kind":"shape","id":"sh/6h8jad8r","slide":9,"name":"rule","bbox":[102,382,510,1]}
+{"kind":"textbox","id":"sh/tkz2lsr2","slide":9,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[48,416,38,24]}
+{"kind":"textbox","id":"sh/sjq1cnqx","slide":9,"text":"Какое состояние клиента меняем?","textPreview":"Какое состояние клиента меняем?","textChars":31,"textLines":1,"bbox":[102,408,510,42]}
+{"kind":"shape","id":"sh/fm1kni98","slide":9,"name":"rule","bbox":[102,461,510,1]}
+{"kind":"textbox","id":"sh/el83ed8n","slide":9,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[48,495,38,24]}
+{"kind":"textbox","id":"sh/1oj2psre","slide":9,"text":"Какие правила и принципы применяем?","textPreview":"Какие правила и принципы применяем?","textChars":35,"textLines":1,"bbox":[102,487,510,42]}
+{"kind":"shape","id":"sh/gnalgnqt","slide":9,"name":"rule","bbox":[102,540,510,1]}
+{"kind":"textbox","id":"sh/3a1kr29k","slide":9,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[660,258,38,24]}
+{"kind":"textbox","id":"sh/29s3ix8z","slide":9,"text":"Какой алгоритм / инструмент используем?","textPreview":"Какой алгоритм / инструмент используем?","textChars":39,"textLines":1,"bbox":[714,250,510,42]}
+{"kind":"shape","id":"sh/y5wna1s7","slide":9,"name":"rule","bbox":[714,303,510,1]}
+{"kind":"textbox","id":"sh/z654j6ts","slide":9,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[660,337,38,24]}
+{"kind":"textbox","id":"sh/07e5cbax","slide":9,"text":"Как выглядит каждый шаг: что, почему, как?","textPreview":"Как выглядит каждый шаг: что, почему, как?","textChars":42,"textLines":1,"bbox":[714,329,510,42]}
+{"kind":"shape","id":"sh/l8n6lwbi","slide":9,"name":"rule","bbox":[714,382,510,1]}
+{"kind":"textbox","id":"sh/qhcn6hsv","slide":9,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[660,416,38,24]}
+{"kind":"textbox","id":"sh/bil4fmtg","slide":9,"text":"Как поймём, что результат достигнут?","textPreview":"Как поймём, что результат достигнут?","textChars":36,"textLines":1,"bbox":[714,408,510,42]}
+{"kind":"shape","id":"sh/c3u58ra1","slide":9,"name":"rule","bbox":[714,461,510,1]}
+{"kind":"textbox","id":"sh/d43mhwbm","slide":9,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[660,495,38,24]}
+{"kind":"textbox","id":"sh/adgnilsf","slide":9,"text":"Какое резюме и какие вопросы зададим?","textPreview":"Какое резюме и какие вопросы зададим?","textChars":37,"textLines":1,"bbox":[714,487,510,42]}
+{"kind":"shape","id":"sh/vyporqtk","slide":9,"name":"rule","bbox":[714,540,510,1]}
+{"kind":"shape","id":"sh/5srqhkv2","slide":9,"name":"lesson-tip","bbox":[48,590,1184,38]}
+{"kind":"textbox","id":"sh/k7ipofuh","slide":9,"text":"На каждом шаге давайте: действие → причина → влияние на клиента → пример формулировки.","textPreview":"На каждом шаге давайте: действие → причина → влияние на клиента → пример формулировки.","textChars":86,"textLines":1,"bbox":[72,599,1120,18]}
+{"kind":"shape","id":"sh/j698fadw","slide":9,"name":"rule","bbox":[48,654,1184,1]}
+{"kind":"textbox","id":"sh/i507m5cb","slide":9,"text":"Логика лекции помогает сотруднику понимать не только «что сказать», но и «зачем».","textPreview":"Логика лекции помогает сотруднику понимать не только «что сказать», но и «зачем».","textChars":81,"textLines":1,"bbox":[48,668,900,18]}
+{"kind":"notes","id":"nt/zqgtna","slide":9,"text":""}
+{"kind":"slide","id":"sl/yepf7x","slide":10,"title":"УПРАВЛЕНИЕ ВНИМАНИЕМ","textShapes":18}
+{"kind":"textbox","id":"sh/bal0rm9k","slide":10,"name":"section","text":"УПРАВЛЕНИЕ ВНИМАНИЕМ","textPreview":"УПРАВЛЕНИЕ ВНИМАНИЕМ","textChars":20,"textLines":1,"bbox":[48,38,260,20]}
+{"kind":"textbox","id":"sh/cbu1krq5","slide":10,"name":"slide-number","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1160,38,72,20]}
+{"kind":"shape","id":"sh/xc3itwrq","slide":10,"name":"rule","bbox":[48,67,1184,1]}
+{"kind":"textbox","id":"sh/ydcjm18b","slide":10,"name":"title","text":"Удерживаем внимание: визуализация + интонация","textPreview":"Удерживаем внимание: визуализация + интонация","textChars":45,"textLines":1,"bbox":[48,92,1080,80]}
+{"kind":"textbox","id":"sh/zel0v69w","slide":10,"name":"subtitle","text":"Показывайте связи на слайде, а детали и эмоциональные акценты передавайте голосом.","textPreview":"Показывайте связи на слайде, а детали и эмоциональные акценты передавайте голосом.","textChars":82,"textLines":1,"bbox":[48,179,820,44]}
+{"kind":"shape","id":"sh/kzu1obq1","slide":10,"name":"visualization-panel","bbox":[48,267,560,286]}
+{"kind":"textbox","id":"sh/l03ixgrm","slide":10,"text":"ВИЗУАЛИЗАЦИЯ","textPreview":"ВИЗУАЛИЗАЦИЯ","textChars":12,"textLines":1,"bbox":[76,296,290,24]}
+{"kind":"textbox","id":"sh/eh8zaxsr","slide":10,"text":"Показывайте структуру","textPreview":"Показывайте структуру","textChars":21,"textLines":1,"bbox":[76,337,390,30]}
+{"kind":"shape","id":"sh/fi10j29c","slide":10,"name":"bullet","bbox":[76,395,8,8]}
+{"kind":"textbox","id":"sh/ru5gb2hs","slide":10,"text":"Фиксируйте главное, детали — голосом","textPreview":"Фиксируйте главное, детали — голосом","textChars":36,"textLines":1,"bbox":[96,387,450,28]}
+{"kind":"shape","id":"sh/69wfix0n","slide":10,"name":"bullet","bbox":[76,431,8,8]}
+{"kind":"textbox","id":"sh/tw7ydczy","slide":10,"text":"Алгоритмы показывайте схемой","textPreview":"Алгоритмы показывайте схемой","textChars":28,"textLines":1,"bbox":[96,423,450,28]}
+{"kind":"shape","id":"sh/svyxk7id","slide":10,"name":"bullet","bbox":[76,467,8,8]}
+{"kind":"textbox","id":"sh/j65w72hw","slide":10,"text":"Используйте опорные фразы-шаблоны","textPreview":"Используйте опорные фразы-шаблоны","textChars":33,"textLines":1,"bbox":[96,459,450,28]}
+{"kind":"shape","id":"sh/i5wfex0b","slide":10,"name":"bullet","bbox":[76,503,8,8]}
+{"kind":"textbox","id":"sh/58ne9cz2","slide":10,"text":"Систематизируйте информацию","textPreview":"Систематизируйте информацию","textChars":27,"textLines":1,"bbox":[96,495,450,28]}
+{"kind":"shape","id":"sh/47exg7ih","slide":10,"name":"intonation-panel","bbox":[664,267,568,286]}
+{"kind":"textbox","id":"sh/v2lw3ih0","slide":10,"text":"ИНТОНАЦИЯ","textPreview":"ИНТОНАЦИЯ","textChars":9,"textLines":1,"bbox":[692,296,260,24]}
+{"kind":"textbox","id":"sh/a1cfad0f","slide":10,"text":"Делайте речь живой","textPreview":"Делайте речь живой","textChars":18,"textLines":1,"bbox":[692,337,420,30]}
+{"kind":"shape","id":"sh/yxcfmdk7","slide":10,"name":"bullet","bbox":[692,395,8,8]}
+{"kind":"textbox","id":"sh/zylgvils","slide":10,"text":"Логическое ударение","textPreview":"Логическое ударение","textChars":19,"textLines":1,"bbox":[712,387,450,28]}
+{"kind":"shape","id":"sh/0zuxon2d","slide":10,"name":"bullet","bbox":[692,431,8,8]}
+{"kind":"textbox","id":"sh/l03yxs3y","slide":10,"text":"Пауза между смыслами","textPreview":"Пауза между смыслами","textChars":20,"textLines":1,"bbox":[712,423,450,28]}
+{"kind":"shape","id":"sh/m1czqxk3","slide":10,"name":"bullet","bbox":[692,467,8,8]}
+{"kind":"textbox","id":"sh/n2lgz2lo","slide":10,"text":"Повышение / понижение тона","textPreview":"Повышение / понижение тона","textChars":26,"textLines":1,"bbox":[712,459,450,28]}
+{"kind":"shape","id":"sh/83ehs729","slide":10,"name":"bullet","bbox":[692,503,8,8]}
+{"kind":"textbox","id":"sh/94ny1s3u","slide":10,"text":"Изменение темпа и громкости","textPreview":"Изменение темпа и громкости","textChars":27,"textLines":1,"bbox":[712,495,450,28]}
+{"kind":"shape","id":"sh/a5wzuxkf","slide":10,"name":"attention-message","bbox":[48,584,1184,42]}
+{"kind":"textbox","id":"sh/v65g32l0","slide":10,"text":"То, что можно представить схемой или таблицей, — представляйте визуально.","textPreview":"То, что можно представить схемой или таблицей, — представляйте визуально.","textChars":73,"textLines":1,"bbox":[72,595,1120,18]}
+{"kind":"shape","id":"sh/5cra90re","slide":10,"name":"rule","bbox":[48,654,1184,1]}
+{"kind":"textbox","id":"sh/4bi9gvqt","slide":10,"text":"Визуализация активизирует внимание, помогает восприятию и запоминанию.","textPreview":"Визуализация активизирует внимание, помогает восприятию и запоминанию.","textChars":70,"textLines":1,"bbox":[48,668,900,18]}
+{"kind":"notes","id":"nt/yepf7x","slide":10,"text":""}
+{"kind":"slide","id":"sl/mgvirj","slide":11,"title":"УПРАВЛЕНИЕ ВНИМАНИЕМ","textShapes":18}
+{"kind":"textbox","id":"sh/dgryd0rq","slide":11,"name":"section","text":"УПРАВЛЕНИЕ ВНИМАНИЕМ","textPreview":"УПРАВЛЕНИЕ ВНИМАНИЕМ","textChars":20,"textLines":1,"bbox":[48,38,260,20]}
+{"kind":"textbox","id":"sh/qd0filsf","slide":11,"name":"slide-number","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1160,38,72,20]}
+{"kind":"shape","id":"sh/re9gbq90","slide":11,"name":"rule","bbox":[48,67,1184,1]}
+{"kind":"textbox","id":"sh/4rixgba9","slide":11,"name":"title","text":"Проверяем понимание, а не только слушание","textPreview":"Проверяем понимание, а не только слушание","textChars":41,"textLines":1,"bbox":[48,92,1080,80]}
+{"kind":"textbox","id":"sh/pcry9gru","slide":11,"name":"subtitle","text":"Вопросы помогают сотруднику воспроизвести материал, увидеть смысл и перенести алгоритм в работу.","textPreview":"Вопросы помогают сотруднику воспроизвести материал, увидеть смысл и перенести алгоритм в работу.","textChars":96,"textLines":1,"bbox":[48,179,820,44]}
+{"kind":"shape","id":"sh/2pgfels3","slide":11,"name":"question-row","bbox":[48,255,1184,64]}
+{"kind":"textbox","id":"sh/3qpg7qto","slide":11,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[72,275,48,22]}
+{"kind":"textbox","id":"sh/o72hsfad","slide":11,"text":"О содержании","textPreview":"О содержании","textChars":12,"textLines":1,"bbox":[154,272,315,26]}
+{"kind":"textbox","id":"sh/98bylkry","slide":11,"text":"«Что означает…?»  «Из чего состоит…?»","textPreview":"«Что означает…?»  «Из чего состоит…?»","textChars":37,"textLines":1,"bbox":[492,273,680,24]}
+{"kind":"shape","id":"sh/tcvi14ru","slide":11,"name":"question-row","bbox":[48,337,1184,64]}
+{"kind":"textbox","id":"sh/8bmhsja9","slide":11,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[72,357,48,22]}
+{"kind":"textbox","id":"sh/7ad0ze94","slide":11,"text":"О цели и применении","textPreview":"О цели и применении","textChars":19,"textLines":1,"bbox":[154,354,315,26]}
+{"kind":"textbox","id":"sh/694zq9sj","slide":11,"text":"«Для чего нужно…?»  «Что будет, если этого не сделать?»","textPreview":"«Для чего нужно…?»  «Что будет, если этого не сделать?»","textChars":55,"textLines":1,"bbox":[492,355,680,24]}
+{"kind":"shape","id":"sh/l8vix4ry","slide":11,"name":"question-row","bbox":[48,419,1184,64]}
+{"kind":"textbox","id":"sh/k7mhozad","slide":11,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[72,439,48,22]}
+{"kind":"textbox","id":"sh/j6tgvu9s","slide":11,"text":"О вариативности","textPreview":"О вариативности","textChars":15,"textLines":1,"bbox":[154,436,315,26]}
+{"kind":"textbox","id":"sh/y5kzmps7","slide":11,"text":"«Что предпримешь, если…?»  «В какой ситуации применишь…?»","textPreview":"«Что предпримешь, если…?»  «В какой ситуации применишь…?»","textChars":57,"textLines":1,"bbox":[492,437,680,24]}
+{"kind":"shape","id":"sh/p4fi9or2","slide":11,"name":"question-row","bbox":[48,501,1184,64]}
+{"kind":"textbox","id":"sh/436h03ah","slide":11,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[72,521,48,22]}
+{"kind":"textbox","id":"sh/ojytsrm5","slide":11,"text":"О контроле","textPreview":"О контроле","textChars":10,"textLines":1,"bbox":[154,518,315,26]}
+{"kind":"textbox","id":"sh/9k7alw3q","slide":11,"text":"«Как поймёшь, что применил успешно?»","textPreview":"«Как поймёшь, что применил успешно?»","textChars":36,"textLines":1,"bbox":[492,519,680,24]}
+{"kind":"shape","id":"sh/mhgbq14z","slide":11,"name":"questions-tip","bbox":[48,600,1184,30]}
+{"kind":"textbox","id":"sh/nipsjmlk","slide":11,"text":"Не спрашивайте «всё понятно?» — попросите сотрудника объяснить, выбрать действие или спрогнозировать результат.","textPreview":"Не спрашивайте «всё понятно?» — попросите сотрудника объяснить, выбрать действие или спрогнозировать результат.","textChars":111,"textLines":1,"bbox":[72,607,1120,16]}
+{"kind":"shape","id":"sh/0fytormt","slide":11,"name":"rule","bbox":[48,654,1184,1]}
+{"kind":"textbox","id":"sh/1g7ahw3e","slide":11,"text":"Хороший вопрос проверяет понимание через действие и причинно-следственную связь.","textPreview":"Хороший вопрос проверяет понимание через действие и причинно-следственную связь.","textChars":80,"textLines":1,"bbox":[48,668,900,18]}
+{"kind":"notes","id":"nt/mgvirj","slide":11,"text":""}
+{"kind":"slide","id":"sl/xl3tay","slide":12,"title":"ПРАКТИКА","textShapes":23}
+{"kind":"textbox","id":"sh/dojax43q","slide":12,"name":"section","text":"ПРАКТИКА","textPreview":"ПРАКТИКА","textChars":8,"textLines":1,"bbox":[48,38,260,20]}
+{"kind":"textbox","id":"sh/qlsbm94z","slide":12,"name":"slide-number","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1160,38,72,20]}
+{"kind":"shape","id":"sh/rm1svelk","slide":12,"name":"rule","bbox":[48,67,1184,1]}
+{"kind":"textbox","id":"sh/0rutsjm1","slide":12,"name":"closing-title","text":"Соберите свою\nобучающую встречу","textPreview":"Соберите свою | обучающую встречу","textChars":31,"textLines":2,"bbox":[48,151,650,128]}
+{"kind":"textbox","id":"sh/1s3u1o3m","slide":12,"text":"Используйте алгоритм как рабочий сценарий —\nи закрепите навык в реальной деятельности сотрудника.","textPreview":"Используйте алгоритм как рабочий сценарий — | и закрепите навык в реальной деятельности сотрудника.","textChars":97,"textLines":2,"bbox":[52,308,612,56]}
+{"kind":"textbox","id":"sh/epsbq94v","slide":12,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[52,402,28,20]}
+{"kind":"textbox","id":"sh/fqlczelg","slide":12,"text":"Выберите","textPreview":"Выберите","textChars":8,"textLines":1,"bbox":[96,400,172,24]}
+{"kind":"textbox","id":"sh/ofutwjmd","slide":12,"text":"один дефицитный блок","textPreview":"один дефицитный блок","textChars":20,"textLines":1,"bbox":[278,400,310,24]}
+{"kind":"textbox","id":"sh/pg3u5o3i","slide":12,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[52,456,28,20]}
+{"kind":"textbox","id":"sh/t8zedgf2","slide":12,"text":"Сформулируйте","textPreview":"Сформулируйте","textChars":13,"textLines":1,"bbox":[96,454,172,24]}
+{"kind":"textbox","id":"sh/87qd4beh","slide":12,"text":"цель и критерии","textPreview":"цель и критерии","textChars":15,"textLines":1,"bbox":[278,454,310,24]}
+{"kind":"textbox","id":"sh/76hwb6xc","slide":12,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[52,510,28,20]}
+{"kind":"textbox","id":"sh/658v2lwr","slide":12,"text":"Подготовьте","textPreview":"Подготовьте","textChars":11,"textLines":1,"bbox":[96,508,172,24]}
+{"kind":"textbox","id":"sh/hcjeh0fe","slide":12,"text":"лекцию по конструктору","textPreview":"лекцию по конструктору","textChars":22,"textLines":1,"bbox":[278,508,310,24]}
+{"kind":"textbox","id":"sh/gbax8vet","slide":12,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[52,564,28,20]}
+{"kind":"textbox","id":"sh/va1wfqx8","slide":12,"text":"Проведите","textPreview":"Проведите","textChars":9,"textLines":1,"bbox":[96,562,172,24]}
+{"kind":"textbox","id":"sh/u98f6lwn","slide":12,"text":"практику и обратную связь","textPreview":"практику и обратную связь","textChars":25,"textLines":1,"bbox":[278,562,310,24]}
+{"kind":"shape","id":"sh/xgfe5wfu","slide":12,"name":"closing-panel","bbox":[760,151,430,406]}
+{"kind":"textbox","id":"sh/wf6dwrep","slide":12,"text":"РАБОЧАЯ\nФОРМУЛА","textPreview":"РАБОЧАЯ | ФОРМУЛА","textChars":15,"textLines":2,"bbox":[800,190,260,54]}
+{"kind":"textbox","id":"sh/ozadcb65","slide":12,"text":"Расскажу","textPreview":"Расскажу","textChars":8,"textLines":1,"bbox":[800,290,256,32]}
+{"kind":"textbox","id":"sh/p0jelwnq","slide":12,"text":"Покажу","textPreview":"Покажу","textChars":6,"textLines":1,"bbox":[800,340,256,32]}
+{"kind":"textbox","id":"sh/2xsva1of","slide":12,"text":"Сделаем вместе","textPreview":"Сделаем вместе","textChars":14,"textLines":1,"bbox":[800,390,320,32]}
+{"kind":"textbox","id":"sh/ny1wj650","slide":12,"text":"Сделай сам","textPreview":"Сделай сам","textChars":10,"textLines":1,"bbox":[800,440,260,32]}
+{"kind":"textbox","id":"sh/cnaxgbmh","slide":12,"text":"→ закрепляем в реальной работе","textPreview":"→ закрепляем в реальной работе","textChars":30,"textLines":1,"bbox":[800,500,310,24]}
+{"kind":"shape","id":"sh/xo3epgn2","slide":12,"name":"rule","bbox":[48,654,1184,1]}
+{"kind":"textbox","id":"sh/alsfe14b","slide":12,"text":"Главный результат обучения — сотрудник применяет нужное действие без подсказок.","textPreview":"Главный результат обучения — сотрудник применяет нужное действие без подсказок.","textChars":79,"textLines":1,"bbox":[48,668,900,18]}
+{"kind":"notes","id":"nt/xl3tay","slide":12,"text":""}
